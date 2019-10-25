@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Swingjugend &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swingjugend/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:42 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg Hochburg des Swing</title>
+		<link>http://www.hopit.de/2014/02/hamburg-hochburg-des-swing/</link>
+				<pubDate>Wed, 26 Feb 2014 10:10:53 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[alsterpavillon]]></category>
+		<category><![CDATA[Swingboys]]></category>
+		<category><![CDATA[Swingjugend]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4811</guid>
+				<description><![CDATA[Schaut, ein schöner Beitrag über die Swing Boys im Hamburg der 1930er Jahre bei der Deutschen Welle: http://dw.de/p/19Zss]]></description>
+									</item>
+		<item>
+		<title>Swingjugend &#8211; Jugendopposition Im Nationalsozialismus</title>
+		<link>http://www.hopit.de/2012/05/swingjugend-jugendopposition-im-nationalsozialismus/</link>
+				<pubDate>Wed, 09 May 2012 11:17:11 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[gschichte]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[Swingjugend]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3985</guid>
+				<description><![CDATA[Hier ein schöner Mitschnitt aus dem GOLEM vom 06.05.2012:  Jugendopposition Im Nationalsozialismus – Leipziger Meuten, Jungkommunistinnen, Swingjugend. [soundcloud url=&#8220;https://api.soundcloud.com/tracks/45576705&#8243; params=&#8220;show_artwork=true&#38;oauth_token=1-16343-515350-8afb0f14c469d2c34&#8243; width=&#8220;100%&#8220; height=&#8220;166&#8243; iframe=&#8220;true&#8220; /] Eine Veranstaltung von Kritikmaximierung Hamburg &#38; Die Untüchtigen in Zusammenarbeit mit der Swingwerkstatt Hamburg Auch wenn die Mehrheit der deutschen Jugendlichen begeistert bei den Hitlerjungen und dem Bund Deutscher Mädel mitmachten, [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>HH: &#8222;Swing Jugend let&#8217;s dance&#8220; hüppt ins TV</title>
+		<link>http://www.hopit.de/2011/05/hh-swing-jugend-lets-dance-huppt-ins-tv/</link>
+				<pubDate>Tue, 03 May 2011 11:42:10 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[crashkurs]]></category>
+		<category><![CDATA[mandalay]]></category>
+		<category><![CDATA[Swingjugend]]></category>
+		<category><![CDATA[Swingy the Kid]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2686</guid>
+				<description><![CDATA[Anbei ein Hinweis für die Swingtanz Veranstaltungen im Mandalay von Swingy the Kid: Hallo meine lieben Freunde der Lindy Hop Szene (Hamburg), ich habe gestern die Bestätigung vom NDR &#8211; Nordtour bekommen, dass am 4.5. ein Team vorbeikommt um die &#8222;Swing Jugend let´s dance&#8220; Veranstaltung zu filmen. Es wird ein Bericht über die Hamburger Lindy [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

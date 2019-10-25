@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tu hamburg &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tu-hamburg/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 16 Feb 2010 16:44:25 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>SwingING &#8211; Semster Abschlußkonzert der TUHH</title>
+		<link>http://www.hopit.de/2010/02/swinging-semster-abschluskonzert/</link>
+				<pubDate>Tue, 02 Feb 2010 15:06:56 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[big band]]></category>
+		<category><![CDATA[konzert]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tu hamburg]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1286</guid>
+				<description><![CDATA[Es ist ist wieder soweit! Am 8. Februar steigt das diesjährige Semesterabschlusskonzert der TUHH BigBand unter dem Motto Harburg goes Swing and Latin. Ich war letztes Jahr schon dort und kanns nur empfehlen &#8211; ist sehr tanzbar! 20.00 Uhr, TUHH, Audimax I, Schwarzenbergstraße 95 http://www.tuhh.de/gomusic/bigband]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nie wieder &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/nie-wieder/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 04 Oct 2010 15:15:00 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Super, Normal, Bleifrei und Diesel&#8230;</title>
+		<link>http://www.hopit.de/2010/10/super-normal-bleifrei-und-diesel/</link>
+				<pubDate>Mon, 04 Oct 2010 15:13:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[nie wieder]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1868</guid>
+				<description><![CDATA[Ok, das hier ist echt nur für die ganz Harten &#8211; mein Geständnis: Ja &#8211; ich habe aufm Boogie-Woogie Dancefloor getanzt, Ja &#8211; der Boogie Bären DJ hat aufgelegt, Ja &#8211; er hat Tankstell&#8216; Fee gespielt: http://www.youtube.com/watch?v=vw-JYuM47Pk Aber es war spät und ich wollte den letzten Tanz! Ahhhrrgg..]]></description>
+									</item>
+	</channel>
+</rss>

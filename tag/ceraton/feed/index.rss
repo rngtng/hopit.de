@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ceraton &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ceraton/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:51:13 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ohrenschmaus: neuer Swingin&#8216; Swanee Sampler</title>
+		<link>http://www.hopit.de/2011/08/ohrenschmaus/</link>
+				<pubDate>Mon, 01 Aug 2011 10:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[ceraton]]></category>
+		<category><![CDATA[günter discher]]></category>
+		<category><![CDATA[Swingin' Swanee]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3037</guid>
+				<description><![CDATA[Der neue Sampler von Swingin`Swanee ist da! Die CD ist eine Sammlung klassischer, tanzgeprüfter(!) mid-tempo Swingsongs (120 &#8211; 192 bpm). Mit dabei sind u.a. Nellie Lutcher &#8222;Fine Brown Frame&#8220;, Kate Smith &#8222;Sixteen Tons&#8220;, Gene Sedric &#8222;The Joint is Jumpin'&#8220;. Insgesamt finden sich 18 Titel auf der CD. Sehr schön: im CD-Cover sind alle Titel mit Tempoangaben versehen. Seit [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Break A Lick Cooperation &#8211; Electro Swing aus Berlin</title>
+		<link>http://www.hopit.de/2010/11/break-a-lick-cooperation-electro-swing-aus-berlin/</link>
+				<pubDate>Fri, 12 Nov 2010 10:33:35 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Break a lick]]></category>
+		<category><![CDATA[ceraton]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Swingin' Swanee]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2085</guid>
+				<description><![CDATA[Ach, das Internet rockt: hab gerade einen schönen Kommentar von Hotkoffer zum White-Mink Artikel bekommen. Hotkoffer bzw. das dahinter steckende Hamburger Label Ceraton kennt ihr schon von den schönen Swingin&#8216; Swanee Swing Samplern oder Günter Discher Hotkoffer Podcast (leider offline!?). Jedoch muss ich wohl auf der &#8222;That&#8217;s Rythm&#8220; Scheibe *komplett* ein spitzen Electro-Swing Track überhört [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cafe &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/cafe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:35:18 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hepcats&#8216; Corner &#8211; Swing Cafe in Kreuz-kölln</title>
+		<link>http://www.hopit.de/2014/03/hepcats-corner-swing-cafe-in-kreuz-koelln/</link>
+				<pubDate>Wed, 19 Mar 2014 11:32:40 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[bar]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[cafe]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4821</guid>
+				<description><![CDATA[Ui: &#8218;Hepcats&#8216; Corner&#8216; &#8211; ein neues Cafe/Restaurant/Bar in Berlin und zwar ganz dem Swing(Tanz) gewidmet, tief in Kreuz-kölln, Schinkestr. 14 /Ecke Hobrechtstr. gelegen. Jeden Samstag gibt&#8217;s einen Swingtanzkurs, einmal im Monat Livemusik und Stummfilm Kino. Hingehen! http://hepcatscorner.de]]></description>
+									</item>
+		<item>
+		<title>Berlin: Tanzcafé im Kino Union, Friedrichshagen</title>
+		<link>http://www.hopit.de/2011/10/berlin-tanzcafe-im-kino-union-friedrichshagen/</link>
+				<pubDate>Sat, 01 Oct 2011 12:47:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[cafe]]></category>
+		<category><![CDATA[kino union]]></category>
+		<category><![CDATA[tanzen]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3226</guid>
+				<description><![CDATA[Auf zum Tanzcafé im Kino Union! Aus dem Newsletter: Die Reihe Tanzcafé startet wieder! Wie gewohnt verwöhnt DJ Grammophon mit besten tanzbaren musikalischen Highlights &#8211; vom Swing über Boogie, bis Rock&#8217;n&#8217;Roll &#8211; aber auch Standardtänzen wie Foxtrott oder Cha Cha. Je nach Schwerpunkt gibt es dann für das Publikum auch noch Überraschungseinlagen &#8211; Mini-Workshops, Filmclips, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

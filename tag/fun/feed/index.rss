@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fun &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/fun/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:46 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>How to win a Dance Battle</title>
+		<link>http://www.hopit.de/2014/11/how-to-win-a-dance-battle/</link>
+				<pubDate>Sun, 30 Nov 2014 15:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[presentation]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4917</guid>
+				<description><![CDATA[Ich hab kürzlich einen Vortrag gegeben über: `How to win a Dance Battle`. Hier die Slides und meine Recherche Notes. Viel Spaß und Erfolg aufm Dancefloor 😉 How To Win Dance Battle Did I ever won a dance battle ? &#8211; Disclamer: I never did Did I ever took part at a dance battle ? [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Swingin&#8216; Traktor&#8230;</title>
+		<link>http://www.hopit.de/2011/07/swingin-traktor/</link>
+				<pubDate>Tue, 05 Jul 2011 15:17:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[traktor]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2979</guid>
+				<description><![CDATA[[via FB, Rumpel Stilzchen]]]></description>
+									</item>
+		<item>
+		<title>Berlin Swing Dance Exchange &#8211; BSDX 2011</title>
+		<link>http://www.hopit.de/2011/05/berlin-swing-dance-exchange-bsdx-2011/</link>
+				<pubDate>Tue, 03 May 2011 15:13:25 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[lindy hop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2671</guid>
+				<description><![CDATA[UPDATE: Uhrgs, ich seh gerade die Party am Samstag alleine kostet 30EUR( Dreißig !!!)). Das find ich mal eindeutig zuviel. Das ist weder der Ort noch die Band Wert. Sorry. Juhu, am Wochenende ist es endlich soweit. Das (erste?) Swing Dance Exchange Happening in Berlin &#8211; yay! 3 Tage Parties an vielen unbetanzten Orten und [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Gute Tänzer, Schlechte Tänzer</title>
+		<link>http://www.hopit.de/2010/09/gute-tanzer-schlechte-tanzer/</link>
+				<pubDate>Thu, 09 Sep 2010 08:07:35 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[tanzverhalten]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1777</guid>
+				<description><![CDATA[René hat &#8217;ne schöne Studie über das Tanzverahalten von Männer gefunden. Pflichtlektüre für jeden der die wahren Killerm oves kenn will. Haha&#8230; Psychologists have used avatars to pinpoint the killer moves that can make men great dancers Ohje, also mal Demo Video anschauen und Artikel lesen: http://www.guardian.co.uk/science/2010/sep/08/psychologists-killer-dance-moves-men]]></description>
+									</item>
+	</channel>
+</rss>

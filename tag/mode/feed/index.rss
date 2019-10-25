@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mode &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/mode/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 21:07:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Bow Time &#8211; Schicke hangemachte Fliegen aus Berlin</title>
+		<link>http://www.hopit.de/2015/03/bow-time-schicke-hangemachte-fliegen-aus-berlin/</link>
+				<pubDate>Thu, 05 Mar 2015 13:43:59 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[fliege]]></category>
+		<category><![CDATA[mode]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=5142</guid>
+				<description><![CDATA[Noch eine schicke Fliege für den nächsten Tanz nötig? Dann schau mal in diesem Dawanda Shop vorbei. Alles aus Berlin und handgemacht: http://de.dawanda.com/shop/BOW-TIME BOW TIME is a brand of exclusive bow ties. Each tie is handmade product by our team in Berlin. Welcome! [via Sal]]]></description>
+									</item>
+		<item>
+		<title>Hut Styler</title>
+		<link>http://www.hopit.de/2013/01/hut-styler/</link>
+				<pubDate>Sat, 05 Jan 2013 17:45:02 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[huy]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[style]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4414</guid>
+				<description><![CDATA[Neues Jahr, neuer Hut? Im Alexa Berlin findet ihr zwei Verkaufsstände von Hut-Styler. Fals der Weg dahin zu weit ist, gibt&#8217;s auch online: http://www.hut-styler.de]]></description>
+									</item>
+		<item>
+		<title>Köln: Sternstunden des Glamour</title>
+		<link>http://www.hopit.de/2011/02/sternstunden-des-glamour/</link>
+				<pubDate>Wed, 02 Feb 2011 20:27:13 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[30er]]></category>
+		<category><![CDATA[ausstellung]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[mode]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2351</guid>
+				<description><![CDATA[In Köln findet im Museum Ludwig seit dem 2. Februar 2011 eine Ausstellung über Modefotografie des 20. Jahrhunderts statt. Dort sind offenbar viele Werke aus den 30er und 40er Jahren zu bewundern. Weitere Informationen findet ihr auf der Website der Ausstellung unter http://www.museenkoeln.de/museum-ludwig/default.asp?s=3342]]></description>
+									</item>
+		<item>
+		<title>Herr von Eden Super Sale!</title>
+		<link>http://www.hopit.de/2010/03/herr-von-eden-super-sale/</link>
+				<pubDate>Tue, 16 Mar 2010 13:41:12 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[herr von eden]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[sale]]></category>
+		<category><![CDATA[schnäppchen]]></category>
+		<category><![CDATA[verkauf]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1446</guid>
+				<description><![CDATA[Es ist mal wieder soweit: Herr von Eden haut wieder seine Prachtmode mit bis zu 70% Rabatt raus! Hin gehn, abstauben und gut aussehn! A fine collection of the latest autumn/winter pieces and HvE-Classics. Up to 70% off. If you buy a suit &#8211; free entry for the Visual Leader 2010 exhibition at the deichtorhallen [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>The Sartorialist &#8211; Mode &#038; Style von der Strasse</title>
+		<link>http://www.hopit.de/2009/09/the-sartorialist-mode-style-von-der-strasse/</link>
+				<pubDate>Fri, 04 Sep 2009 00:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[frisur]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=774</guid>
+				<description><![CDATA[Heute hat ein guter Freund von mir Geburtstag, glaub das gefällt ihm: Der Blog The Sartorialist hat viele schöne Fotos von Menschen in schicke, ausgefallene und stylische Klamotten tragen. Von Damals bis Heute von streng bis verrückt und bunt. Meistens auf den Strassen New Yorks spontan fotografiert. Besonders gut gefallen mir diese Bilder, wohl an [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Super Sale von Herr von Eden im Kunstverein</title>
+		<link>http://www.hopit.de/2009/09/super-sale-von-herr-von-eden-im-kunstverein/</link>
+				<pubDate>Thu, 03 Sep 2009 11:06:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[angebot]]></category>
+		<category><![CDATA[ausverkauf]]></category>
+		<category><![CDATA[herr von eden]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=769</guid>
+				<description><![CDATA[Das Hamburger Modelabel [qype id=&#8220;106955&#8243;] veranstaltet am Samstag wieder einen Super Sale, dieses Jahr erstmalig in den Räumen des [qype id=&#8220;287945&#8243;]. Die Höhepunkte der vergangenen Kollektionen können zu sensationellen Sonderpreisen erstanden werden. Der Besuch der Ausstellungen ist an diesem Tag kostenfrei. www.herrvoneden.com www.kunstverein.de]]></description>
+									</item>
+	</channel>
+</rss>

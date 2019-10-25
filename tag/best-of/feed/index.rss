@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>best of &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/best-of/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Nina, Tommy &#038; Allen: Blue Drag Sinnerman as long as you live</title>
+		<link>http://www.hopit.de/2011/11/nina-tommy-allen-blue-drag-sinnerman-as-long-as-you-live/</link>
+				<pubDate>Sun, 06 Nov 2011 14:49:49 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[best of]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3312</guid>
+				<description><![CDATA[Weil &#8217;s so schön war: hier die Musiktipps von der Murders in Stero Verlosung: Von Vanessa: &#8211; Tommy Dorsey &#038; The Clambake 7 &#8211; As Long As You Live http://www.youtube.com/watch?v=GtRboqWYccU Von Rüdiger &#8211; Allen Toussaint &#8211; Blue Drag Von Gwendolyn &#8211; Nina Simone &#8211; Sinnerman]]></description>
+									</item>
+		<item>
+		<title>That Swing Sound for Dummies &#8211; Best of Electro Swing</title>
+		<link>http://www.hopit.de/2010/10/that-swing-sound-for-dummies-best-of-electro-swing/</link>
+				<pubDate>Tue, 19 Oct 2010 08:27:07 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[best of]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[soundcloud]]></category>
+		<category><![CDATA[tavo]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2006</guid>
+				<description><![CDATA[Ok, mittlerweile gibt&#8217;s Electro-Swing Mixes wie Sand am Meer, aber diesen hier von Tavo muss ich doch nochmal erwähnen. So eine schöne Song Auswahl und perfekte Transitions, da ist Alles drin was man kennen soll, muss man hörn: 70 years of history behind the new Electronic Swing Movement! This set is a trip from 85 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

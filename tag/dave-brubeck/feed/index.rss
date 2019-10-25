@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dave Brubeck &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/dave-brubeck/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Dave Brubeck wird heute 90 Jahre alt&#8230;</title>
+		<link>http://www.hopit.de/2010/12/dave-brubeck-wird-heute-90-jahre-alt/</link>
+				<pubDate>Mon, 06 Dec 2010 14:45:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Dave Brubeck]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[take five]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2196</guid>
+				<description><![CDATA[Happy Birthday Dave Brubeck&#8211; Take High Five! Wer schon immer mal wissen wollte wie man auf Take Five tanzt, hier die Anleitung von Lloyd: &#8230; und mehr zu Dave: http://www.zeit.de/kultur/musik/2010-12/dave-brubeck-90 http://www.tagesschau.de/ausland/brubeck102.html]]></description>
+									</item>
+	</channel>
+</rss>

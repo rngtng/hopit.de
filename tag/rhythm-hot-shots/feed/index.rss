@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rhythm hot shots &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/rhythm-hot-shots/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:33 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Rhythm Hot Shots do Lindy Hop anno 1994</title>
+		<link>http://www.hopit.de/2010/04/rhythm-hot-shots-do-lindy-hop-anno-1994/</link>
+				<pubDate>Tue, 20 Apr 2010 14:04:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[harlem hot shots]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[rhythm hot shots]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1540</guid>
+				<description><![CDATA[Hier &#8217;n kleiner Clip aus 1994. Die Rhythm Hot Shots (heute Harlem Hot Shots) tanzen ne schicke Whiteys Style Routine zu Ehren Frankie Mannings 80. Geburtstag. Sehr Hellzapoppin like, viel Aerials und fantatischen Klamotten! Und Lennart tanzt! Nice! Gefunden hier]]></description>
+									</item>
+	</channel>
+</rss>

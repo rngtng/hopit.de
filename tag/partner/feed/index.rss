@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>partner &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/partner/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:34:41 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Authentic Jazz und 1920&#8217;s Partner Charleston Kurse ab Oktober im Billies</title>
+		<link>http://www.hopit.de/2011/09/hamburg-authentic-jazz-und-1920s-partner-charleston-kurse-ab-oktober-im-billies/</link>
+				<pubDate>Sat, 24 Sep 2011 16:39:37 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[Authentic Jazz]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[kurs]]></category>
+		<category><![CDATA[partner]]></category>
+		<category><![CDATA[solo]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3195</guid>
+				<description><![CDATA[Schicket Ding: &#8230; und wie dat genau geht, zeigen Meike &#38; Lars ab Oktober in den Kursen Authentic Jazz und 1920s-PartnerCharleston: Authentic Jazz mit Meike Beginner (Basic Steps) und Intermediate-Adv.-Level (The Big Apple-Routine), jeweils alle 4 Wochen donnerstags um 20.30Uhr im Billies 1920-Partnercharleston Beginner mit Meike &#38; Lena und Intermediate-Adv.-Level mit Meike &#38; Lars jeweils [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

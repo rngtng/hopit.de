@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>zeitzeuge &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/zeitzeuge/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:51:17 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Podcast: Swing-Kids in den 30er &#8211; Uwe Storjohann berichtet&#8230;</title>
+		<link>http://www.hopit.de/2011/08/podcast-swing-kids-in-den-30er-uwe-storjohann-berichtet/</link>
+				<pubDate>Wed, 24 Aug 2011 14:13:40 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[erzählung]]></category>
+		<category><![CDATA[früher]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[swing kids]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[zeitzeuge]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2090</guid>
+				<description><![CDATA[Hier ein schöner Podcast über die Swing-Kids aus den 1930er Jahren in Deutschland. Zeitzeuge Uwe Storjohann berichtet seine interessante Erfahrungen und erzählt Geschichten wie der Tanz und die Szene zu seiner Zeit war. Unglaublich mit welchen &#8218;Tricks&#8216; man das Verbot umgangen ist und geheim getanzt hat. Sehr hörenswert &#8211; hier Anhören bzw. Downloaden]]></description>
+									</item>
+	</channel>
+</rss>

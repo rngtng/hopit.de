@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>top shelf &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/top-shelf/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:38 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: 1 Jahr Club Hot Cha mit DJ T-INA Darling &#038; Top Shelf Jazz im 3 Schwestern</title>
+		<link>http://www.hopit.de/2011/09/berlin-1-jahr-club-hot-cha-mit-dj-t-ina-darling-top-shelf-jazz-im-3-schwestern/</link>
+				<pubDate>Thu, 01 Sep 2011 14:05:35 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[djt-ina]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[top shelf]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3159</guid>
+				<description><![CDATA[Am Sonntag gibt es gleich zwei Gründe, im 3 Schwestern zu swingen – es wird nicht nur das einjährige Bestehen der Ballroom-Reihe Club Hot Cha mit DJ T-INA Darling gefeiert, sondern die Britische Filthy Swing-Band TOP SHELF JAZZ beglückt mit einem Zusatzkonzert! Hin gehen! http://3schwestern-berlin.de/?p=765]]></description>
+									</item>
+	</channel>
+</rss>

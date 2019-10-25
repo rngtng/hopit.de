@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>taz &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/taz/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:12 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>ELectro Swing in der TAZ</title>
+		<link>http://www.hopit.de/2011/06/electro-swing-in-der-taz/</link>
+				<pubDate>Wed, 08 Jun 2011 12:35:09 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[lesen]]></category>
+		<category><![CDATA[taz]]></category>
+		<category><![CDATA[zeitung]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2887</guid>
+				<description><![CDATA[Letzte Woche hat die Tageszeitung einen sehr interessanter Artikel über den neuen, aktuellen Electro-Swing-Hype veröffentlich, hier online lesen: http://www.taz.de/1/leben/musik/artikel/1/im-sog-der-zwanziger [bild von hier]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gschichte &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/gschichte/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:42 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swingjugend &#8211; Jugendopposition Im Nationalsozialismus</title>
+		<link>http://www.hopit.de/2012/05/swingjugend-jugendopposition-im-nationalsozialismus/</link>
+				<pubDate>Wed, 09 May 2012 11:17:11 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[gschichte]]></category>
+		<category><![CDATA[history]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[Swingjugend]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3985</guid>
+				<description><![CDATA[Hier ein schöner Mitschnitt aus dem GOLEM vom 06.05.2012:  Jugendopposition Im Nationalsozialismus – Leipziger Meuten, Jungkommunistinnen, Swingjugend. [soundcloud url=&#8220;https://api.soundcloud.com/tracks/45576705&#8243; params=&#8220;show_artwork=true&#38;oauth_token=1-16343-515350-8afb0f14c469d2c34&#8243; width=&#8220;100%&#8220; height=&#8220;166&#8243; iframe=&#8220;true&#8220; /] Eine Veranstaltung von Kritikmaximierung Hamburg &#38; Die Untüchtigen in Zusammenarbeit mit der Swingwerkstatt Hamburg Auch wenn die Mehrheit der deutschen Jugendlichen begeistert bei den Hitlerjungen und dem Bund Deutscher Mädel mitmachten, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

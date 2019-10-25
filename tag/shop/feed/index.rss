@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>shop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sat, 25 May 2013 14:12:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Memory &#8211; Vintage Shop &#038; Cafe</title>
+		<link>http://www.hopit.de/2013/06/memory-vintage-shop-cafe/</link>
+				<pubDate>Sun, 30 Jun 2013 13:31:34 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[belrin]]></category>
+		<category><![CDATA[shop]]></category>
+		<category><![CDATA[vintage]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3587</guid>
+				<description><![CDATA[Schöner Vintage shop in Berlin: http://www.slowtravelberlin.com/2011/04/20/memory-vintage-shop-cafe/]]></description>
+									</item>
+		<item>
+		<title>Hüte in Berlin</title>
+		<link>http://www.hopit.de/2013/05/hute-in-berlin/</link>
+				<pubDate>Fri, 31 May 2013 13:31:27 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[einkaufen]]></category>
+		<category><![CDATA[hut]]></category>
+		<category><![CDATA[shop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4228</guid>
+				<description><![CDATA[Hut für die nächste Party gesucht? Dann hier mal eine kleine Zusammenstellung: http://www.modekultur.info/index_de/hutmode-berlin]]></description>
+									</item>
+	</channel>
+</rss>

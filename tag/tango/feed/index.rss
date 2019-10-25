@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Tango &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tango/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:36:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Whisky Club Sessions</title>
+		<link>http://www.hopit.de/2011/06/hamburg-whisky-club-sessions/</link>
+				<pubDate>Thu, 16 Jun 2011 16:19:48 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[Tango]]></category>
+		<category><![CDATA[whisky]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2925</guid>
+				<description><![CDATA[Für kurz Entschlossene, die sich für die Schnittstellen von Blues-, Tango- und Swing begeistern, bietet sich heute Abend die Whisky Club Session an. Los geht es ab 21h30 in der Tangomatrix, beim Schlump 13a. Beim letzten mal war ich sehr angetan von dieser Mixtur. Tangotänzer probierten sich an Tripplesteps und Swingtänzer torpedierten den Tangotanzkreis. Alles [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Küchenmusik</title>
+		<link>http://www.hopit.de/2010/07/kuchenmusik/</link>
+				<pubDate>Sat, 31 Jul 2010 09:56:06 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tango]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1682</guid>
+				<description><![CDATA[Gerade enteckte ich die äußert amüsante Band Musik For The Kitchen. Neben eigenen Songs verswingtangieren die 4 Herren  mit Kontrabass, Kofferschlagzeug, Gitarre und Accordeon auch die ein oder andere bekannte Nummer.  Schaut Euch mal die Version von Killing in the Name of an. Ich wär ja mal gespannt, ob und wie sich headbangin und triple [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Neuer Hamburger Tanzblog: Tanz Michel</title>
+		<link>http://www.hopit.de/2009/08/neuer-hamburger-tanzblog-tanz-michel/</link>
+				<pubDate>Mon, 31 Aug 2009 16:50:59 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Irish]]></category>
+		<category><![CDATA[Latein]]></category>
+		<category><![CDATA[Salsa]]></category>
+		<category><![CDATA[Standard]]></category>
+		<category><![CDATA[swingtanz]]></category>
+		<category><![CDATA[Tango]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=731</guid>
+				<description><![CDATA[Neu in Hamburg: seit nun schon mehrere Wochen bietet Michael Pohle in seinem Blog Tanz-Michel ausführliche Informationen rund ums Tanzen in Hamburg an. Quasi DAS Hamburger Online-Magazin für alle Tänzer &#8211; ist nur so voll mit vielen Terminen, Videos und Fotos rund um Standard, Latein, Salsa, Tango, Irish und natürlich auch Swingtanz! http://www.tanz-michel.de/]]></description>
+									</item>
+	</channel>
+</rss>

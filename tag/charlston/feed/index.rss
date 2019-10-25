@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>charlston &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/charlston/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 26 Sep 2011 11:42:24 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: &#8222;I like to move it move it!&#8220; &#8211; Charleston/Lindyhop Workshop heute!</title>
+		<link>http://www.hopit.de/2011/09/berlin-i-like-to-move-it-move-it-charlestonlindyhop-workshop-heute/</link>
+				<pubDate>Mon, 26 Sep 2011 11:42:24 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[charlston]]></category>
+		<category><![CDATA[kurs]]></category>
+		<category><![CDATA[tanzen]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3220</guid>
+				<description><![CDATA[http://www.youtube.com/watch?v=34z5DGZMf_s Für Kurzentschlossene &#8211; heute Abend Tanzen mit Daniel: The next Charleston/Lindyhop Workshop will be on Monday 26.9 20:00-22:30. I have 1 or 2 spots still available for this course so if you have not already registered for a place, please write to me as soon as you can! This 2.5 hour course will be [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: Lindy Hop, Swing, Charleston Workshop mit Daniel Ludevig</title>
+		<link>http://www.hopit.de/2011/09/berlin-lindy-hop-swing-charleston-workshop-mit-daniel-ludevig/</link>
+				<pubDate>Wed, 07 Sep 2011 12:07:07 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[charlston]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3156</guid>
+				<description><![CDATA[Kleiner, feiner Workshop Tipp: Daniel Ludevig hält einen Lindy-hop/Swing/Charleston Workshop nächsten Mittwoch (14. September) von 19:45-22:15 Brandenburgische Str. 46 in Wilmersdorf; Workshop description: We will continue with lindy-hop and swing basics, feeling, musicality, tandem Charleston and jumps. Comfort with basic swing is required but the rest will be taught. If you love the feeling of [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

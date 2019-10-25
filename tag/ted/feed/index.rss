@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ted &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ted/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 16 Jan 2012 10:38:53 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Martynas Stonys and Egle Regelskis &#8211; A Couple Dance That Improves You</title>
+		<link>http://www.hopit.de/2012/01/martynas-stonys-and-egle-regelskis-a-couple-dance-that-improves-you/</link>
+				<pubDate>Mon, 16 Jan 2012 10:38:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[ted]]></category>
+		<category><![CDATA[vortrag]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3458</guid>
+				<description><![CDATA[Schöner kleiner Vortrag über Lindy Hop und dessen &#8218;Folgen&#8216; von Martynas and Egle aus Vilnius. Übrigens: das ist ein TedX Vortrag &#8211; falls ihr diese Reihe noch nicht kennt, dann schliesst euch min. einen Monat ein und geniesst: http://www.ted.com [via. swingdaily]]]></description>
+									</item>
+	</channel>
+</rss>

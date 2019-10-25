@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>paris &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/paris/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Harlem in Montmartre</title>
+		<link>http://www.hopit.de/2010/12/harlem-in-montmartre/</link>
+				<pubDate>Tue, 21 Dec 2010 22:58:37 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[montmartre]]></category>
+		<category><![CDATA[paris]]></category>
+		<category><![CDATA[Sidney Bechet]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2267</guid>
+				<description><![CDATA[Also, wo wir schon bei TV Berichten zum Swing und Jazz sind, darf meiner Ansicht nach auch dieser überaus sehenswerte Beitrag auf Arte nicht fehlen 🙂 Momentan kann die Sendung noch über Arte+7 angesehen werden. http://videos.arte.tv/de/videos/harlem_in_montmartre-3594920.html Ganz nebenbei gibts dort auch Hintergrundinfos über Sidney Bechet und andere Größen der Swingmusik. Danke Sandra für den Hinweis [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

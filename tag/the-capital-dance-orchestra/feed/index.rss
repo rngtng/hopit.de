@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Capital Dance Orchestra &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/the-capital-dance-orchestra/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:30:24 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The Capital Dance Orchestra live im Asphalt</title>
+		<link>http://www.hopit.de/2010/11/the-capital-dance-orchestra-live-im-asphalt/</link>
+				<pubDate>Tue, 30 Nov 2010 11:07:19 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[big band]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[The Capital Dance Orchester]]></category>
+		<category><![CDATA[The Capital Dance Orchestra]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2151</guid>
+				<description><![CDATA[Also ob am Mittwoch nicht schon los wäre, nun läd auch noch The Capital Dance Orchestra zum Tanz ins [qype id=&#8220;1619624&#8243;] ein: LIVE: T H E . C A P I T A L . D A N C E . O R C H E S T R A FEAT. S I M O [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

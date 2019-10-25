@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>explorer &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/explorer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 25 Jun 2013 09:27:12 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Every Noise at Once: Swing Musik &#038; Artist ohne Ende&#8230;</title>
+		<link>http://www.hopit.de/2013/06/every-noise-at-once-swing-musik-artist-ohne-ende/</link>
+				<pubDate>Tue, 25 Jun 2013 09:27:12 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[explorer]]></category>
+		<category><![CDATA[genre]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4640</guid>
+				<description><![CDATA[Wow, bei &#8218;Every Noise at Once&#8216; kann man ideal verscheide Musik Genere erkunden und viele neue Inspirationen finden 🙂 This is an algorithmically-generated map of the musical genre-space. Genres and artists are positioned by code and data, adjusted for legibility, but the underlying vectors are less interesting than the juxtapositions and clusters that they produce, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

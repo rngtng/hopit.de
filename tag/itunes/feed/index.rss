@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>itunes &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/itunes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sun, 15 Nov 2009 11:01:38 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing&#8217;n Beats bei iTunes</title>
+		<link>http://www.hopit.de/2009/12/swingn-beats-bei-itunes/</link>
+				<pubDate>Thu, 10 Dec 2009 10:57:36 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[beat]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[itunes]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1085</guid>
+				<description><![CDATA[Hab gerade diesen schönen electro swing Mix bei iTunes gefunden: Swing&#8217;n Beats (selected by Sound Nomaden). Vieles schon bekannt, aber auch ein paar Neuigkeiten, reinhörn lohnt sicht: http://itunes.apple.com/WebObjects/MZStore.woa/wa/viewIMix?id=337460382]]></description>
+									</item>
+	</channel>
+</rss>

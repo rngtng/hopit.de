@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gypsy &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/gypsy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Smoky Joe Combo im Bassy Club Berlin</title>
+		<link>http://www.hopit.de/2011/03/smoky-joe-combo-im-bassy-club-berlin/</link>
+				<pubDate>Tue, 15 Mar 2011 14:18:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[bassy]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[gypsy]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2354</guid>
+				<description><![CDATA[Update: Die Jungs sind schon wieder unterwegs und somit nicht am Montag im Bassy 🙁 Sebastians lieblings Gypsy-Swingband, Smoky Joe Combo, hat sich für Berlin angekündigt. Die Franzosen swingen am 19. und 21. März im [qype id=&#8220;1980&#8243;] Club, Berlin. Schwerstens zu Empfehlen, seht euch nur das an, schick: http://www.youtube.com/watch?v=M15oxxcBG14 http://www.myspace.com/smokyjoecombo]]></description>
+									</item>
+		<item>
+		<title>The Hobo Swing Revolution im Zenmata</title>
+		<link>http://www.hopit.de/2011/02/the-hobo-swing-revolution-im-zenmata/</link>
+				<pubDate>Thu, 17 Feb 2011 13:50:40 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[gypsy]]></category>
+		<category><![CDATA[ska]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2387</guid>
+				<description><![CDATA[The Hobo Swing Revolution steigt ab sofort jeden Donnerstag im Zenmata, Wiener Straße 11, Berlin Kreuzberg (nähe Görlitzer Bahnhof). A swinging selection of Gipsy tunes, Jazzy breaks and Nomad bass, presented by DJ Zappo. http://keepitrollin.de/Forum/Veranstaltungen-Querbeat/17-2-2011-the-hobo-swing-revolution-zenmata.html]]></description>
+									</item>
+	</channel>
+</rss>

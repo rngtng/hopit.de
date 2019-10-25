@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>buch &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/buch/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:41:34 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swingtime in Deutschland im DLF Radio</title>
+		<link>http://www.hopit.de/2012/04/swingtime-in-deutschland-im-deutschlandfunk-radio/</link>
+				<pubDate>Mon, 02 Apr 2012 10:24:56 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[buch]]></category>
+		<category><![CDATA[interview]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3685</guid>
+				<description><![CDATA[Der Deutschlandfunk (in Berlin auf UKW 97.7, sonst als Stream im Internet) bringt heute(!) MONTAG, dem 02.04.2012 um 15.05 Uhr im Rahmen der Sendung &#8222;Corso&#8220; die Swingtime Buchvorstellung und Interview mit Stephan Wuthe. http://www.swingtime.de/ Schaltet ein, stay tuned&#8230; http://www.dradio.de/dlf/sendungen/corso/]]></description>
+									</item>
+		<item>
+		<title>WDR 5 Radio Redezeit &#8211; Swing Time mit Stephan Wuthe</title>
+		<link>http://www.hopit.de/2012/03/wdr-5-radio-redezeit-swing-time-mit-stephan-wuthe/</link>
+				<pubDate>Mon, 05 Mar 2012 14:25:56 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[buch]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[Stephan Wuthe]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3568</guid>
+				<description><![CDATA[Hier der WDR 5 Radio Mitschnitt &#8222;Redezeit&#8220;: Stephan Wuthe über &#8222;Swing Time&#8220;: http://gffstream-4.vo.llnwd.net/c1/m/1330599927/radio/redezeit/wdr5_redezeit_20120301.mp3 Mehr von Stephan und über sein neues Buch hier: http://www.swingtime.de/]]></description>
+						<enclosure url="http://gffstream-4.vo.llnwd.net/c1/m/1330599927/radio/redezeit/wdr5_redezeit_20120301.mp3" length="19457578" type="audio/mpeg" />
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>art &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/art/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:27:38 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Stiftung Freizeit: Labplatz &#8211; Dance Floor</title>
+		<link>http://www.hopit.de/2012/07/stiftung-freizeit-labplatz-dance-floor/</link>
+				<pubDate>Mon, 09 Jul 2012 09:27:20 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[art]]></category>
+		<category><![CDATA[kunst]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[urabn]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4133</guid>
+				<description><![CDATA[Schönes Projekt von &#8218;Stiftung Freizeit&#8216;: Labplatz &#8211; Dance Floor! Ein Parkplatz wurde schnell zu einer Tanzfläche aufgerüstet und kräftig &#8218;bedanced&#8216; &#8211; Yay! LABPLATZ wants to rethink urban space and raise awareness about the use of public space in our cities. We invited friends and neighbors to share their ideas and join us in a day [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

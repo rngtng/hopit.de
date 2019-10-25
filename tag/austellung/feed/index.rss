@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>austellung &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/austellung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:13:00 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Letzte Chance: am Wochenende SKAMend geniessen..</title>
+		<link>http://www.hopit.de/2009/05/letzte-chance-am-wochenende-skamend-geniessen/</link>
+				<pubDate>Fri, 08 May 2009 10:32:30 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[austellung]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[kunst]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=443</guid>
+				<description><![CDATA[Die Ateliergemeinschaft Schöne Kunst allen Menschen e.V. (SKAM) muss aus dem riesen Bowlingbahn-China-Restaurant-Mandarin-Casino Gebäude an der Reeperbahn raus und gibt dazu eine Abschluss-Ausstellung mit Malerei, Skulpturen, Installationen, Konzeptkunst, Film, Musik und gepflegter Bar. Letzte Chance, danach wird das Gebäude platt gemacht. Aus, Schluss, vorbei&#8230; The Ricky Kings sind auch dabei, so Fr. um Mitternacht &#8211; [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

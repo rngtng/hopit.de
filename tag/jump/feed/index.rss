@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Jump &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/jump/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 03 May 2011 11:57:43 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Stompy Jones zu Gast im Stage Club Hamburg</title>
+		<link>http://www.hopit.de/2009/02/stompy-jones-zu-gast-im-stage-club-hamburg/</link>
+				<pubDate>Tue, 17 Feb 2009 10:52:02 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[Jump]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=203</guid>
+				<description><![CDATA[Yeah, am Donnerstag singt, klingt &#38; swingt Stompy Jones im Stage Club Hamburg. Los 20.00 Uhr, Eintritt 10 EUR, wer ist dabei? http://www.stompyjones.com via Julia &#38; Konstantin]]></description>
+									</item>
+		<item>
+		<title>26.Jan&#8217;09, SW: Swing Out Variationen IV</title>
+		<link>http://www.hopit.de/2009/01/sw-swing-out-variationen-iv/</link>
+				<pubDate>Mon, 26 Jan 2009 22:57:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[Drehung]]></category>
+		<category><![CDATA[Jump]]></category>
+		<category><![CDATA[swing out]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=120</guid>
+				<description><![CDATA[(woche davor gefehlt, schäm)Jonny und die fast wieder gesunde Meike zeigten huete 4 interessante Varianten. 1. &#8222;Follower rumwandern&#8220;: 1: Offenen Pos, soforte Führung, 2: L in re Arm von foller reinlaufen, 3&#38;4: F wandert um L, 5:linken L Arm greift von unterm re F Arm nach rücken, 6&#38;7: L geht der F Kreisbewegnung nach, 8: [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

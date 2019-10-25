@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>open air &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/open-air/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:36:41 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Louise Gold &#038; die Herren Quarz im Kiki Blofeld</title>
+		<link>http://www.hopit.de/2011/07/berlin-louise-gold-die-herren-quarz-im-kiki-blofeld/</link>
+				<pubDate>Sat, 16 Jul 2011 08:58:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[open air]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3009</guid>
+				<description><![CDATA[Louise Gold &#38; die Herren Quarz swingen heute mal wieder, und dieses Mal im Kiki Blofeld (Köpenicker Strasse 48/49.) &#8230; spielen live den Swing der alten Zeit auf der Dachterrasse ab 20:00 Uhr Unmittelbar, unverfälscht und unnachahmlich mit einem Teil Spass, einem Teil Wut, und einem Teil Wehmut im Herzen&#8230; http://www.facebook.com/event.php?eid=136453513102672 http://www.myspace.com/goldquarz/shows http://www.kikiblofeld.de/]]></description>
+									</item>
+		<item>
+		<title>Berlin: Tempelhof Swing auf dem ehemaligen Flughafengelände</title>
+		<link>http://www.hopit.de/2011/06/berlin-tempelhof-swing-auf-dem-ehemaligen-flughafengelande/</link>
+				<pubDate>Wed, 22 Jun 2011 11:38:58 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[open air]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2946</guid>
+				<description><![CDATA[Am Sonntag, 26. Juni 2011 ab 14 Uhr es es soweit: Tempelhof Swing läd wieder zum Tanz unter freiem Himmel auf dem ehemaligen Flughafengelände ein -Eintritt frei! Eingang Columbiadamm (für&#8217;s Navi: Columbiadamm 113, 10965 Berlin) und dann den Kreidepfeilen &#8222;Swing&#8220; auf dem Boden folgen. DJ Trümmerswing spielt am Plattenspieler Lindyhop, Charleston, langsames und schnelles, für [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

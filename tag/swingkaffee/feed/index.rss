@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>swingkaffee &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swingkaffee/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>HH: Besuch von Damals im LOKAL!</title>
+		<link>http://www.hopit.de/2011/05/hh-besuch-von-damals-im-lokal/</link>
+				<pubDate>Thu, 05 May 2011 16:36:24 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[kaffee]]></category>
+		<category><![CDATA[Lokal]]></category>
+		<category><![CDATA[swingkaffee]]></category>
+		<category><![CDATA[swingtanz]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[Tanztee]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2743</guid>
+				<description><![CDATA[Teechen, Käffchen, Lecker Tanz und Swingkuchen gibts am 8. Mai im LOKAL in der Max-Brauer Allee 207. am 8. mai dürfen wir uns auf zahlreiche schellack-platten mit dem sound der guten alten tanzzeit freuen  und natürlich auf dj mosquito hopkins. also lasst das autan zuhause und stürmt die tanzfläche. oder das cafe. denn neben [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Swing in die Gänge Teil 3</title>
+		<link>http://www.hopit.de/2010/10/swing-in-die-gange-teil-3/</link>
+				<pubDate>Mon, 11 Oct 2010 21:53:14 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[gängeviertel]]></category>
+		<category><![CDATA[swingkaffee]]></category>
+		<category><![CDATA[swingschleuder]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1841</guid>
+				<description><![CDATA[Am Sonntag 24. Oktober 2010 gibts einen kleinen Swingtanznachmittag im Gängeviertel. Sei mit von der Partie wenn die Swingbeats bei Tee, Kaffee und Kuchen den Gassen im Viertel wieder Leben einhauchen. Dieses mal landet die Swingschleuder im überaus empfehlenswerten &#8222;Cafe unter der Linde&#8220; (ehemals Jupibar). Dieses charmante kleine Cafe mit dem alten, tanzbereiten Dielenboden befindet [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Foto &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/foto/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:23 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Schicke Herräng Fotos von Simon Høgsberg</title>
+		<link>http://www.hopit.de/2009/08/schicke-herrang-fotos-von-simon-h%c3%b8gsberg/</link>
+				<pubDate>Wed, 26 Aug 2009 13:38:29 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Foto]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=723</guid>
+				<description><![CDATA[Bin gerade bei Mia von uberding.net auf Herräng 2007 Fotos von Simon Høgsberg gestoßen. Wahnsinn! Vor allem auf das Sprungfoto von Peter Loggins bin ich ja schon bissl neidisch 😉 Anschauen: http://www.simonhoegsberg.com/dance_dance_dance]]></description>
+									</item>
+		<item>
+		<title>5,6,7,8 &#8211; Herräng Foto Ausstellung</title>
+		<link>http://www.hopit.de/2009/02/5678-herrang-foto-ausstellung/</link>
+				<pubDate>Tue, 03 Feb 2009 23:45:08 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Foto]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Herräng]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=74</guid>
+				<description><![CDATA[Der Hamburger Steptänzer Thomas Marek eröffnet am Wochenende seine Austellung 5,6,7,8 Annäherung an das Phänomen Herrang &#8211; Fotos aus Herräng Tanz Camp 2008. Dazu wird am Samstag ab 20 Uhr getanzt und am Sonntag um 15.00 Uhr der &#8218;Herräng 2008&#8216; Film gezeigt. Ort: Linda in der Hein-Hoyer-Straße 13, Hamburg &#8211; St.Pauli Ein Vorgeschmack gibt&#8217;s hier: [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

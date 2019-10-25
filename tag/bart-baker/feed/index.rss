@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Bart &amp; Baker &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/bart-baker/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:48:27 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>OUT NOW: Bart &#038; Baker &#8211; Burlesque Swing</title>
+		<link>http://www.hopit.de/2011/06/out-now-bart-baker-burlesque-swing/</link>
+				<pubDate>Wed, 15 Jun 2011 10:07:31 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Bart & Baker]]></category>
+		<category><![CDATA[Burlesque]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro]]></category>
+		<category><![CDATA[sampler]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2908</guid>
+				<description><![CDATA[Es ist endlich soweit &#8211; die neue Bart &#38; Baker Scheibe ist raus: &#8222;Burlesque Swing&#8220;. Die Pladde kommt mit 24 heissen &#38; neuen (Electro-) Swing Tracks (inkl. Sweet Tooth). Hab leider noch nicht wirklich reinhören können, aber die Tracklist verspricht schon einiges &#8211; dann mal viel Spaß!]]></description>
+									</item>
+		<item>
+		<title>Bart &#038; Baker &#8211; (Electro) Swing JazzRadio Show</title>
+		<link>http://www.hopit.de/2011/04/bart-baker-electro-swing-radio-show/</link>
+				<pubDate>Sun, 03 Apr 2011 09:23:48 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Bart & Baker]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[show]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2524</guid>
+				<description><![CDATA[Die Französischen (Electro) Swing DJs Bart &#38; Baker hatten ein &#8218;Happy Hour&#8216; Gastspiel im JazzRadio. Hier die schönen Swing Mitschnitte der erstmal überhaupt nicht &#8218;electro&#8216; sind. Anhören: http://www.jazzradio.fr/son/podcast/u/happy-hour-26-03-11]]></description>
+									</item>
+	</channel>
+</rss>

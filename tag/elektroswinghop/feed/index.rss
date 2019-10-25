@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Elektroswinghop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/elektroswinghop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 06 Apr 2011 18:22:34 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Sola Rosa: Humanised</title>
+		<link>http://www.hopit.de/2011/04/sola-rosa-humanised/</link>
+				<pubDate>Wed, 06 Apr 2011 18:20:39 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Elektroswinghop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2577</guid>
+				<description><![CDATA[Ich finde ja es ist Zeit den Sammelbegriff Elektroswing einmal etwas differenzierter zu betrachten. Deshalb führe ich jetzt mal den Begriff Elektroswinghop ein. Schließlich gibts da doch feine Unterschiede. So. Und das Elektro Swing Hop auch mal ein wenig morbide sein kann, lässt sich schön am Video zum Song &#8222;Humanized&#8220; von Sola Rosa sehen. Sängerin [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

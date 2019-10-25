@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ska &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ska/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 19:28:47 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The Hobo Swing Revolution im Zenmata</title>
+		<link>http://www.hopit.de/2011/02/the-hobo-swing-revolution-im-zenmata/</link>
+				<pubDate>Thu, 17 Feb 2011 13:50:40 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[gypsy]]></category>
+		<category><![CDATA[ska]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2387</guid>
+				<description><![CDATA[The Hobo Swing Revolution steigt ab sofort jeden Donnerstag im Zenmata, Wiener Straße 11, Berlin Kreuzberg (nähe Görlitzer Bahnhof). A swinging selection of Gipsy tunes, Jazzy breaks and Nomad bass, presented by DJ Zappo. http://keepitrollin.de/Forum/Veranstaltungen-Querbeat/17-2-2011-the-hobo-swing-revolution-zenmata.html]]></description>
+									</item>
+		<item>
+		<title>Balkan, Ska &#038; Electroswing mit DJ Zappo im Zenmata Berlin</title>
+		<link>http://www.hopit.de/2011/02/balkanska-electroswing-mit-dj-zappo-im-zenmata-berlin/</link>
+				<pubDate>Fri, 11 Feb 2011 15:51:05 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[ska]]></category>
+		<category><![CDATA[Zenmata]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2371</guid>
+				<description><![CDATA[Eine kleine Eventankündigung aus Berlin: Heute läuft im neueröffneten Zenmata in der Wiener Str.11 (am Görlitzer Bahnhof) ein tanzwütiger Mix aus Balkan/Ska/Electroswing von DJ Zappo. Mehr Details zum Event hier: http://keepitrollin.de/Forum/Veranstaltungen-Querbeat/11-2-2011-The-hobo-swing-revolution-zenmata.html-0 [via mail, Zappo Trump]]]></description>
+									</item>
+		<item>
+		<title>Dance the Ska!</title>
+		<link>http://www.hopit.de/2010/03/dance-the-ska/</link>
+				<pubDate>Wed, 31 Mar 2010 10:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[lustig]]></category>
+		<category><![CDATA[ska]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1482</guid>
+				<description><![CDATA[Muss ja nicht immer Lindy Hop sein! Hier &#8217;ne schöne Retro-Tanz-Anleitung zum Jamaica Ska Dance. Sehr geil: [via FuckYouVeryMuch]]]></description>
+									</item>
+	</channel>
+</rss>

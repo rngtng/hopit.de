@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>swingschleuder &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swingschleuder/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing in die Gänge Teil 3</title>
+		<link>http://www.hopit.de/2010/10/swing-in-die-gange-teil-3/</link>
+				<pubDate>Mon, 11 Oct 2010 21:53:14 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[gängeviertel]]></category>
+		<category><![CDATA[swingkaffee]]></category>
+		<category><![CDATA[swingschleuder]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1841</guid>
+				<description><![CDATA[Am Sonntag 24. Oktober 2010 gibts einen kleinen Swingtanznachmittag im Gängeviertel. Sei mit von der Partie wenn die Swingbeats bei Tee, Kaffee und Kuchen den Gassen im Viertel wieder Leben einhauchen. Dieses mal landet die Swingschleuder im überaus empfehlenswerten &#8222;Cafe unter der Linde&#8220; (ehemals Jupibar). Dieses charmante kleine Cafe mit dem alten, tanzbereiten Dielenboden befindet [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Swing in die Gänge II &#8230;und wieder geht&#8217;s ins Gängeviertel</title>
+		<link>http://www.hopit.de/2009/09/swing-in-die-gange-ii-und-wieder-gehts-ins-gangeviertel/</link>
+				<pubDate>Mon, 14 Sep 2009 18:30:18 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[draussen]]></category>
+		<category><![CDATA[gängeviertel]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[swingschleuder]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=829</guid>
+				<description><![CDATA[Nach dem schönen Swingtanzsoirée im Gängeviertel vor zwei Wochen swingt am Donnerstag noch einmal: Swing in die Gänge II  ein Swingtanzsoirée im Gängeviertel Die Swingschleuder kommt wieder in die Gänge und beschallt das Viertel erneut mit Swingmusik von Damals bis Heute. Es wird getanz, geschwoft und Neulingen gerne auch gezeigt. Am Donnerstag Abend ab [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

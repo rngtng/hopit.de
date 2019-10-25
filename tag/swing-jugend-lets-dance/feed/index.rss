@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Swing Jugend Let&#8217;s Dance &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swing-jugend-lets-dance/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Osterhasenhop</title>
+		<link>http://www.hopit.de/2011/04/hamburg-osterhasenhop/</link>
+				<pubDate>Fri, 22 Apr 2011 18:26:59 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[jump blues]]></category>
+		<category><![CDATA[Rythm & Blues]]></category>
+		<category><![CDATA[Swing Jugend Let's Dance]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2621</guid>
+				<description><![CDATA[Für ganz Kurzentschlossene hier noch eine Eilmeldung 🙂 &#8230; SWING JUGEND LET&#8217;S DANCE! mit DJ Swingy the Kid im Komet in der Erichstraße 11, St. Pauli 30er bis 60er Jahre Rhythm &#38; Blues Big Band Hanky Panky Swing Zwang! Wir weisen darauf hin, dass das Tanzen bis 2 Uhr Nachts in diesem Land verboten ist [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

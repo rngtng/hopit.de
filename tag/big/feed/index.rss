@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>big &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/big/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:40 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Blog Empfehlung: www.dougegen.de</title>
+		<link>http://www.hopit.de/2010/04/blog-empfehlung-www-dougegen-de/</link>
+				<pubDate>Mon, 12 Apr 2010 09:52:15 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[beat]]></category>
+		<category><![CDATA[big]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[break]]></category>
+		<category><![CDATA[hip hop]]></category>
+		<category><![CDATA[mix]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1533</guid>
+				<description><![CDATA[Hab gerade ein schönes Big, Break, Beat, Jazz, HipHop Mix Musik Blog: gefunden, da gibt&#8217;s so was tolles wie: oder diesen schicken Mix: [soundcloud url=&#8220;http://soundcloud.com/duzz-down-san-records/chrisfader-testa-the-prequel-to-overland-mix&#8220;] Stöbert mal durch, tendenziell eher weniger Swing &#38; Jazz, dafür schönes Beatz und HipHop Zeuch. Danke an den Macher! Somit &#8211; alle auf nach: http://www.dougegen.de/]]></description>
+									</item>
+		<item>
+		<title>Big Band Come Back</title>
+		<link>http://www.hopit.de/2009/03/big-band-come-back/</link>
+				<pubDate>Mon, 30 Mar 2009 15:44:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[big]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=344</guid>
+				<description><![CDATA[Auch der Spiegel hats begriffen: BigBands und Swing sind wieder in 😉 Hach, das ist doch was: &#8230; aber bitte nicht Tom Gaebel, der hast&#8217;s nicht gerafft und ist einfach nur peinlich.]]></description>
+									</item>
+	</channel>
+</rss>

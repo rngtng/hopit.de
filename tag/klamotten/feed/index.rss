@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>klamotten &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/klamotten/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sat, 11 Jan 2014 13:38:49 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Kleidung mit Stil: Vecona Vintage</title>
+		<link>http://www.hopit.de/2014/01/kleidung-mit-stil-vecona-vintage/</link>
+				<pubDate>Sat, 11 Jan 2014 13:38:49 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[klamotten]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[retro]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2997</guid>
+				<description><![CDATA[Ui, kennt ihr schon  die sehr schönen retro Klamotten von Vecona Vintage? Die gehören zum Tanzen genauso dazu wie gute Musik. 🙂 http://www.vecona-vintage.com &#160;]]></description>
+									</item>
+		<item>
+		<title>Hamburg: Herr von Eden: Blow Out Sale</title>
+		<link>http://www.hopit.de/2011/09/hamburg-herr-von-eden-blow-out-sale/</link>
+				<pubDate>Fri, 23 Sep 2011 09:38:58 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[herr von eden]]></category>
+		<category><![CDATA[klamotten]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3213</guid>
+				<description><![CDATA[Schicke Klamotte zum &#8222;Günstpreis&#8220; gibts beim Blow Out Sale der Klamottenmarke &#8222;Herr von Eden&#8220;. Vom 23.9. bis 1.10.2011 bietet sich die Chance Stücke aus der &#8222;alten&#8220; Kollektion zu ergattern. Die Tore in den KOHLHÖFEN 8 sind geöffnet von 11h &#8211; 19h. http://www.herrvoneden.com/site/ via mary]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>crashkurs &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/crashkurs/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>HH: &#8222;Swing Jugend let&#8217;s dance&#8220; hüppt ins TV</title>
+		<link>http://www.hopit.de/2011/05/hh-swing-jugend-lets-dance-huppt-ins-tv/</link>
+				<pubDate>Tue, 03 May 2011 11:42:10 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[crashkurs]]></category>
+		<category><![CDATA[mandalay]]></category>
+		<category><![CDATA[Swingjugend]]></category>
+		<category><![CDATA[Swingy the Kid]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2686</guid>
+				<description><![CDATA[Anbei ein Hinweis für die Swingtanz Veranstaltungen im Mandalay von Swingy the Kid: Hallo meine lieben Freunde der Lindy Hop Szene (Hamburg), ich habe gestern die Bestätigung vom NDR &#8211; Nordtour bekommen, dass am 4.5. ein Team vorbeikommt um die &#8222;Swing Jugend let´s dance&#8220; Veranstaltung zu filmen. Es wird ein Bericht über die Hamburger Lindy [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Tanz und Kunst zur laufenden Ausstellung im OneZeroMore</title>
+		<link>http://www.hopit.de/2009/09/tanz-und-kunst-zur-laufenden-ausstellung-im-onezeromore/</link>
+				<pubDate>Thu, 24 Sep 2009 16:35:23 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[crashkurs]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[kunst]]></category>
+		<category><![CDATA[Swingwerkstatt]]></category>
+		<category><![CDATA[tanzen]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=907</guid>
+				<description><![CDATA[Am Samstag wird im Rahmen der &#8222;laufenden Ausstellung&#8220; getanzt: Um 17h veranstaltet die Swingwerkstatt einen Crashkurs für Neueinsteiger, danach folgt freies Tanzen. Viel Kunst gibts auch noch drumherum! Also, kommt zahlreich ins: OZM &#8211; Onezeromore Studioatelier, Bartelsstr. 65 Achtung: Betonboden nix für schöne Schuhe http://www.laufendeausstellung.de/]]></description>
+									</item>
+	</channel>
+</rss>

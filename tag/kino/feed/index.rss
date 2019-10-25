@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kino &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/kino/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:33:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin-Friedrichshagen: Tanzcafé im Kino Union</title>
+		<link>http://www.hopit.de/2012/01/berlin-friedrichshagen-tanzcafe-im-kino-union/</link>
+				<pubDate>Fri, 27 Jan 2012 14:20:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[kino]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[tanzcafe]]></category>
+		<category><![CDATA[union]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3486</guid>
+				<description><![CDATA[Im Tanzcafé wird&#8217;s winterlich &#8211; so wie draußen wahrscheinlich auch! Nun brauchen wir flotte Rhythmen um uns warm zu tanzen und die schönen Kleider auszuführen. Das Motto lautet diesmal &#8222;The Winter Dance Party&#8220; &#8211; auch als kleine Hommage an die gleichnamige Konzerttour 1959 mit diversen Rock&#8217;n&#8217;Roll Sängern und &#8211; Bands, während der am 03. Februar [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Mal Kino machen: The Artist</title>
+		<link>http://www.hopit.de/2012/01/mal-kino-machen-the-artist/</link>
+				<pubDate>Mon, 23 Jan 2012 10:26:19 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[artsits]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[kino]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3466</guid>
+				<description><![CDATA[Da kommt was im Kino: The Artist. Die 20er: Liebe, Drama, Eifersucht &#8211; alles stilecht in Stumm und Schwarz-Weiss &#8211; da darf auch der Swing nicht fehlen. Anschauen! http://www.imdb.com/title/tt1655442/]]></description>
+									</item>
+		<item>
+		<title>Video: ROCKABILLY RUHRPOTT</title>
+		<link>http://www.hopit.de/2011/07/video-rockabilly-ruhrpott/</link>
+				<pubDate>Mon, 25 Jul 2011 16:47:19 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[film rockabilly]]></category>
+		<category><![CDATA[kino]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3031</guid>
+				<description><![CDATA[Nicht ganz wirklich Swing, aber doch irgendwie &#8218;related&#8216; &#8211; gerade läuft Rockabilly Ruhrpott in den Kinos &#8211; anschauen! ROCKABILLY RUHRPOTT ist genauso ein Original wie seine Protagonisten: Er ist charmant, er ist anders, er ist authentisch. Ein Mosaik aus Interviews, Konzertausschnitten und Aufnahmen von Land und Leuten, das einfach viel Spaß macht – eben Rock’n’Roll! [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>PINA &#8211; Tanzt, tanzt sonst sind wir verloren</title>
+		<link>http://www.hopit.de/2011/02/pina-tanzt-tanzt-sonst-sind-wir-verloren/</link>
+				<pubDate>Wed, 16 Feb 2011 10:49:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[3d]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[kino]]></category>
+		<category><![CDATA[pina]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[wim wenders]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2377</guid>
+				<description><![CDATA[In Berlin läuft gerade die Berlinale, und ein Film der mir besonders aufgefallen ist, ist PINA &#8211; Tanzt, tanzt sonst sind wir verloren. Ein Film für Pina Bausch von Wim Wenders. Klar, wohl ganz ohne Swing, aber dafür um so mehr mit Tanz, dessen Leidenschaft, Ausdruck und Faszination. Hier der schicke, bildstarke Trailer: Ab 24. [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

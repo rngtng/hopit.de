@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hansehop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/hansehop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:45:39 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Hansehop IV Blues</title>
+		<link>http://www.hopit.de/2012/01/hamburg-hansehop-iv-blues/</link>
+				<pubDate>Sat, 21 Jan 2012 17:19:25 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[hansehop]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3497</guid>
+				<description><![CDATA[Am 25. und 26. Februar findet in Hamburg der erste Wochenend-Bluestanzworkshop überhaupt statt. Trainer sind PHILIPPA SVENSSON, CHRIS HÄRM, LOUISE TANGERMANN und JERED MORIN. Weitere Infos findet Ihr unter: http://www.hansehop.de/get_blue.html Und Blues tanzen, das kann so  gehen &#8230; http://www.youtube.com/watch?v=oAbV8nXY8HI &#160;]]></description>
+									</item>
+		<item>
+		<title>Hamburg: Auf zum Hansehop III</title>
+		<link>http://www.hopit.de/2011/09/hamburg-hansehop-iii/</link>
+				<pubDate>Fri, 23 Sep 2011 16:41:22 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[hansehop]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3131</guid>
+				<description><![CDATA[HipHop HanseHop &#8211; ähm, also Lindy Hop mein ich: Es heisst wieder Swing tanzen und lernen in der schönen Hansestadt &#8211; dieses Mal mit Hasse &#038; Marie (Swe) und Martynas &#038; Egle (Lit). Wie schön im Frühling gibt&#8217;s wieder intensiv Kurse, sprich man verbringt volle 5 Stunden mit den Lehrern und lernt so die neusten [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Auf zum Hanse Hop!</title>
+		<link>http://www.hopit.de/2010/03/auf-zum-hanse-hop/</link>
+				<pubDate>Mon, 29 Mar 2010 16:51:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[hansehop]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1468</guid>
+				<description><![CDATA[Erstmalig findet dieses Jahr auch ein Frühlingsworkshop in Hamburg statt. Der HanseHop findet am letzten Wochenende im April statt. Als Trainer sind Shane &#38; Ruth aus Australien und Usch &#38; Tobias aus Münster dabei. Wie auch beim Waterkantjam ist das Wochenende nur so voll mit schicken Tanz Parties für die Abendgestaltung. Das komplette Programm, weitere [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

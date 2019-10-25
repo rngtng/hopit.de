@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>prag &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/prag/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 09:59:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Prague Spring Swing Festival 2010</title>
+		<link>http://www.hopit.de/2009/10/prague-spring-swing-festival-2010/</link>
+				<pubDate>Tue, 20 Oct 2009 12:03:47 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[prag]]></category>
+		<category><![CDATA[spring swing festival]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1015</guid>
+				<description><![CDATA[Vom 2. &#8211; 5 April 2010 swingts wieder in Prag: das Prague Spring Swing Festival. Ich Anmeldung started ab dem 2. November hier: http://www.pssf.cz/index_en.html [via it must schwing]]]></description>
+									</item>
+		<item>
+		<title>Prag Spring Swing Festival (PSSF) 2009</title>
+		<link>http://www.hopit.de/2009/05/prag-spring-swing-festival-pssf-2009/</link>
+				<pubDate>Wed, 27 May 2009 11:54:14 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[prag]]></category>
+		<category><![CDATA[pssf]]></category>
+		<category><![CDATA[spring swing festival]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=664</guid>
+				<description><![CDATA[Hier kleiner kurzer Lagebericht vom Spring Swing Festival 2009 in Prag: Samstag Party war recht schöne Tanzatmosphäre in einem alte Ballsall, leider war die Gesellschaft eher nicht-Tänzer und die musik viel viel schneller Charleston und man wurde ständig von Foxtrott tänzern überrannt 😉 Milson + Jana Routine: Swingout different directions: right, SW middle, SW, left [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

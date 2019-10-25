@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Blossom Dearie &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/blossom-dearie/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 09:57:16 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Blossom Dearie verstorben</title>
+		<link>http://www.hopit.de/2009/02/blossom-dearie-verstorben/</link>
+				<pubDate>Mon, 09 Feb 2009 22:46:44 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Blossom Dearie]]></category>
+		<category><![CDATA[Jazz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=169</guid>
+				<description><![CDATA[Sie ist gegangen bevor ich sie überhaupt kannte: Blossom Dearie, vorgestern (7.Feb) im Alter von 82 verstorben. MonkeyX hatte in seinen Blog mich auf die Jazz Künstlerin aufmerksam gemacht und diesen wundervollen Song empfohlen: Hey John &#8211; läuft bei mir jetzt rauf und runter. Thanks and rest in Peace. http://de.wikipedia.org/wiki/Blossom_Dearie]]></description>
+									</item>
+	</channel>
+</rss>

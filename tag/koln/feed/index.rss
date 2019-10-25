@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>köln &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/koln/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:35:26 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Köln: Swing United &#8211; Electro Swing Party + kostenloser Download</title>
+		<link>http://www.hopit.de/2011/09/koln-swing-united-electro-swing-party-kostenloser-download/</link>
+				<pubDate>Thu, 29 Sep 2011 13:30:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[köln]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3193</guid>
+				<description><![CDATA[Na, es muss ja nicht immer Berlin oder Hamburg sein &#8211; Nein, auch in Köln tut sich was in Sachen (Electro) Swing: Swing United &#8211; Electro Swing Party &#8211; am Samstag im Kulturcafé Lichtung https://www.facebook.com/event.php?eid=151174668301376 &#8230; und passend zur Party gibt&#8217;s auch noch hier den neuen sampler &#8218;Swing United&#8216; mit feinsten Electro Swing kosten los [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Köln: Swing the Church &#8211; Lindy Hop Heaven</title>
+		<link>http://www.hopit.de/2011/07/koln-swing-the-church-lindy-hop-heaven/</link>
+				<pubDate>Thu, 21 Jul 2011 16:43:36 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[köln]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3006</guid>
+				<description><![CDATA[Spannende Tanzparty in Köln: Ja Ihr habt richtig gelesen &#8222;Swing the Church&#8220;. Da uns der Tanz heilig ist, haben wir es uns nicht nehmen lassen, den perfekten Platz für unsere Leidenschaft zu finden: Eine Kirche. Also schmeißt Euch in Eurer schönstes Swing-Dress, zieht die Tanzschuhe an und swingt den großen Saal der Lutherkirche. Platz gibt [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Köln: Swing United &#8211; Electro Swing &#038; Lindy Hop Party</title>
+		<link>http://www.hopit.de/2011/05/koln-swing-united-electro-swing-lindy-hop-party/</link>
+				<pubDate>Mon, 30 May 2011 11:13:09 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[köln]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Party]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2760</guid>
+				<description><![CDATA[Hier auch mal ein sehr interessantes Event in Köln: Der Swing erobert gerade die Tanzflächen der Welt zurück. Deswegen wird es Zeit, alle Facetten des Swing auf einer einzigartigen Party zu vereinen. Wir feiern den Swing auf gleich zwei Floors! Im Club zelebrieren wir Electro Swing, Neo Swing und House all night long. Und für [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

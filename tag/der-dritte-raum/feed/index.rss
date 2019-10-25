@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Der Dritte Raum &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/der-dritte-raum/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Sep 2009 13:46:31 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Tanzbar: Koop &#8211; Island Blues &#038; Der Dritte Raum &#8211; Swing Bop</title>
+		<link>http://www.hopit.de/2009/09/tanzbar-koop-island-blues-der-dritte-raum-swing-bop/</link>
+				<pubDate>Tue, 29 Sep 2009 13:41:18 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Der Dritte Raum]]></category>
+		<category><![CDATA[Koop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=917</guid>
+				<description><![CDATA[Dazu würd ich jetzt gern mal tanzen: Koop &#8211; Island Blues http://www.youtube.com/watch?v=tCFU5l6-j2k und dann abgehn: Der Dritte Raum &#8211; Swing Bop]]></description>
+									</item>
+	</channel>
+</rss>

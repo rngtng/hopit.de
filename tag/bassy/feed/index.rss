@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bassy &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/bassy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 01 Dec 2011 12:04:12 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Ray Collins Hot Club im Bassy</title>
+		<link>http://www.hopit.de/2011/12/berlin-ray-collins-hot-club-im-bassy/</link>
+				<pubDate>Thu, 01 Dec 2011 11:57:46 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[bassy]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[crazy]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Party]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3381</guid>
+				<description><![CDATA[Morgen geht&#8217;s zu Sailor&#8217;s Daughter Jamboree im Bassy Club. Live hit dabei: die Barfoot rocker Ray Collins Hot Club, support mit Booze Bombs, Hot Jumpin&#8216; 6 und Recordhop uffm Mainfloor: DJ Mystic N &#038; DJ Pierre La Qua &#038; more djs in the lounge. Swing it, Rock it, Shake it &#8211; Baby! Haartolle aufgelegt und [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Smoky Joe Combo im Bassy Club Berlin</title>
+		<link>http://www.hopit.de/2011/03/smoky-joe-combo-im-bassy-club-berlin/</link>
+				<pubDate>Tue, 15 Mar 2011 14:18:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[bassy]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[gypsy]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2354</guid>
+				<description><![CDATA[Update: Die Jungs sind schon wieder unterwegs und somit nicht am Montag im Bassy 🙁 Sebastians lieblings Gypsy-Swingband, Smoky Joe Combo, hat sich für Berlin angekündigt. Die Franzosen swingen am 19. und 21. März im [qype id=&#8220;1980&#8243;] Club, Berlin. Schwerstens zu Empfehlen, seht euch nur das an, schick: http://www.youtube.com/watch?v=M15oxxcBG14 http://www.myspace.com/smokyjoecombo]]></description>
+									</item>
+		<item>
+		<title>Louise Gold &#038; die Herren Quarz</title>
+		<link>http://www.hopit.de/2011/02/louise-gold-die-herren-quarz/</link>
+				<pubDate>Wed, 09 Feb 2011 14:35:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[b-flat]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[bassy]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[bibband]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Louise Gold]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2358</guid>
+				<description><![CDATA[Louise Gold &#38; die Herren Quarz sind demnachst gleich dreimal zu: 11. Februar: [qype id=&#8220;8317&#8243;] &#8211; das BigBand- Debut: Für besondere Anlässe laden sich die Herren Quarz gerne einige weitläufige Verwandte ein. An diesem denkwürdigen Abend im B- Flat ist es endlich soweit: Louise Gold &#38; das Quarzorchester stellen sich vor. http://www.facebook.com/event.php?eid=162026647178507 14. Februar: GCS [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

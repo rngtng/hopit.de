@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>New York &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/new-york/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:00 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>New York, New York</title>
+		<link>http://www.hopit.de/2009/05/new-york-new-york/</link>
+				<pubDate>Sun, 24 May 2009 17:15:46 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[frankie95]]></category>
+		<category><![CDATA[New York]]></category>
+		<category><![CDATA[usa]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/2009/05/new-york-new-york/</guid>
+				<description><![CDATA[Wow! Was für eine Stadt, warum war ich hier noch nicht früher? Alles top, alles groß und extrem. Hier ein paar Eindrücke:]]></description>
+									</item>
+		<item>
+		<title>Ich war noch niemals in New York &#8230;</title>
+		<link>http://www.hopit.de/2009/05/ich-war-noch-niemals-in-new-york/</link>
+				<pubDate>Tue, 19 May 2009 17:35:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[frankie95]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[kubik]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[New York]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=505</guid>
+				<description><![CDATA[&#8230; aber das wird sich ab Morgen ändern. Fast als ob er es gewusst hätte, hat DJMQ dazu passend seinen neuen Mix &#8222;Noch niemals in New York&#8220; gerade veröffentlicht &#8211; und der gefällt mir sehr, sogar Frohlocker sind drauf &#8211; top! (non swing) Tipp: Während ich da so weg bin checkt ihr mal endlich Kubik [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Letzte Chance New York: Registration Reopening 23.Mrz</title>
+		<link>http://www.hopit.de/2009/03/letzte-chance-new-york-registration-reopening-23mrz/</link>
+				<pubDate>Thu, 12 Mar 2009 09:22:12 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Frankie]]></category>
+		<category><![CDATA[New York]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=285</guid>
+				<description><![CDATA[Wie gerade im Frankie95 Newsletter gelesen wird am 23. März nochmals die Chance bestehen letzte Plätze für Frankies 95. Geburtstag zu ergattern: Registration Re-opening on March 23! We have heard the outcry from lindy hoppers far and wide who are just dying to go to the Frankie&#8217;s 95th Birthday Festival. We have managed to open [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Jetzt für Frankies 95. Geburtstag anmelden!</title>
+		<link>http://www.hopit.de/2009/02/jetzt-fur-frankie-95-geburtstag-anmelden/</link>
+				<pubDate>Sun, 08 Feb 2009 19:40:15 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Frankie]]></category>
+		<category><![CDATA[New York]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=155</guid>
+				<description><![CDATA[Good News: die Registrierung zur Frankie&#8217;s 95. Geburtstags Party in New York vom 21.-25. Mai ist wieder möglich. Für 199$ ist man bei den Parties von Fr-Mo dabei. Schnell hier anmelden: http://frankie95.com/registration.php btw. billige Flüge findet man über: http://flug.idealo.de/ via LindyBloggers, Bild rikomatic]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/pop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:41 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ja, auch Swing Pop gibt&#8217;s: The Bird and the Bee &#8211; Diamon Dave</title>
+		<link>http://www.hopit.de/2009/11/ja-auch-swing-pop-gibts-the-bird-and-the-bee-diamon-dave/</link>
+				<pubDate>Thu, 12 Nov 2009 15:12:28 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[pop]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[The bird and the bee]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1041</guid>
+				<description><![CDATA[Hier schönes swingendes Fundstück von Georg. Würd ich mal als Swing Pop bezeichen, wobei ja Swing schon quasi Pop war. Hm, dann poppiger elektro-swing!? 😉 The Bird and the Bee mit Diamon Dave: Mehr hier: http://www.myspace.com/thebirdandthebee]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sommer &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/sommer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 28 Mar 2012 12:37:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Sommer, See und Sonnenschein (feat. Erhard Bauschke Tanzorchester)</title>
+		<link>http://www.hopit.de/2012/03/sommer-see-und-sonnenschein-feat-erhard-bauschke-tanzorchester/</link>
+				<pubDate>Wed, 28 Mar 2012 12:37:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[drop]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[sommer]]></category>
+		<category><![CDATA[sonne]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3629</guid>
+				<description><![CDATA[Zur aktuellen Wetter-Gefühls-Lage so&#8217;n kleines Electro-Swing-Dingsen (mit Drop!!)]]></description>
+									</item>
+		<item>
+		<title>Berlin: Sommer bei Swing &#038; Wine &#8211; freier Eintritt!!</title>
+		<link>http://www.hopit.de/2011/07/belrin-sommer-bei-swing-wine-freier-eintritt/</link>
+				<pubDate>Thu, 07 Jul 2011 14:32:38 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[openair]]></category>
+		<category><![CDATA[sommer]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[wine]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2991</guid>
+				<description><![CDATA[Der Sommer hält Einzug bei Swing &#38; Wine im Franzclub Berlin: SUPER SWING DJs + SUPER WEINE + SUPER ATMOSHPÄRE Kein Eintritt! 25% auf alle Weine von der Swing &#38; Wine Karte und auf alle Flaschenweine (außer Champagner) DJs: 7 July DJ Jumpin&#8216; Andi 14 July DJ Toemax 21 July DJ Swingin&#8216; Swanee 28 July [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Herräng 2010 &#8211; jetzt schon an morgen denken!</title>
+		<link>http://www.hopit.de/2010/06/herrang-2010-jetzt-schon-an-morgen-denken/</link>
+				<pubDate>Tue, 29 Jun 2010 10:13:30 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[camp]]></category>
+		<category><![CDATA[guide]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[schweden]]></category>
+		<category><![CDATA[sommer]]></category>
+		<category><![CDATA[sonne]]></category>
+		<category><![CDATA[spaß]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tipps]]></category>
+		<category><![CDATA[zelten]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1643</guid>
+				<description><![CDATA[Juhu, noch wenige Tage  und es ist wieder soweit: HERRÄNG 2010! [vimeo]http://www.vimeo.com/5991458[/vimeo] Letztes Jahr hab ich einen kleinen Guide zusammen gestellt. Unbedingt lesen: http://www.hopit.de/2009/07/auf-nach-herrang-so-uberlebst-du-das-swing-tanz-camp/ &#8230; und auch auf der Herräng Seite gibts einen schönen (Anfänger)Guide: http://www.herrang.com/en/firsttime/ Na dann stehen 5 Wochen Tanz, Spaß &#38; Sonne nichts mehr im Wege, wünsch euch viel Spaß! Wir sehn [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

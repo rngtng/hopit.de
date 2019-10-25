@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>parov stelar &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/parov-stelar/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 28 Oct 2010 19:22:18 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ticket Verlosung: Parov Stelar mit Band im Moondoo Club</title>
+		<link>http://www.hopit.de/2010/10/ticket-verlosung-parov-stelar-mit-band-im-moondoo-club/</link>
+				<pubDate>Thu, 28 Oct 2010 19:21:58 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[moondoo]]></category>
+		<category><![CDATA[parov stelar]]></category>
+		<category><![CDATA[verlosung]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2025</guid>
+				<description><![CDATA[http://www.youtube.com/watch?v=smxrU6EZhuM Wuhooo &#8211; am 5.November kommt einer der quasi Urväter des House-Electro-Swings in die Hanse Stadt: Parov Stelar ist zu Gast im [qype id=&#8220;105119&#8243;]Moondoo Club[/qype] und spielt mit seiner Band eine sehr seltene Live-Session &#8211; und das für nur knapp 500 Gäste. Tickets gibts für 14 zzgl. Gebühr im Vorverkauf, oder &#8211; direkt hier: Denn [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

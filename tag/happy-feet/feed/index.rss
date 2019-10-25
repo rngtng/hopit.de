@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>happy feet &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/happy-feet/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:47:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>2x Tanzorchester: Happy Feet am Freitag &#038; Samstag</title>
+		<link>http://www.hopit.de/2009/10/2x-tanzorchester-happy-feet-am-freitag-samstag/</link>
+				<pubDate>Wed, 14 Oct 2009 10:15:59 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[fabian]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[happy feet]]></category>
+		<category><![CDATA[queen]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[Tanzorchester]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=969</guid>
+				<description><![CDATA[Am Wochenende kommt man gleich in zweifachen Genuß: Tanzorchester Fabian spielt doppelt auf: Am Freitag im [qype id=&#8220;7594&#8243;] und Samstag in der [qype id=&#8220;174055&#8243;], zusammen mit Swingy the Kid. Und alle so: &#8222;Yeahhh!&#8220; Happy Feet]]></description>
+									</item>
+	</channel>
+</rss>

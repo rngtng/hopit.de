@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>shadow &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/shadow/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sat, 07 Mar 2009 15:28:31 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>5.Mrz09, NSG: Back / Tandem / Shadow Charleston</title>
+		<link>http://www.hopit.de/2009/03/5mrz%e2%80%9909-nsg-back-tandem-shadow-charleston/</link>
+				<pubDate>Sat, 07 Mar 2009 15:28:31 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[Drehung]]></category>
+		<category><![CDATA[NSG]]></category>
+		<category><![CDATA[shadow]]></category>
+		<category><![CDATA[tandem]]></category>
+		<category><![CDATA[Windshield Wiper]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=274</guid>
+				<description><![CDATA[Da am Montag und Mittwoch die Kurse ausgefallen sind, hab ich mich mal zum NSG Donnerstagkurs bei Christina und Norbert getraut. Ich muss sagen, es hat sich gelohnt: wir haben den Back-Charleston mit Ein/Ausgang, Halb- und Komplettdrehung geübt. Das war sowieso bei mir immer bissl unklar und funktioniert jetzt schon besser 😉 Unklar ist mir [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cherry poppin daddies &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/cherry-poppin-daddies/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 16 Sep 2009 16:03:59 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Auf zum Zoot Suit Riot</title>
+		<link>http://www.hopit.de/2009/02/auf-zum-zoot-suit-riot/</link>
+				<pubDate>Fri, 13 Feb 2009 09:06:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[cherry poppin daddies]]></category>
+		<category><![CDATA[nu swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=174</guid>
+				<description><![CDATA[Ich weiss, hat schon jeder 1000x gehört, jeder kennts, ein Muss jeder guter Party. Aber für mich weder abgedroschen noch ausgeleiert &#8211; ein Klassiker, ein Muss &#8211; und es kribbelt schon wieder in den Beinen: btw. das Cheery Poppin&#8216; Daddies Konzert in Hamburg (Hafenklang Exil) 2008 war nicht so der Renner, da waren sie in [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

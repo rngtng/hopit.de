@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lindy hopy &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/lindy-hopy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:34:53 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: SWING CRAZE 2011</title>
+		<link>http://www.hopit.de/2011/10/berlin-swing-craze-2011/</link>
+				<pubDate>Fri, 14 Oct 2011 13:07:43 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[lindy hopy]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[teaser]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3259</guid>
+				<description><![CDATA[Wuaahh! Riesen fättes schönes Ding am Samstag: Auf zum SWING CRAZE 2011! &#8211; der Swingball der Superlative auf kuschligen 560 m2 mit dem Andreas Hofschneider Quartett feat. Andrej Hermlin (Piano) und Bettina Labeau (Gesang). Auch mit dabei: + DJ Capt’n Kuddlemuddle + den Big Band Dancers + Swingteaser by Lovely Rita &#38; Wolfhard + Show [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

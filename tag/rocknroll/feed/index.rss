@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rock&#8217;n&#8217;roll &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/rocknroll/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:02 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Boogie, Swing und Rock&#8217;n Roll in München &#038; Hamburg tanzen</title>
+		<link>http://www.hopit.de/2010/04/boogie-swing-und-rockn-roll-in-munchen-hamburg-tanzen/</link>
+				<pubDate>Thu, 22 Apr 2010 10:27:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[boogie woogie]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[münchen]]></category>
+		<category><![CDATA[qype]]></category>
+		<category><![CDATA[rock'n'roll]]></category>
+		<category><![CDATA[tanzen]]></category>
+		<category><![CDATA[tipps]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1479</guid>
+				<description><![CDATA[Hab gerade auf Qype diesen schönen Guide mit Empfehlungen für ein Boogie, Swing oder Rock&#8217;n Roll Tänzchen in München gefunden: http://www.qype.com/lists/671630-Boogie-Swing-und-Rockn-Roll-in-Muenchen Motiviert von dieser schönen Liste, hab ich das auch mal für Hamburg gamcht: http://www.qype.com/lists/672164-Swing-und-Rockn-Roll-Tanz-in-Hamburg [schick bild und mehr kassel Zeitung]]]></description>
+									</item>
+		<item>
+		<title>DJ Jakob the Butcher vs. Happy Feet!</title>
+		<link>http://www.hopit.de/2009/06/dj-jakob-the-butcher-vs-happy-feet/</link>
+				<pubDate>Thu, 18 Jun 2009 12:37:16 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[ottensen]]></category>
+		<category><![CDATA[rock'n'roll]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=566</guid>
+				<description><![CDATA[Am Freitag geht&#8217;s nach Ottensen. Dort legt wieder Tanzorchester Fabian mit Happy Feet im Planet [qype id=&#8220;7594&#8243;] auf. Zur gleichen Zeit, unweit nah, wetzt DJ Jakob the Butcher im [qype id=&#8220;4042&#8243;] die Platten à la &#8222;Why O Devil Why O Why Aint There Something That Money Cant Buy&#8220;. Da fällt die Entscheidung schwer, ich geh [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

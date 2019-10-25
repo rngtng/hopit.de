@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mai &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/mai/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:43 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>(Swing)Tanz in den Mai in Hamburg 2009</title>
+		<link>http://www.hopit.de/2009/04/swingtanz-in-den-mai-in-hamburg-2009/</link>
+				<pubDate>Wed, 29 Apr 2009 14:39:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[casino]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[mai]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=409</guid>
+				<description><![CDATA[Ok, Ok, kommt wohl etwas bissl spät, aber hier interessante Events für morgen Abend: Swing in den Mai mit Liveband, in Players Lounge im [qype id=&#8220;68870&#8243;]: Es spielt live Shreveport Rhythm danach Platten von Swingin&#8216; Swanee! Swingwerkstatt Crashkurs 20:30, siehe Flyer hier Einlass ab 20.00, Eintritt 9,- / ermäßigt 7,- MAYRIDE &#8211; Tand in den [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tuck turn &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tuck-turn/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 27 Mar 2009 10:30:19 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>17.Mrz09, NSG: überdrehter Swing Out, mit Hüftdrehung und Drags</title>
+		<link>http://www.hopit.de/2009/03/17mrz%e2%80%9909-nsg-uberdrehter-swing-out-mit-huftdrehung-mit-drags/</link>
+				<pubDate>Fri, 27 Mar 2009 10:30:08 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[NSG]]></category>
+		<category><![CDATA[tuck turn]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=325</guid>
+				<description><![CDATA[Heut habe ich (ausnahmsweise) mal Dienstags im [qype id=&#8220;95627&#8243;] mit Steffi und Carsten getanzt. Es war eine sehr schöne Runde im kleinen Kreis &#8211; muss ich nun öfters machen! Getanzt haben wir den überdrehten Swing Out. Idee ist, dass man auf Step 4+5 Follower leicht &#8218;anhebt&#8216; und dadurch noch eine weitere Halbdrehung führen kann um [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

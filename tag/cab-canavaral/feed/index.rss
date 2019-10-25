@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cab Canavaral &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/cab-canavaral/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:34:38 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Electroswinger &#8211; neuer Electro Swing Blog</title>
+		<link>http://www.hopit.de/2011/05/electroswinger-neuer-electro-swing-blog/</link>
+				<pubDate>Thu, 19 May 2011 12:20:27 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Cab Canavaral]]></category>
+		<category><![CDATA[electro swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2773</guid>
+				<description><![CDATA[Hab hier gerade &#8217;nen neuen Electro Swing Blog gefunden: http://electroswinger.wordpress.com Wenn auch erst Anfang April gestartet, findet man jetzt schon einige sehr schöne Einträge, sowie viele gesammelte Electro-Swing Basics inkl. must-know Videos, Musik und CD-Tipps. Ich wünsche Autor DJ Cab Canavaral (aka. Saxophonist von 5 in Love) viel Spaß mit diesem Blog, bin sehr gespannt [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

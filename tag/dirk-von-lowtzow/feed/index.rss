@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dirk von Lowtzow &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/dirk-von-lowtzow/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Dirk von Lowtzow &#8211; Alle Menschen San Ma Zwida</title>
+		<link>http://www.hopit.de/2010/11/dirk-von-lowtzow-alle-menschen-san-ma-zwida/</link>
+				<pubDate>Tue, 30 Nov 2010 14:16:45 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[Dirk von Lowtzow]]></category>
+		<category><![CDATA[tocotronic]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2164</guid>
+				<description><![CDATA[Was für unsere humorvollen Blues-Fan unter uns: Dirk von Lowtzow (Tocotronic), produziert by DJ DSL: Alle Menschen San Ma Zwida: Fättes Dank dafür an DJ MasterQuest]]></description>
+									</item>
+	</channel>
+</rss>

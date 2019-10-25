@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>release &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/release/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:40:03 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Elektro Swing: Odjbox &#8211; Swamp Stomp</title>
+		<link>http://www.hopit.de/2011/04/elektro-swing-odjbox-swamp-stomp/</link>
+				<pubDate>Tue, 05 Apr 2011 13:09:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[ep]]></category>
+		<category><![CDATA[odjbox]]></category>
+		<category><![CDATA[release]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2572</guid>
+				<description><![CDATA[Odjbox, krasser Electro Swing DJ von der Insel, hat seine neuste E.P. Swamp Stomp zum Download veröffentlicht. Alles kostenlos, für eine Spende gibt&#8217;s jedoch noch paar Bonus Tracks und bessere Qualität &#8211; top Konzept! The download of this E.P. is FREE! however, if you wish to donate then you can &#8217;name your price&#8216; 🙂 If [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Electro Swing Republic</title>
+		<link>http://www.hopit.de/2011/03/electro-swing-republic/</link>
+				<pubDate>Fri, 04 Mar 2011 10:11:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[album]]></category>
+		<category><![CDATA[CD]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[lp]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[release]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2385</guid>
+				<description><![CDATA[Yay, DJ Fito Bolai, &#8218;the President of Swing Republic&#8216;, hat sein erstes Electro Swing Album veröffentlicht &#8211; Electro Swing Republic. Ich finds &#8217;ne ganz gelungene Scheibe die klar den aktuellen Electro Swing Trend vorantreibt. Abwechslungsreich gefüllt mit schönen &#8218;classic&#8216; Swing Tracks &#38; Samples &#8211; frisch &#38; im Dance- oder Breakbeat verpackt, und dass zum Glück [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

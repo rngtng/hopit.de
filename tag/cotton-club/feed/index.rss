@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cotton club &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/cotton-club/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:47:40 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>40 Jahre Revival Jazz Band im Cotton-Club Hamburg</title>
+		<link>http://www.hopit.de/2011/03/40-jahre-revival-jazz-band-im-cotton-club-hamburg/</link>
+				<pubDate>Tue, 08 Mar 2011 15:31:33 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[cotton club]]></category>
+		<category><![CDATA[dixie]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2430</guid>
+				<description><![CDATA[http://www.youtube.com/watch?v=sf8noXhA8Ec Am 1. April 2011 feiert die Revival Jazz Band ihr 40(!)jähriges Bandjubiläum. Die Herren geben dazu ein Konzert im Cotton Club, hamburgs ältestem Jazz Club. Gespielt wird tanztauglicher Dixie Swing, der sich z.B. für heißen Charleston und flinken Lindy geradezu anbietet 🙂 Es werden auch einige Gäste aus der Hamburg Jazz Szene dabei sein. [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Jazz Puls im Cotton Club</title>
+		<link>http://www.hopit.de/2011/01/jazz-puls-im-cotton-club/</link>
+				<pubDate>Wed, 19 Jan 2011 17:59:11 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[cotton club]]></category>
+		<category><![CDATA[dixie]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Hot Shots]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[JazzPuls]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2306</guid>
+				<description><![CDATA[Die hamburger Dixie Swing Band Jazz Puls gibt am 1.2. ein Konzert im Cotton Club, Alter Steinweg 10. Ich war da letztens mal und hab mich gefragt, weshalb da eigentlich keine Tänzer sind. Immerhin ist das der älteste Jazz Club Hamburgs. Hörpoben der Band gibts hier somebody stole my gal oder auf der Website unter http://www.jazzpuls.de/ [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Ab heute: Neue Swing-Reihe im Cotton Club Hamburg</title>
+		<link>http://www.hopit.de/2010/03/ab-heute-neue-swing-reihe-im-cotton-club-hamburg/</link>
+				<pubDate>Wed, 31 Mar 2010 10:43:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[cotton club]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1487</guid>
+				<description><![CDATA[Oh, eine neue Swingreihe im [qype id=&#8220;4916&#8243;]! Sehr schön &#8211; hier die Pressemeldung: Es wird wieder geswingt! In Hamburg Jazz und Swing- Musik hören. Wo das geht? Im Cotton-Club, dem angesagten Jazz-Club der Hansestadt. Gaststar zum Auftakt einer neuen Swing-Reihe in Zusammenarbeit mit Swinging Hamburg ist Beatrice Hallenberg, Jazz-Sängerin mit großer Zukunft. Sie ist Hamburgerin [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Weihnachten mit 8 to the bar im Cotton Club Hamburg</title>
+		<link>http://www.hopit.de/2009/12/weihnachten-mit-8-to-the-bar-im-cotton-club-hamburg/</link>
+				<pubDate>Sat, 12 Dec 2009 16:39:18 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[cotton club]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=642</guid>
+				<description><![CDATA[Die Hamburger Swing &#38; Jazz Combo 8 to the bar spielt am 2. Weihnachtsfeiertag im [qype id=&#8220;4916&#8243;]. Alle weiteren Termine hier: http://www.eighttothebar.de/616/de/0/a/0/termine.html]]></description>
+									</item>
+	</channel>
+</rss>

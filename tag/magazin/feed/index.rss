@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>magazin &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/magazin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:44:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swingoody &#8211; Magazin für Lindy, Swing und Lifestyle der 30er und 40er Jahre</title>
+		<link>http://www.hopit.de/2012/06/swingoody-magazin-fur-lindy-swing-und-lifestyle-der-30er-und-40er-jahre/</link>
+				<pubDate>Mon, 11 Jun 2012 22:00:08 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[info]]></category>
+		<category><![CDATA[lesen]]></category>
+		<category><![CDATA[magazin]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4084</guid>
+				<description><![CDATA[Oh wie schön: Hier ein sehr interessantes (offline) Magazin für Lindy, Swing und Lifestyle der 30er und 40er Jahre. Die erste Ausgabe Juni 2012 beinhaltet u.a: &#8211; Entwicklung der Swing-Tänze (in späteren Ausgaben sind detaillierte Beschreibungen geplant) &#8211; Louis Prima Kurzbiographie &#8211; Anfänge des Swing Revival in Deutschland &#8211; Hollywood Canteen &#8211; Stars für die [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

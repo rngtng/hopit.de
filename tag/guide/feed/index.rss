@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>guide &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/guide/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 23 Jan 2013 13:47:19 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Jazz Guide Berlin</title>
+		<link>http://www.hopit.de/2013/01/jazz-guide-berlin/</link>
+				<pubDate>Wed, 23 Jan 2013 13:46:26 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[guide]]></category>
+		<category><![CDATA[Jazz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4436</guid>
+				<description><![CDATA[Kennt ihr schon den Jazz Guide Berlin? Neben dem Location finder auch den Kalender im Auge behalten, da sind so manch swingin&#8216; Termine mit dabei! Schnell mal anschauen: http://www.jazz-guide-berlin.de]]></description>
+									</item>
+		<item>
+		<title>Herräng 2010 &#8211; jetzt schon an morgen denken!</title>
+		<link>http://www.hopit.de/2010/06/herrang-2010-jetzt-schon-an-morgen-denken/</link>
+				<pubDate>Tue, 29 Jun 2010 10:13:30 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[camp]]></category>
+		<category><![CDATA[guide]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[schweden]]></category>
+		<category><![CDATA[sommer]]></category>
+		<category><![CDATA[sonne]]></category>
+		<category><![CDATA[spaß]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tipps]]></category>
+		<category><![CDATA[zelten]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1643</guid>
+				<description><![CDATA[Juhu, noch wenige Tage  und es ist wieder soweit: HERRÄNG 2010! [vimeo]http://www.vimeo.com/5991458[/vimeo] Letztes Jahr hab ich einen kleinen Guide zusammen gestellt. Unbedingt lesen: http://www.hopit.de/2009/07/auf-nach-herrang-so-uberlebst-du-das-swing-tanz-camp/ &#8230; und auch auf der Herräng Seite gibts einen schönen (Anfänger)Guide: http://www.herrang.com/en/firsttime/ Na dann stehen 5 Wochen Tanz, Spaß &#38; Sonne nichts mehr im Wege, wünsch euch viel Spaß! Wir sehn [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

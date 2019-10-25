@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>planten un blomen &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/planten-un-blomen/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 09:59:03 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing im Planten un Blomen Park</title>
+		<link>http://www.hopit.de/2009/05/swing-in-planten-un-blomen/</link>
+				<pubDate>Sat, 30 May 2009 15:22:47 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[big band]]></category>
+		<category><![CDATA[draussen]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[planten un blomen]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=523</guid>
+				<description><![CDATA[Es ist wieder soweit! Swing Time in Planten un Blomen. Im Musikpavilion spielen an den kommenden Wochenenden wieder verschiedene (Big) Bands, unter anderem auch Swing! Los geht&#8217;s mit Big Band Domino am Samstag und Transatlantic Big Band am Sonntag. Alle restlichen Termine hier im Kalender http://www.plantenunblomen.hamburg.de/musik_mai.html [via NSG Brett von Georg]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>google &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/google/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:57 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Google  Music Timeline</title>
+		<link>http://www.hopit.de/2015/01/google-music-timeline/</link>
+				<pubDate>Mon, 12 Jan 2015 11:06:16 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4798</guid>
+				<description><![CDATA[Wow, ein sehr schönes Tool um Musik zu finden. Look how Big Jazz was these days&#8230; http://research.google.com/bigpicture/music/ [via Nerdcore]]]></description>
+									</item>
+		<item>
+		<title>Google Easter Egg: Schwedens Mitte</title>
+		<link>http://www.hopit.de/2010/07/google-easter-egg-schwedens-mitte/</link>
+				<pubDate>Mon, 19 Jul 2010 13:49:16 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[google]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[maps]]></category>
+		<category><![CDATA[mitte]]></category>
+		<category><![CDATA[schweden]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1669</guid>
+				<description><![CDATA[Die Mitte von Europa hat Stanislaw Mucha in diesem schönen Film gefunden &#8211; aber wo wohl ist die Mitte von Schweden? Stockholm? Google Map weiss es: sucht mal nach &#8218;Schweden&#8216; und zoomt hinein. Ohaaa!! Gruesse aus der wahren Mitte! [via Herräng Camp Meeting]]]></description>
+									</item>
+	</channel>
+</rss>

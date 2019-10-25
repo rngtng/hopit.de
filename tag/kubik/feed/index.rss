@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kubik &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/kubik/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:00 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ich war noch niemals in New York &#8230;</title>
+		<link>http://www.hopit.de/2009/05/ich-war-noch-niemals-in-new-york/</link>
+				<pubDate>Tue, 19 May 2009 17:35:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[frankie95]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[kubik]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[New York]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=505</guid>
+				<description><![CDATA[&#8230; aber das wird sich ab Morgen ändern. Fast als ob er es gewusst hätte, hat DJMQ dazu passend seinen neuen Mix &#8222;Noch niemals in New York&#8220; gerade veröffentlicht &#8211; und der gefällt mir sehr, sogar Frohlocker sind drauf &#8211; top! (non swing) Tipp: Während ich da so weg bin checkt ihr mal endlich Kubik [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>grüner salon &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/gruner-salon/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:50:39 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: 7 o&#8216; clock Swing Dance mit den Swing Crusaders</title>
+		<link>http://www.hopit.de/2011/05/berlin-7-o-clock-swing-dance-mit-den-swing-crusaders/</link>
+				<pubDate>Thu, 19 May 2011 08:51:08 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[grüner salon]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Swing Crusaders]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2835</guid>
+				<description><![CDATA[Am Sonntag, 22.05. um 19:00 Uhr swingen und tanzen im [qype id=&#8220;5222&#8243;] &#8211; beim 7 o&#8216; clock Swing Dance mit den Swing Crusaders! &#8211; Musik für die Beine und das Herz. Empfehlenswert. Auch für Nichttänzer. Endlich ist er wieder da: Der Swing-Tanztee am Sonntag! Der Bruder des 5 oclock Swing Dance lädt die Berliner Swing-Community [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

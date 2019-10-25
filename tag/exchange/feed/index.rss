@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>exchange &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/exchange/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg:  Lindy Exchange &#8211; HHLX</title>
+		<link>http://www.hopit.de/2011/08/hamburg-lindy-exchange-hhlx/</link>
+				<pubDate>Wed, 24 Aug 2011 09:37:02 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3127</guid>
+				<description><![CDATA[Am kommenden Wochenende ist&#8217;s wieder soweit: Hamburg läd zum nächsten Lindy Exchange ein. Auf dem Programm stehen u.a.: Tranky Doo Class / Welcome Party Bouncing Brunch Swinging Ballroom Swing Cruise Farewell Walk &#038; Party Get Flat! Balboa Party wow! Alles weitere hier: http://www.hamburglindyexchange.de/]]></description>
+									</item>
+		<item>
+		<title>Berlin Swing Dance Exchange &#8211; BSDX 2011</title>
+		<link>http://www.hopit.de/2011/05/berlin-swing-dance-exchange-bsdx-2011/</link>
+				<pubDate>Tue, 03 May 2011 15:13:25 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[lindy hop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2671</guid>
+				<description><![CDATA[UPDATE: Uhrgs, ich seh gerade die Party am Samstag alleine kostet 30EUR( Dreißig !!!)). Das find ich mal eindeutig zuviel. Das ist weder der Ort noch die Band Wert. Sorry. Juhu, am Wochenende ist es endlich soweit. Das (erste?) Swing Dance Exchange Happening in Berlin &#8211; yay! 3 Tage Parties an vielen unbetanzten Orten und [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Blues Calendar</title>
+		<link>http://www.hopit.de/2011/03/blues-calendar/</link>
+				<pubDate>Thu, 10 Mar 2011 18:05:57 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[kalender]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2447</guid>
+				<description><![CDATA[Gerade habe ich einen super Kalender für internationale Blues Workshops und Exchanges gefunden. Neben Bluestanz gehts auch um Lindy, Balboa und sogar Tango &#8230; http://bluescal.com/]]></description>
+									</item>
+		<item>
+		<title>Jetzt anmelden zum Hamburg Lindy Exchange und Elbeswing</title>
+		<link>http://www.hopit.de/2009/05/jetzt-anmelden-zum-hamburg-lindy-exchange-und-elbeswing/</link>
+				<pubDate>Thu, 07 May 2009 12:50:28 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[elbswing]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[lindy]]></category>
+		<category><![CDATA[NSG]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=433</guid>
+				<description><![CDATA[Schnell, schnell: jetzt anmelden zum Hamburger Lindy Exchange ende August 2009: Kilckst du hier: http://www.hamburglindyexchange.de Highlight ist auf jeden Fall die Elbe swing tour am Samstag &#8211; ich freu mich!]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sharon davis &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/sharon-davis/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:40 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Sharon Davis bloggt: 1920s Charleston Video</title>
+		<link>http://www.hopit.de/2009/10/sharon-davis-bloggt-1920s-charleston-video/</link>
+				<pubDate>Thu, 22 Oct 2009 10:29:17 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[sharon davis]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=974</guid>
+				<description><![CDATA[Sharon Davis bloggt, und das durchaus mit sehr schönen Beiträgen, Fotos &#38; Videos. Wie z.b. dieser fabelhafte 1920s Charlston clip. Anschaun &#38; abgehn:]]></description>
+									</item>
+	</channel>
+</rss>

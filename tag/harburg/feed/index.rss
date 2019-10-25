@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>harburg &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/harburg/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:47:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing das Leben &#8211; Sunday Stomp goes Harburg</title>
+		<link>http://www.hopit.de/2010/08/swing-das-leben-sunday-stomp-goes-harburg/</link>
+				<pubDate>Sat, 07 Aug 2010 08:54:22 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[crahskurs]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[harburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[sunday stomp]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tanz lindy hop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1713</guid>
+				<description><![CDATA[Für Freunde des gepflegten Swingtanzes gibt es am Sonntag, 08.08.2010, ab 16 Uhr, &#8222;Swing das Leben&#8220; im [qype id=&#8220;13274&#8243;]. Um 16 Uhr bietet die Swingwerkstatt Hamburg einen kostenlosen Crashkurs an, Anmeldung ist nicht erforderlich. Anschließend darf ab 16:30 Uhr zu Charleston, Balboa und Lindy Hop getanzt werden. Für vier Stunden legt DJ Mel aktuelle und [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Vertiko swingt im  Cotton Club und Jazzclub Bergedorf</title>
+		<link>http://www.hopit.de/2009/10/vertiko-swingt-im-consortium-harburg/</link>
+				<pubDate>Wed, 28 Oct 2009 10:19:20 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[harburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1017</guid>
+				<description><![CDATA[Auf nach Harburg! Am Donnerstag spielt dort im [qype id=&#8220;2461&#8243;] das Hamburger Swingsextett Vertiko. Klingt sehr vielversprechend: Martini für die Ohren &#8211; Das Hamburger SwingsextettVertiko mit der charmanten Sängerin Kristina Kruttke, spielt, was längst zu verstauben drohte  Musikstücke im Rhythmus vergangener Jahrzehnte mit Spielwitz, Virtuosität und vor allem Swing! Das ist Schellack ohne Rauschen [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Take 5 Jazzfestival im Stellwerk, Fahrradsternfahrt und viel Swing auf der Altonale</title>
+		<link>http://www.hopit.de/2009/06/take-5-jazzfestival-im-stellwerk-fahrradsternfahrt-und-viel-swing-auf-der-altonale/</link>
+				<pubDate>Thu, 18 Jun 2009 14:52:11 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[altonale]]></category>
+		<category><![CDATA[draussen]]></category>
+		<category><![CDATA[fahrrad]]></category>
+		<category><![CDATA[harburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=571</guid>
+				<description><![CDATA[&#8230; und noch ein Wochenendtipp (von Anne): Am Sonntag findet das Take 5 Jazzfestival im [qype id=&#8220;13262&#8243;] statt: Verkaufsoffener Sonntag in Harburg und wir geben den musikalischen Takt dazu an. An fünf Standorten und in fünf Stunden gibt es fünf Jazzstile und etliche Bands zu erleben  von BigBand bis Gypsy und Pop-Jazz. Ein Erlebnis [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

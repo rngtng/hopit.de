@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jump blues &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/jump-blues/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Mandalay Entrée 2012 Silvestershow</title>
+		<link>http://www.hopit.de/2011/11/hamburg-mandalay-entree-2012-silvestershow/</link>
+				<pubDate>Thu, 24 Nov 2011 17:44:41 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[big band r&b]]></category>
+		<category><![CDATA[Burlesque]]></category>
+		<category><![CDATA[jive]]></category>
+		<category><![CDATA[jump blues]]></category>
+		<category><![CDATA[lux gold]]></category>
+		<category><![CDATA[mandalay]]></category>
+		<category><![CDATA[Swingy the Kid]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3354</guid>
+				<description><![CDATA[31.12.2011 / 21:00 Uhr / Eintritt Abendkasse 20€ / Vorverkauf 17€ Early bird an der BAR im Mandalay bis zum 03.12.2011 12€ !! DJs: DJ Cram (Elektro) DJ Swingy the Kid (Swing) &#8230; Band: LUX GOLD Burlesque: Amber Vanilla (Berlin) ZWEI FLOORS, LIVE-QUARTETT, DJ-SETS, BURLESQUE, ABSINTHE DJ-Sets, Specials und Live Sound die ganze Nacht. Auf [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Hamburg: Osterhasenhop</title>
+		<link>http://www.hopit.de/2011/04/hamburg-osterhasenhop/</link>
+				<pubDate>Fri, 22 Apr 2011 18:26:59 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[jump blues]]></category>
+		<category><![CDATA[Rythm & Blues]]></category>
+		<category><![CDATA[Swing Jugend Let's Dance]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2621</guid>
+				<description><![CDATA[Für ganz Kurzentschlossene hier noch eine Eilmeldung 🙂 &#8230; SWING JUGEND LET&#8217;S DANCE! mit DJ Swingy the Kid im Komet in der Erichstraße 11, St. Pauli 30er bis 60er Jahre Rhythm &#38; Blues Big Band Hanky Panky Swing Zwang! Wir weisen darauf hin, dass das Tanzen bis 2 Uhr Nachts in diesem Land verboten ist [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Hamburg: Mandalay Swing Fever</title>
+		<link>http://www.hopit.de/2011/03/hamburg-mandaley-swing-fever/</link>
+				<pubDate>Fri, 25 Mar 2011 10:04:10 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[jump blues]]></category>
+		<category><![CDATA[mandalay]]></category>
+		<category><![CDATA[R&B]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2487</guid>
+				<description><![CDATA[Ab April kann sich tanzwilliges Publikum über eine neue Veranstaltungsreihe mit viel Swingmusik- und tanz freuen! Dann gibt es jeden Mittwoch im Mandaley (Neuer Pferdemarkt 13) Swingmusik, Schnupperkurse und natürlich immer jeder Menge Social-DÄÄÄNZ! Das geht so: Jeden Mittwoch im Monat: Swingmusik mit freiem Lindy Hop Crash Kurs Mittwoch freier Balboa Crash Kurs (mit DJ [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

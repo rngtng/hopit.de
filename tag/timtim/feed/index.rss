@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>timtim &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/timtim/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 15 Dec 2009 14:40:42 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>TimTim &#8211; Rum &#8218;N&#8216; Coca Cola</title>
+		<link>http://www.hopit.de/2009/12/timtim-rum-n-coca-cola/</link>
+				<pubDate>Tue, 08 Dec 2009 11:50:57 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[andrew sisters]]></category>
+		<category><![CDATA[cover]]></category>
+		<category><![CDATA[hip hop]]></category>
+		<category><![CDATA[timtim]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1188</guid>
+				<description><![CDATA[Ha, hört euch das an: &#8217;ne schöne Andrew Sisters Hip-Hop Cover Nummer: Rum &#8218;N&#8216; Coca Cola &#8211; Shake it up well von TimTim die Choreo mit interessanter zählweise gibt&#8217;s auch schon dazu:]]></description>
+									</item>
+	</channel>
+</rss>

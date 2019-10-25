@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>clip &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/clip/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 10 Jun 2010 10:29:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing mal richtisch&#8230;</title>
+		<link>http://www.hopit.de/2010/06/swing-mal-richtisch/</link>
+				<pubDate>Thu, 10 Jun 2010 10:19:07 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[clip]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1595</guid>
+				<description><![CDATA[So, nach etwas kleiner vor-sommer-pause gehts hier weiter mit einem schönen clip den mir Arne geschickt hat: Vergesst alles was ihr über swing wisst, das hier ist der wahre, smooth, laidback, fun &#38; jazzy swing: 1-a-2;? 1-a-2; 1-2 HAA, Haaa]]></description>
+									</item>
+		<item>
+		<title>Vintage Balboa Clip</title>
+		<link>http://www.hopit.de/2010/01/vinatge-balboa-clip/</link>
+				<pubDate>Tue, 26 Jan 2010 13:30:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[clip]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[movie]]></category>
+		<category><![CDATA[vintage]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1269</guid>
+				<description><![CDATA[Sehr geil! anschaun:]]></description>
+									</item>
+	</channel>
+</rss>

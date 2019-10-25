@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cyclown &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/cyclown/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:04 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>&#8230; die letzten Wochen mit Cyclown Circus</title>
+		<link>http://www.hopit.de/2010/11/die-letzten-wochen-mit-cyclown-circus/</link>
+				<pubDate>Thu, 11 Nov 2010 18:32:32 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[circus]]></category>
+		<category><![CDATA[cyclown]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1849</guid>
+				<description><![CDATA[http://www.youtube.com/watch?v=retFas00CS4 Die Swing-Strassenmusik-Fahrrad-Combo Cyclown Circus entfliehen dem kalten Winter und planen ihre Südamerika Tour. Somit heisst es noch die letzen Wochen die Band in Berlin geniessen und betanzen. So zum Beispiel am: Freitag, 12. Nov im SoulCat Donnerstag, 18. Nov im [qype id=&#8220;769176&#8243;] Freitag, 19. Nov im [qype id=&#8220;16478&#8243;]! Viel Spaß! http://www.cyclown.org/ und http://www.myspace.com/cyclowns Und [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

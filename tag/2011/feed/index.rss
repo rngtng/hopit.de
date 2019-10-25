@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2011 &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/2011/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 18 Mar 2011 15:28:56 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Herräng &#8211; Swing Dance Camp 2011 &#8211; Video:</title>
+		<link>http://www.hopit.de/2011/03/herrang-swing-dance-camp-2011-video/</link>
+				<pubDate>Sat, 19 Mar 2011 15:23:22 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[2011]]></category>
+		<category><![CDATA[camp]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[Festival]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[schweden]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2472</guid>
+				<description><![CDATA[http://www.youtube.com/watch?v=k2Mj30fLOnQ Alles gesagt, oder!? Dann auf zum Herräng Swing Dance Camp! http://www.herrang.com]]></description>
+									</item>
+	</channel>
+</rss>

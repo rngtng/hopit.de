@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ticket &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ticket/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:34:29 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin:  MURDERS in STEREO im Roten Salon &#8211; 2x 2 Tickets zu gewinnen!</title>
+		<link>http://www.hopit.de/2011/11/berlin-murders-in-stereo-im-roten-salon-2x-2-tickets-zu-gewinnen/</link>
+				<pubDate>Wed, 02 Nov 2011 17:32:41 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[rockabilly]]></category>
+		<category><![CDATA[roter salon]]></category>
+		<category><![CDATA[ticket]]></category>
+		<category><![CDATA[verlosung]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3290</guid>
+				<description><![CDATA[Berlin ist um eine weitere Swing Party reicher: Im 14-Tage Rhythmus findet ab diesen Freitag im Roten Salon der Volksbühne die MURDERS in STEREO Party statt. DJ SWANGO FANDANGO präsentiert neben Swing Klassiker á la Glen Miller, Big Joe Turner, Wanda Jackson auch Neo Swing Bands der 80er/90er, sowie Bopping uptempo Rockabilly aus aller Welt. [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

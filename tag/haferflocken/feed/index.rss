@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Haferflocken &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/haferflocken/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:36:36 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: HAFERFLOCKEN SWINGERS present Midnight Boogie @Monarch Kreuzberg</title>
+		<link>http://www.hopit.de/2012/03/berlin-haferflocken-swingers-present-midnight-boogie-monarch-kreuzberg/</link>
+				<pubDate>Wed, 07 Mar 2012 18:00:46 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Haferflocken]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[swingers]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3584</guid>
+				<description><![CDATA[OMG! Haferflocken Swingers haben &#8217;ne neue Scheibe &#8222;Midnight Boogie&#8220; und präsentieren diese im vollen Umfang am Samstag im Monarch Kreuzberg. Das Album &#8222;Midnight Boogie&#8220; ist eine frische Mischung aus retro Rock&#8217;n Roll mit klassische Haferflocken Nuancen. Die 11 Kompositionen erstrecken sich von Früh Jazz in der Art von Raymond Scott bis rockige Lieder geprägt mit [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: Les Haferflocken Swingers &#8211; Live!</title>
+		<link>http://www.hopit.de/2011/07/berlin-les-haferflocken-swingers-live/</link>
+				<pubDate>Thu, 21 Jul 2011 10:04:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Haferflocken]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3015</guid>
+				<description><![CDATA[Wohoo, die Haferflocken Swingers sind morgen im Bassy: Club: Les Haferflocken Swingers &#8211; Live! (Swing, Rock&#8217;n&#8217;Roll, Oriental) (Eintritt frei bis 22.00 Uhr) DJ (Club): Rogall (Original Rhythm&#38;Blues, Jive, Rockabilly) DJ (Bar): Koko Temple (Rhythm&#38;Blues, Swing, early Ska, Soul) &#8222;Eine Band wie dieser verrückte Haufen kann eigentlich nur in Berlin entstehen; der Motto: Swing, Sax &#38; [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

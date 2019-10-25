@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rockabilly &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/rockabilly/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:34:29 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin:  MURDERS in STEREO im Roten Salon &#8211; 2x 2 Tickets zu gewinnen!</title>
+		<link>http://www.hopit.de/2011/11/berlin-murders-in-stereo-im-roten-salon-2x-2-tickets-zu-gewinnen/</link>
+				<pubDate>Wed, 02 Nov 2011 17:32:41 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[rockabilly]]></category>
+		<category><![CDATA[roter salon]]></category>
+		<category><![CDATA[ticket]]></category>
+		<category><![CDATA[verlosung]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3290</guid>
+				<description><![CDATA[Berlin ist um eine weitere Swing Party reicher: Im 14-Tage Rhythmus findet ab diesen Freitag im Roten Salon der Volksbühne die MURDERS in STEREO Party statt. DJ SWANGO FANDANGO präsentiert neben Swing Klassiker á la Glen Miller, Big Joe Turner, Wanda Jackson auch Neo Swing Bands der 80er/90er, sowie Bopping uptempo Rockabilly aus aller Welt. [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Electro Swing Cats Remix: Marilyn Monroe &#8211; Diamonds Are a Girl&#8217;s Best Friend</title>
+		<link>http://www.hopit.de/2011/02/electro-swing-cats-remix-marilyn-monroe-diamonds-are-a-girls-best-friend/</link>
+				<pubDate>Tue, 01 Feb 2011 13:20:15 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Marilyn Monroe]]></category>
+		<category><![CDATA[remix]]></category>
+		<category><![CDATA[rockabilly]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2328</guid>
+				<description><![CDATA[Hier was für all unsere Electro/Neo/Nu-Swing Fans: Die gute alte ever young Marilyn Monroe mit Diamonds Are a Girl&#8217;s Best Friend im fetzigen Swing Cats Remix: nice!]]></description>
+									</item>
+		<item>
+		<title>Flyin&#8216; Rockabilly</title>
+		<link>http://www.hopit.de/2009/10/flyin-rockabilly/</link>
+				<pubDate>Tue, 27 Oct 2009 19:39:39 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[rockabilly]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1008</guid>
+				<description><![CDATA[In Sachen Spontan-Swingcombo bin ich gerade auf die Nymonics aus Hamburg gestoßen. Ist zwar eher Rockabilly was die so machen, aber in der Not swingt der (Tanz)teufel ja bekanntlich auch Rockabilly Fliegen 😉 http://www.nymonics.de/ Übrigens spielen die Herren am 21. November 2009 ab 20h im Music Club LIVE, Fruchtallee 36 in Hamburg.]]></description>
+									</item>
+		<item>
+		<title>Kitty, Daisy &#038; Lewis bei der Charlotte (Roche)</title>
+		<link>http://www.hopit.de/2009/09/kitty-daisy-lewis-bei-der-charlotte-roche/</link>
+				<pubDate>Mon, 14 Sep 2009 14:18:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Daisy & Lewis]]></category>
+		<category><![CDATA[Kitty]]></category>
+		<category><![CDATA[rockabilly]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=826</guid>
+				<description><![CDATA[Die Charlotte Roche hatte am Freitag ihre Premieresendung von 3nach9 und hat dazu gleich mal gute Musiker eingeladen: Kitty, Daisy &#38; Lewis mit Going up the country &#8211; Live!]]></description>
+									</item>
+	</channel>
+</rss>

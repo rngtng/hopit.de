@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>White Mink &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/white-mink/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:45:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>White Mink: Black Cotton &#8211; Electro Swing Vs Speakeasy Jazz &#8211; Volume 2</title>
+		<link>http://www.hopit.de/2010/11/white-mink-black-cotton-electro-swing-vs-speakeasy-jazz-volume-2/</link>
+				<pubDate>Fri, 05 Nov 2010 11:20:50 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[sampler]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[volume 2]]></category>
+		<category><![CDATA[White Mink]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1264</guid>
+				<description><![CDATA[Mit ihrem ersten Electro Swing Sampler haben White Mink schon eine schöne Mischung aus &#8218;modernem&#8216; und &#8218;klassischem&#8216; Swing hingelegt, jetzt geht&#8217;s weiter mit der zweiten Version: WHITE MINK : BLACK COTTON Vol. 2 &#8211; Electro Swing Vs Speakeasy Jazz &#8211; Die erste Scheibe ist wieder voll mit Electro Zeugs, überwiegend leider recht housig und auch [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Electro Swing Party in Brighton von White Mink</title>
+		<link>http://www.hopit.de/2010/10/electro-swing-party-in-brighton-von-white-mink/</link>
+				<pubDate>Fri, 08 Oct 2010 14:17:49 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[Festival]]></category>
+		<category><![CDATA[movits]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[The Correspondence]]></category>
+		<category><![CDATA[White Mink]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1929</guid>
+				<description><![CDATA[Wuuuaaahhh! Look at this! Crazy, wahnsinns Electro Swing Party in Brighton aufm Fringe Festival 2010. Mit dabei Movits, The Correspondence, Parov Stelar, Nick Hollywood und allen voran White Mink als &#8218;Gastgeber&#8216;. Ich will dahin!]]></description>
+									</item>
+	</channel>
+</rss>

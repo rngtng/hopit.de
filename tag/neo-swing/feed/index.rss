@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neo swing &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/neo-swing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:56 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Thank God it&#8217;s Friday &#8211; How to Drag Your Train In</title>
+		<link>http://www.hopit.de/2011/04/thank-god-its-friday-how-to-drag-your-train-in/</link>
+				<pubDate>Fri, 08 Apr 2011 10:29:14 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[neo swing]]></category>
+		<category><![CDATA[Schizobrainiac]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2587</guid>
+				<description><![CDATA[Thank God it&#8217;s Friday! &#8211; dazu passend was zum Hören, Hier &#8217;n schicket Neo Swing Ding von Schizobrainiac: Long before there was Michael Jackson, there was Solid, Jackson. A love letter to both enthusiasts of vintage 1930s big band jazz, and consummate artists still stuck in their day jobs, like yours truly. Special appearance by [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

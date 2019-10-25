@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>singy the kid &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/singy-the-kid/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 01 Oct 2010 10:42:47 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>DJ Swingy The Kid gibt auf die Ohren&#8230;</title>
+		<link>http://www.hopit.de/2010/10/dj-swingy-the-kid-gibt-auf-die-ohren/</link>
+				<pubDate>Fri, 01 Oct 2010 10:42:47 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[komet]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[mandalay]]></category>
+		<category><![CDATA[queen calavera]]></category>
+		<category><![CDATA[singy the kid]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1852</guid>
+				<description><![CDATA[&#8230;und natürlich Tanzfüsse: Am 01.10.10 im QUEEN CALAVERA: Am 02.10.10 im Kometen: Am 07.10.10 im MANDALAY: viel Spaß!]]></description>
+									</item>
+	</channel>
+</rss>

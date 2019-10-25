@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>termin &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/termin/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sat, 20 Oct 2012 11:04:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>BALBOA BOTSCHAFT – Balboa Swingtanz für Berlin</title>
+		<link>http://www.hopit.de/2012/10/balboa-botschaft-balboa-swingtanz-fur-berlin/</link>
+				<pubDate>Mon, 22 Oct 2012 16:30:16 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[belrin]]></category>
+		<category><![CDATA[termin]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4350</guid>
+				<description><![CDATA[BALBOA BOTSCHAFT – Balboa Swingtanz für Berlin Neue Kurse mit Anna &#38; Matti: -&#62; BALBOA I – Swingtanzkurs für Beginner und Auffrischer ab 14.11., Mittwochs 19:00 Uhr, 6 Termine á 75min, 60€/Person -&#62; BALBOA II – mehr Balboa ab 15.11., Donnerstags 21:00 Uhr, 6 Termine á 75min, 60€/Person -&#62; BALBOA III – viel mehr Balboa [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

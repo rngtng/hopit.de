@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>vw &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/vw/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 24 Aug 2009 09:32:20 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Supergau: Lars VW Bus auf Weg nach Herrang geklaut! Ahhhh! UPDATE: Bus wieder da!</title>
+		<link>http://www.hopit.de/2009/07/supergau-lars-vw-bus-auf-weg-nach-herrang-geklaut-ahhhh/</link>
+				<pubDate>Fri, 10 Jul 2009 09:06:35 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[diebstahl]]></category>
+		<category><![CDATA[geklaut]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[vw]]></category>
+		<category><![CDATA[weg]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/2009/07/supergau-lars-vw-bus-auf-weg-nach-herrang-geklaut-ahhhh/</guid>
+				<description><![CDATA[Update: Gute News, wir haben den Bus samt einem Grossteil unseres Gepäcks wieder. Er wurde auf einem abgelegenen Parkplatz am VikingTermin in Stockholm gefunden. Die Diebe haben den Bus komplett druchwühlt, jeglichen Elektronik Krams (Laptop, Handy, iPod, Rasierer, etc&#8230;), Schmuck und andere Wertsachen sowie das Bier mitgenommen&#8230; Sehr blöd, aber zum Glück haben wir viele [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

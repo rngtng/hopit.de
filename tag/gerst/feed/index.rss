@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gerst &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/gerst/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:22 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>G3rst: Nirvana vs. Koop &#8211; Swing Mashup</title>
+		<link>http://www.hopit.de/2009/08/g3rst-nirvana-vs-koop-swing-mashup/</link>
+				<pubDate>Thu, 20 Aug 2009 17:16:42 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[g3rst]]></category>
+		<category><![CDATA[gerst]]></category>
+		<category><![CDATA[mashup]]></category>
+		<category><![CDATA[nirvana]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=283</guid>
+				<description><![CDATA[Der Mashupper G3rst hats schon etwas länger raus, nun passend zur Mashup Party am Samstag Es gibt Nudeln im [qype id=&#8220;40589&#8243;] hier zwei swinginge Songs auf ganz unbekannte Weise: Nirvana &#8211; In Bloom vs Koop &#8211; Come To Me: [podcast]http://home.quicknet.nl/qn/prive/gerardstroomer/mashup/g3rst_-_bloom_to_me.mp3[/podcast] Bob Marley &#8211; No Woman No Cry vs Squirrel Nut Zippers &#8211; Prince Nez [podcast]http://home.quicknet.nl/qn/prive/gerardstroomer/mashup/g3rst_-_no_squirrel_no_cry.mp3[/podcast] [&#8230;]]]></description>
+						<enclosure url="http://home.quicknet.nl/qn/prive/gerardstroomer/mashup/g3rst_-_bloom_to_me.mp3" length="6190436" type="audio/mpeg" />
+<enclosure url="http://home.quicknet.nl/qn/prive/gerardstroomer/mashup/g3rst_-_no_squirrel_no_cry.mp3" length="5409284" type="audio/mpeg" />
+<enclosure url="http://home.quicknet.nl/qn/prive/gerardstroomer/mashup/g3rst_-_bloom_to_me.mp3" length="6190436" type="audio/mpeg" />
+<enclosure url="http://home.quicknet.nl/qn/prive/gerardstroomer/mashup/g3rst_-_no_squirrel_no_cry.mp3" length="5409284" type="audio/mpeg" />
+			</item>
+	</channel>
+</rss>

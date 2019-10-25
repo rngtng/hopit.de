@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tanzverbort &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tanzverbort/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:44:55 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: 20er Jahre Poetry-Mashup + Shoe Swing Stringers im Fuchs &#038; Elster</title>
+		<link>http://www.hopit.de/2011/04/berlin-20er-jahre-poetry-mashup-shoe-swing-stringers-im-fuchs-elster/</link>
+				<pubDate>Wed, 20 Apr 2011 10:03:24 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[fuch&elster]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[ostern]]></category>
+		<category><![CDATA[poetry]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tanzverbort]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2615</guid>
+				<description><![CDATA[Am Karfreitag ist mal wieder Tanzverbot &#8211; glücklicher Weise in Berlin nur bis 21.00 Uhr, und so startet das [qype id=&#8220;1060113&#8243;] erstmal mit einem 20er Jahre Poetry-Mashup. Anschliessend legen die Shoe Swing Stringers live on stage swing mässig so einiges vor und DJ Horst Schlüpper (Swing, Electroswing) lässt dann endgültig kein Tanzbein mehr ruhig stehen [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

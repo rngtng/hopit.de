@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>community &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/community/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Yehoodi.com &#8211; DIE Lindy Hop Community</title>
+		<link>http://www.hopit.de/2010/10/yehoodi-com-die-lindy-hop-community/</link>
+				<pubDate>Thu, 14 Oct 2010 16:25:30 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[community]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[yehoodi]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1974</guid>
+				<description><![CDATA[So das hier wollt ich schon *ewig* schreiben, jetzt geht&#8217;s raus: Kennt ihr eigentlich Yehoodi.com? Das ist DIE Swing Tanz und Lindy Hop Community im Netz. Seit nun mehr als 10 Jahren ist es die Anlaufstelle für alle möglichen Fragen und Infos, wie auch eine gute Quelle für Musik und Video Tipps. Zusätzlich gibt&#8217;s noch [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

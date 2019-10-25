@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>music &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/music/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:48:04 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing Style Vol. 3 by Gülbahar Kültür</title>
+		<link>http://www.hopit.de/2012/11/swing-style-vol-3-by-gulbahar-kultur/</link>
+				<pubDate>Wed, 28 Nov 2012 20:22:25 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[CD]]></category>
+		<category><![CDATA[electro]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[pladde]]></category>
+		<category><![CDATA[sampler]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4394</guid>
+				<description><![CDATA[Ups, tja das ist&#8217;s doch glatt an mir vorbei gegangen. Aus der serh schönen Swing Sampler Reihe &#8222;Swing Style&#8220; wurde im Sommer die nächste Volume #3 released. Wie immer wirds gegen Ende bissl Electro swinging, und so auch dieses Mal. Meinem Geschmack nach zwar etwas zuviel &#8211; ich befürchte so mancher Song wird da bald [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Music For One Apartment and Six Drummers</title>
+		<link>http://www.hopit.de/2011/02/music-for-one-apartment-and-six-drummers/</link>
+				<pubDate>Tue, 22 Feb 2011 11:20:38 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[appartment]]></category>
+		<category><![CDATA[drumming]]></category>
+		<category><![CDATA[kurzfilm]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[schweden]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2393</guid>
+				<description><![CDATA[Was zum anschauen &#8211; einer meiner Lieblings-Kurzfilme hier: http://www.youtube.com/watch?v=cWYXlLdiTd0 Classic! http://www.imdb.com/title/tt0283326/]]></description>
+									</item>
+		<item>
+		<title>Hörtipp: Lavern Baker &#8211; On Revival Day</title>
+		<link>http://www.hopit.de/2009/03/hortipp-lavern-baker-on-revival-day/</link>
+				<pubDate>Tue, 31 Mar 2009 09:25:46 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Lavern Baker]]></category>
+		<category><![CDATA[music]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=346</guid>
+				<description><![CDATA[Wenn das mal nicht swingt, sehr schöner Song von Lavern Baker &#8211; On Revival Day: Lavern Baker &#8211; On Revival Day]]></description>
+									</item>
+	</channel>
+</rss>

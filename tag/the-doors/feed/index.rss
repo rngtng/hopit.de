@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>the doors &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/the-doors/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:55 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ray Manzarek ist tot</title>
+		<link>http://www.hopit.de/2013/05/ray-manzarek-ist-tot/</link>
+				<pubDate>Wed, 22 May 2013 07:30:03 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[the doors]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4560</guid>
+				<description><![CDATA[Zwar nicht unbedingt ein Swingthema, aber dennoch ist am 20. Mai 2013 einer meiner musikalischen Helden, Ray Manzarek gestorben. Besser bekannt ist sein Name im Zusammenhang mit der Gruppe The Doors, deren Organist er war. Übrigens konnten die Doors durchaus Bluesig und Swingig klingen, wie diese Demo-Aufnahme des Songs Queen of the highway zeigt: http://www.youtube.com/watch?v=kmcK6NN-Y4Q]]></description>
+									</item>
+		<item>
+		<title>the doors are swingin&#8216;</title>
+		<link>http://www.hopit.de/2010/12/the-doors-are-swingin/</link>
+				<pubDate>Thu, 16 Dec 2010 09:57:55 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[swinging cover]]></category>
+		<category><![CDATA[the doors]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2240</guid>
+				<description><![CDATA[Am vergangenen Wochenende entdeckte ich die Templeton Twins. Sehr charmant wagen sich die Herren daran, einige wirklich bedeutende Songs der Musikgeschichte zu verswingen. Das ist ihnen meiner ansicht nach sehr gelungen. Die LP &#8222;Trill It Like It Was&#8220; ist schon etwas älter, wurde aber wohl gerade &#8222;digitaly remastered&#8220;. Sehr liebevoll bewegen sich die Songs so [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

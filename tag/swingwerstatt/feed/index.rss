@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Swingwerstatt &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swingwerstatt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 26 Mar 2009 13:13:57 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>16.Mrz09, SW: Tandem Charleston &#8211; Lead &#038; Follow Teil II</title>
+		<link>http://www.hopit.de/2009/03/16mrz%e2%80%9909-sw-tandem-charleston-lead-follow-teil-ii/</link>
+				<pubDate>Thu, 26 Mar 2009 13:13:57 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[Swingwerstatt]]></category>
+		<category><![CDATA[tandem]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=323</guid>
+				<description><![CDATA[Heute gings wieter mit Tandem Charleston. Wir haben besonders Lead &#38; Follow des S-Eingangs nochmal geübt. WIchtig ist hier für den Leader die Rückwärtsbewegung beizuhalten, und den Körper statt nur beine zu bewegen. Somit Jiggwalks statt Kicks! Dann haben wir mit verschieden Varianten gespielt, z.b. was wenn Leader Follower nach einer Drehung nicht stoppt? -&#62; [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

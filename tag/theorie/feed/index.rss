@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>theorie &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/theorie/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:31 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>&#8230; und jetzt: Jazz &#038; Swing Musiktheorie leicht erklärt</title>
+		<link>http://www.hopit.de/2010/04/und-jetzt-jazz-swing-musiktheorie-leicht-erklart/</link>
+				<pubDate>Tue, 06 Apr 2010 09:46:34 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[spreeblick]]></category>
+		<category><![CDATA[theorie]]></category>
+		<category><![CDATA[videocast]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1477</guid>
+				<description><![CDATA[Spreeblick hat eine neue Podcast Reihe &#8218;Selbstauslöser&#8216; in der unterschiedlichste Personen zu unterschiedlichsten Themen kurz &#38; knapp ihre Begeisterung zeigen. Christoph hat da diesen kleinen Clip gefunden, in dem Bene Aperdannier uns die Musiktheorie von Jazz (bzw. Swing) sehr schön und verständlich erklärt: http://www.spreeblick.com/2010/03/26/selbstausloser-08-jazz-mit-bene-aperdannier/ [danke an christoph]]]></description>
+									</item>
+	</channel>
+</rss>

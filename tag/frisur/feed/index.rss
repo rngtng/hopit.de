@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>frisur &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/frisur/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:14:26 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Monkey Dust Tap: &#8230; vom tanzenden Wal</title>
+		<link>http://www.hopit.de/2010/02/monkey-dust-tap-vom-tanzenden-wal/</link>
+				<pubDate>Tue, 16 Feb 2010 13:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[frauen]]></category>
+		<category><![CDATA[frisur]]></category>
+		<category><![CDATA[heilig]]></category>
+		<category><![CDATA[lustig]]></category>
+		<category><![CDATA[spaß]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1377</guid>
+				<description><![CDATA[haha, lustig: Monkey Dust Tap &#8211; Ballroom dancing Whale eigentlich ist das beim Tanzen auch meine Hauptsorge: die Frisur der Dame nicht zu ruinieren 😉 [wieder mal ein guter tipp via Carina, thx]]]></description>
+									</item>
+		<item>
+		<title>The Sartorialist &#8211; Mode &#038; Style von der Strasse</title>
+		<link>http://www.hopit.de/2009/09/the-sartorialist-mode-style-von-der-strasse/</link>
+				<pubDate>Fri, 04 Sep 2009 00:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[frisur]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=774</guid>
+				<description><![CDATA[Heute hat ein guter Freund von mir Geburtstag, glaub das gefällt ihm: Der Blog The Sartorialist hat viele schöne Fotos von Menschen in schicke, ausgefallene und stylische Klamotten tragen. Von Damals bis Heute von streng bis verrückt und bunt. Meistens auf den Strassen New Yorks spontan fotografiert. Besonders gut gefallen mir diese Bilder, wohl an [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

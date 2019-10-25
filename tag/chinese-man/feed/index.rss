@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>chinese man &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/chinese-man/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:47 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Chinese Man &#8211; The Groove Sessions</title>
+		<link>http://www.hopit.de/2010/09/chinese-man-the-groove-sessions/</link>
+				<pubDate>Sat, 11 Sep 2010 10:35:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[chinese man]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[swingbeat]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1787</guid>
+				<description><![CDATA[W00t? Ich hab noch nix von Chinese Man gebloggt?! Ui, Pflicht Tune: Artichaut &#8211; einer meiner absoluten Favorites, Electro Swing Beat at it&#8217;s best! http://www.youtube.com/watch?v=_rrfIubAEP0 Das Ding findet ihr auf deren ersten Pladde The Groove Sessions Vol. 1 zusammen mit noch vielen anderen swingig, beatig, electro Zeuch &#8211; sehr zu empfehlen. &#8218;Ne Fortsetzung gibt&#8217;s auch: [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

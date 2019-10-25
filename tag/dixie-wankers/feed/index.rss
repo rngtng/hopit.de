@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dixie Wankers &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/dixie-wankers/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:36:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Dixie Wankers im Kater Holzig</title>
+		<link>http://www.hopit.de/2011/08/berlin-dixie-wankers-im-kater-holzig/</link>
+				<pubDate>Tue, 23 Aug 2011 09:32:03 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[bar 25]]></category>
+		<category><![CDATA[belrin]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Dixie Wankers]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3106</guid>
+				<description><![CDATA[Yay, Dixie Wankers are back! Und zwar heute(!) im Kater Holzig. Das ist quasi die neue &#8218;Bar 25&#8216; gegenüber der Alten. Das sagt die Band: We&#8217;re back again with the Dixie Wankers Live at the new amazing club that some of the former BAR 25 crew have just opend right across the river from the [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Swing &#038; Wine mit Dixie Wankers im Frannz Club der Kulturbrauerei</title>
+		<link>http://www.hopit.de/2010/11/swing-wine-mit-dixie-wankers-im-frannz-club-der-kulturbrauerei/</link>
+				<pubDate>Tue, 30 Nov 2010 11:10:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Dixie Wankers]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Swing Tanz]]></category>
+		<category><![CDATA[Weinprobe]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2140</guid>
+				<description><![CDATA[Die Kombination zweier großer Leidenschaften: Swing Tanz und Weinprobe &#8211; Wuahh! &#8211; quasi Double Rainbow oder Weihnachten schon am Mittwoch!! Getanzt und gekostet wird diesen Mittwoch im [qype id=&#8220;39742&#8243;]. Für die passende tanzbare Musik sorgen die Dixie Wankers und eine Tanzeinführung lässt auch jeden Weinliebhaber tanzen&#8230; Die ausgelassene, schwungvolle Ära des Swing und der Genuss [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

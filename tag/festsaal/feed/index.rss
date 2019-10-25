@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>festsaal &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/festsaal/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 21:22:37 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Electro Swing Club &#8211; Danube&#8217;s Banks + DJ</title>
+		<link>http://www.hopit.de/2012/01/berlin-electro-swing-club-danubes-banks-dj/</link>
+				<pubDate>Thu, 19 Jan 2012 10:45:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Christopher Rose]]></category>
+		<category><![CDATA[club]]></category>
+		<category><![CDATA[Danube's Banks]]></category>
+		<category><![CDATA[electro]]></category>
+		<category><![CDATA[festsaal]]></category>
+		<category><![CDATA[kruezberg]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3469</guid>
+				<description><![CDATA[Am Freitag ist es wieder soweit: Der Electro Swing Club Berlin startet ins 2012: Pünktlich zum neuen Jahr ist der ESC Berlin im Festsaal Kreuzberg wieder zurück. Die Haarbänder und Hosenträger ruhten jetzt eine Weile eher trostlos in der Ecke. Damit ist nun Schluss: Zwirbelt die Bärte und rüscht eure Röcke, der Electro Swing Club [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: Kreuzberg Swing &#8211; Dj&#8217;s &#038; Live: Das Franky Fuzz Swing Quartett im Festsaal Kreuzberg</title>
+		<link>http://www.hopit.de/2012/01/berlin-kreuzberg-swing-djs-live-das-franky-fuzz-swing-quartett-im-festsaal-kreuzberg/</link>
+				<pubDate>Fri, 13 Jan 2012 15:27:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[festsaal]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3452</guid>
+				<description><![CDATA[Freitag der 13. &#8211; nicht Pech Tag sondern GlückzTag! Den heute gibt&#8217;s Kreuzberg Swing im Festsaal Kreuzberg. Das Tanzbein wird beglückt mit &#8222;Franky Fuzz Swing Quartett&#8220; live swing und DJ Impulse, DJ Sir Stan und Dj Trümmerswing an den Pladdendellern. Top Top Hop! Los geht&#8217;s schon um 19.00 Uhr damit dat Vorabendprogramm pünktlich um 23:30Uhr [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Electro Swing Club in Berlin: Dirty Honkers Live &#8211; Record Release</title>
+		<link>http://www.hopit.de/2010/12/electro-swing-club-in-berlin-dirty-honkers-live-record-release/</link>
+				<pubDate>Wed, 15 Dec 2010 14:49:44 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[dirty honkers]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[festsaal]]></category>
+		<category><![CDATA[kruezberg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[tavo]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2224</guid>
+				<description><![CDATA[So, damit ist auch endlich der Electro-Swing Trend in der Hauptstadt angekommen: Am Freitag startet Berlins first and biggest Electro-Swing Party im [qype id=&#8220;18575&#8243;]. Schaut euch nur dieses Aufgebot an: Dirty Honkers ( Live &#8211; Record Release) Afia Asbare Plast Orchester Typoboy Tavo Alle Farben Globalution Pyroman Cup of Jazz Bastian Kurzweil vs. KuFu Wuhuuuu, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

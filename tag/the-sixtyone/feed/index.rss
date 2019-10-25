@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>the sixtyone &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/the-sixtyone/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The Sixty One &#8211; the Asteroids Galaxy Tour</title>
+		<link>http://www.hopit.de/2011/01/the-sixty-one-the-asteroids-galaxy-tour/</link>
+				<pubDate>Wed, 12 Jan 2011 13:38:47 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[streaming]]></category>
+		<category><![CDATA[the 61]]></category>
+		<category><![CDATA[The Asteroids Galaxy Tour]]></category>
+		<category><![CDATA[The Golden Age]]></category>
+		<category><![CDATA[the sixtyone]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2126</guid>
+				<description><![CDATA[Kennt ihr die Website The SixtyOne?? Das ist yet-another-listen-music-online-website aber in einem ganz anderen, anfangs ungewohnten, Format: Hier gibts keine ewig großen Verzeichnisse, Listen oder Kategorien, sonder &#8211; schlicht und einfach &#8211; einen MusikPlayer. Die Ganze Website ist quasi der Das ist ideal zum Stöber und so hab ich schon einige super Songs dort gefunden, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

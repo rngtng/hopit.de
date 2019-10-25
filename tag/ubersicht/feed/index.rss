@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>übersicht &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ubersicht/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:35 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Electro Swing Übersicht bei Beatportal</title>
+		<link>http://www.hopit.de/2010/08/electro-swing-ubersicht-bei-beatportal/</link>
+				<pubDate>Fri, 06 Aug 2010 10:55:58 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[beatportal]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[übersicht]]></category>
+		<category><![CDATA[zusammenfassung]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1694</guid>
+				<description><![CDATA[Beatportal gibt hier mal eine schöne Übersicht des &#8218;Elektro Swing&#8216; Trends inklusive so einiger Musikbeispiele. Auch wenns leider wieder sehr House-ig ist, das Feature-Video ist schön gemacht: Beatportal &#8211; Power of Ten: Electro Swing: http://www.beatportal.com/feed/item/power-of-ten-electro-swing/]]></description>
+									</item>
+	</channel>
+</rss>

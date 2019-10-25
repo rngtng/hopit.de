@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>swing jugend &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swing-jugend/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:54 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Nachrufe zum Tod von Günter Discher</title>
+		<link>http://www.hopit.de/2012/09/nachrufe-zum-tod-von-gunter-discher/</link>
+				<pubDate>Sun, 23 Sep 2012 18:32:54 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[günter discher]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[swing jugend]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4332</guid>
+				<description><![CDATA[Am 9.9.2012 ist Günter Discher gestorben. Für mich war seine CD Compilation Swing Kids, Swing Hits der begeisterte Einstieg in die tanzbare Swingmusik. Der NDR hat einen Nachruf veröffentlicht. Ihr findet den kurzen Hörbeitrag auf der Website des NDR unter http://www.ndr.de/regional/hamburg/audio127941.html Auch die TAZ schreibt einen Artikel unter http://www.taz.de/!101430/]]></description>
+									</item>
+	</channel>
+</rss>

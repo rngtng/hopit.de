@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>doku &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/doku/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:44:33 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Trailer: Swing! &#8211; Die Doku</title>
+		<link>http://www.hopit.de/2011/08/trailer-swing-die-doku/</link>
+				<pubDate>Sat, 27 Aug 2011 11:36:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[doku]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[trailer]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3082</guid>
+				<description><![CDATA[Das ist der Trailer zur bald(?) erscheinenden Doku &#8222;Swing! &#8211; The Documentary showcases the international phenomenon of swing dancing&#8220;. Das sieht ja schon mal Vielversprechend aus. Ich bin gespannt! Mehr dazu im Fratzenbuch: https://www.facebook.com/swingthedoc]]></description>
+									</item>
+		<item>
+		<title>Frankie Manning: Never Stop Swinging</title>
+		<link>http://www.hopit.de/2011/04/frankie-manning-never-stop-swinging/</link>
+				<pubDate>Wed, 27 Apr 2011 10:39:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[doku]]></category>
+		<category><![CDATA[Frankie]]></category>
+		<category><![CDATA[manning]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2644</guid>
+				<description><![CDATA[http://player.theplatform.com/ps/player/pds/jleqfRLDbd&#038;pid=vxgwL14L8NRYrZUvc7Q5Gi6R0i1gL4tN Heute vor 2 Jahren verstarb Frankie Manning &#8211; Urvater des Lindy Hops. Hier eine kleine Hommage Doku: Frankie Manning &#8211; Never Stop Swinging [via ShuffleProjects]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>punk &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/punk/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:34:20 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Budzillus Record Release Party im SO36</title>
+		<link>http://www.hopit.de/2011/11/berlin-budzillus-record-release-party-im-so36/</link>
+				<pubDate>Fri, 04 Nov 2011 14:31:45 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Budzillus]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[punk]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3308</guid>
+				<description><![CDATA[Die Berliner GipsySwingPunk Band feiert ihr Record Debut am Samstach in SO36. Freu ich mich drauf! TERRABEATS präsentiert die Record Release von Berlin´s Gipsy Swing Rock’n’Roll Band No.1 : BUDZILLUS. Nachdem sie dieses Jahr quer durch Europa und Deutschland getourt sind, wird es im SO36 ein Heimspiel geben. Neben den Songs von der neuen Platte [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

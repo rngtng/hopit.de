@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>pirate jazz &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/pirate-jazz/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Kosmo Koslowski im Zentral</title>
+		<link>http://www.hopit.de/2011/08/hamburg-kosmo-koslowski-im-zentral/</link>
+				<pubDate>Thu, 18 Aug 2011 14:56:32 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[balkanbeatz]]></category>
+		<category><![CDATA[Kosmo Koslowski]]></category>
+		<category><![CDATA[Max Quintenzirkus]]></category>
+		<category><![CDATA[pirate jazz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3071</guid>
+				<description><![CDATA[Am 25. August 2011 spielen Kosmo Koslowski in der Zentral Bar über dem Thalia Theater (Alstertor 1). Es gibt quirligen Piratenjazz, der durchaus auch swingkompatibel ist, sich aber darauf nicht beschränkt. Mit von der Partie ist auch Max Quintenzirkus, ein DJ der formidabel Hiphop mit Swing mit Balkanelektronik mit Spaß mixt &#8211; sehr schön anzuhören [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

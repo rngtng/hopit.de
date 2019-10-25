@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>qype &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/qype/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 12 Apr 2010 10:31:44 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Boogie, Swing und Rock&#8217;n Roll in München &#038; Hamburg tanzen</title>
+		<link>http://www.hopit.de/2010/04/boogie-swing-und-rockn-roll-in-munchen-hamburg-tanzen/</link>
+				<pubDate>Thu, 22 Apr 2010 10:27:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[boogie woogie]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[münchen]]></category>
+		<category><![CDATA[qype]]></category>
+		<category><![CDATA[rock'n'roll]]></category>
+		<category><![CDATA[tanzen]]></category>
+		<category><![CDATA[tipps]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1479</guid>
+				<description><![CDATA[Hab gerade auf Qype diesen schönen Guide mit Empfehlungen für ein Boogie, Swing oder Rock&#8217;n Roll Tänzchen in München gefunden: http://www.qype.com/lists/671630-Boogie-Swing-und-Rockn-Roll-in-Muenchen Motiviert von dieser schönen Liste, hab ich das auch mal für Hamburg gamcht: http://www.qype.com/lists/672164-Swing-und-Rockn-Roll-Tanz-in-Hamburg [schick bild und mehr kassel Zeitung]]]></description>
+									</item>
+	</channel>
+</rss>

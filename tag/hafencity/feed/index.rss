@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hafencity &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/hafencity/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:23 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Revolution ist gescheitert &#8211; Let&#8217;s dänce! (sagt Jan) &#8211; Subvision Festival in Hamburg</title>
+		<link>http://www.hopit.de/2009/08/revolution-ist-gescheitert-lets-dance-sagt-jan-subvision-festival-in-hamburg/</link>
+				<pubDate>Sat, 29 Aug 2009 16:53:32 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[galerie]]></category>
+		<category><![CDATA[hafen]]></category>
+		<category><![CDATA[hafencity]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[kunst]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=740</guid>
+				<description><![CDATA[Gerade läuft das Subvision Festival in der Hamburger [qype id=&#8220;56029&#8243;]. Mit ziemlich viel OFF- Kunst, Tanz und Hafenflair am Strandkai. Unbedingt hingehen! Mehr Infos und Fotos findet ihr drüben bei Sommer in Hamburg und unter http://www.subvision-hamburg.com. Viel Spaß! [Foto von Sommer in Hamburg]]]></description>
+									</item>
+		<item>
+		<title>ELBJAZZ: Jazz-Picknick in der HafenCity mit Ballroom Buskers</title>
+		<link>http://www.hopit.de/2009/08/elbjazz-jazz-picknick-in-der-hafencity-mit-ballroom-buskers/</link>
+				<pubDate>Tue, 18 Aug 2009 12:16:23 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Festival]]></category>
+		<category><![CDATA[hafencity]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[picknick]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=671</guid>
+				<description><![CDATA[Das Hamburger Festival Projekt ELBJAZZ veranstaltet in Kooperation mit der HafenCity Hamburg GmbH am Sonntag, den 23. August, von 15:00-22:00 Uhr ein Jazz-Picknick auf den [qype id=&#8220;69135&#8243;]. Es gibt Live-Musik, Lieblingslieder vom Plattenteller, ein Flying Picknick der anliegenden Gastronomien und bei Dämmerung spannende Kurzfilme. Als Liveacts treten auf: Ballroom Buskers (Swing und Tanzperformance) Roland Cabezas [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

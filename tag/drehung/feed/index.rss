@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Drehung &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/drehung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 09 Apr 2009 13:01:41 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>18.Mrz09, NSG: SO Outside Turn, Ellenbogen catch, Swing out</title>
+		<link>http://www.hopit.de/2009/04/18mrz%e2%80%9909-nsg-so-outside-turn-ellenbogen-catch-swing-out/</link>
+				<pubDate>Thu, 09 Apr 2009 13:01:41 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[Drehung]]></category>
+		<category><![CDATA[ellenbogen]]></category>
+		<category><![CDATA[NSG]]></category>
+		<category><![CDATA[swing out]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=327</guid>
+				<description><![CDATA[Heute haben uns Marei und Ole einen besondere schöne Variante des Swingouts gezeigt: Los gehts mit einem regular Swing Out mit abschliesendem Outside Turn. Doch anstatt jetzt die re F Hand zu greifen, gleitet L entlang des F Arms bis zum Ellenbogen und führt einen Backstep mit leichter links Drehung. Dadurch dreht F re am [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>9.Mrz09, SW: Tandem Charleston: Eingang S-Turn, Ausgang Drehung</title>
+		<link>http://www.hopit.de/2009/03/9mrz%e2%80%9909-sw-tandem-charleston-eingang-s-turn-ausgang-drehung/</link>
+				<pubDate>Thu, 12 Mar 2009 18:25:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[Drehung]]></category>
+		<category><![CDATA[tandem]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=289</guid>
+				<description><![CDATA[Ab heute wird in der [qype id=&#8220;20752&#8243;] getanzt! Die neue Location verspricht viel: mit gutem (etwas zu glattem?) Boden, viel Couches und sehr nette, angenehme Atmosphäre macht das Tanzen noch mehr Spaß. Konstantin, Anke und Marei (ausnahmsweise mal zu dritt) haben eine Super Stunde gegeben: Tandem Charleston! Zuerst haben wir den S-Turn Eingang geübt, dann [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>5.Mrz09, NSG: Back / Tandem / Shadow Charleston</title>
+		<link>http://www.hopit.de/2009/03/5mrz%e2%80%9909-nsg-back-tandem-shadow-charleston/</link>
+				<pubDate>Sat, 07 Mar 2009 15:28:31 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[Drehung]]></category>
+		<category><![CDATA[NSG]]></category>
+		<category><![CDATA[shadow]]></category>
+		<category><![CDATA[tandem]]></category>
+		<category><![CDATA[Windshield Wiper]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=274</guid>
+				<description><![CDATA[Da am Montag und Mittwoch die Kurse ausgefallen sind, hab ich mich mal zum NSG Donnerstagkurs bei Christina und Norbert getraut. Ich muss sagen, es hat sich gelohnt: wir haben den Back-Charleston mit Ein/Ausgang, Halb- und Komplettdrehung geübt. Das war sowieso bei mir immer bissl unklar und funktioniert jetzt schon besser 😉 Unklar ist mir [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>26.Jan&#8217;09, SW: Swing Out Variationen IV</title>
+		<link>http://www.hopit.de/2009/01/sw-swing-out-variationen-iv/</link>
+				<pubDate>Mon, 26 Jan 2009 22:57:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[Drehung]]></category>
+		<category><![CDATA[Jump]]></category>
+		<category><![CDATA[swing out]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=120</guid>
+				<description><![CDATA[(woche davor gefehlt, schäm)Jonny und die fast wieder gesunde Meike zeigten huete 4 interessante Varianten. 1. &#8222;Follower rumwandern&#8220;: 1: Offenen Pos, soforte Führung, 2: L in re Arm von foller reinlaufen, 3&#38;4: F wandert um L, 5:linken L Arm greift von unterm re F Arm nach rücken, 6&#38;7: L geht der F Kreisbewegnung nach, 8: [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

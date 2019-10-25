@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Too dumb to Die &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/too-dumb-to-die/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:05 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Herräng Swing Tanz Camp 2009 &#8211; das wars!</title>
+		<link>http://www.hopit.de/2009/07/herrang-swing-tanz-camp-2009-das-wars/</link>
+				<pubDate>Fri, 31 Jul 2009 18:25:55 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Cangelosi Cards]]></category>
+		<category><![CDATA[Carling Family]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[swingtanz]]></category>
+		<category><![CDATA[Too dumb to Die]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=649</guid>
+				<description><![CDATA[So, aus und vorbei. Das Swing Tanz Camp Herräng 2009 ist beendet, Urlaub vorüber und ich bin wieder zurück in Hamburg. Grauer Alttag und so, naja fast. Zurück bleiben 2 sehr schöne Wochen voller Spaß, Tanz, Sonne (jaha in der Tat), Musik und auch mit der ein oder anderen Aufregung (aka. Bus geklaut!). Hab eben [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

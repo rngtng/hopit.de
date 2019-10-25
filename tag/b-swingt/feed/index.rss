@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>b-swingt &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/b-swingt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:50:18 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing im Fernsehn: RBB besucht b-swingt</title>
+		<link>http://www.hopit.de/2013/04/swing-im-fernsehn-rbb-besucht-b-swingt/</link>
+				<pubDate>Tue, 09 Apr 2013 11:54:36 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[b-swingt]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4525</guid>
+				<description><![CDATA[Schöner Beitrag über den Swing und die Tanz Szene in Berlin &#8211; anschauen: http://www.rbb-online.de/kurz_vor_fuenf_sport/index.html]]></description>
+									</item>
+		<item>
+		<title>Berlin: Neue Balboa Kurs im B-Swingt</title>
+		<link>http://www.hopit.de/2012/08/berlin-neue-balboa-kurs-im-b-swingt/</link>
+				<pubDate>Fri, 10 Aug 2012 20:30:05 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[b-swingt]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[kurs]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4169</guid>
+				<description><![CDATA[Im August bietet b-swingt wieder Balboa Kurse an. Alle Kurse laufen vom 23.08. bis 27.09. wöchentlich, 5 Termine in Folge (Ausnahme: KEIN Unterricht am 13.09. wegen Balboa Castle Camp). Da ist für jeden was dabei: BALBOA I, SWINGTANZKURS &#8211; Donnerstags, 21:00 bis 22:15 Uhr (75 min) BALBOA II &#8211; Donnerstags, 19:30 bis 20:45 Uhr (75 [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: Neue Runde Balboa startet morgen (24. Mai) im b-swingt!</title>
+		<link>http://www.hopit.de/2012/05/berlin-neue-runde-balboa-balboa-startet-morgen-24-mai-im-b-swingt/</link>
+				<pubDate>Wed, 23 May 2012 12:54:33 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[b-swingt]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[kurs]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4043</guid>
+				<description><![CDATA[BALBOA I: (18:15Uhr) Ganz von Anfang an. Basics und alles Grundlegende in Sachen Pure Bal und Bal Swing. Also rubbeldiekatz Balboa lernen und tanzen! BALBOA II: (19:30Uhr) Nicht von ganz von Anfang an. Basics schleifen, neue Figuren, mehr Lead &#38; Follow, mehr Variationen und mehr und so. Also rubbeldiekatz besser Balboa tanzen! Jeweils: Sechs Termine, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

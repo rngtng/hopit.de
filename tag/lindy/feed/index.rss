@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lindy &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/lindy/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:48:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Auf zum Havel Hop &#8211; jetzt anmelden!</title>
+		<link>http://www.hopit.de/2012/01/berlin-auf-zum-havel-hop-jetzt-anmelden/</link>
+				<pubDate>Sun, 22 Jan 2012 14:00:21 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[havel]]></category>
+		<category><![CDATA[hop]]></category>
+		<category><![CDATA[lindy]]></category>
+		<category><![CDATA[potsdam]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3481</guid>
+				<description><![CDATA[Die Havel Hoppt &#8211; und das solltet Ihr euch nicht verpassen lassen: In diesem Jahr freuen wir uns auf den vierten HavelHop. Der HavelHop 2012 findet am Himmelfahrtswochenende (17. &#8211; 20. Mai) in Potsdam in der Nähe von Berlin statt . Es wird wieder ein tolles Rahmenprogramm geben mit unserer wundervollen Swingin&#8216; City Tour am [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Neue NSG Swing Tanz Party Reihe in Hamburg</title>
+		<link>http://www.hopit.de/2010/02/neue-nsg-swing-tanz-party-reihe-in-hamburg/</link>
+				<pubDate>Wed, 17 Feb 2010 17:16:32 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[hop]]></category>
+		<category><![CDATA[lindy]]></category>
+		<category><![CDATA[NSG]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1394</guid>
+				<description><![CDATA[Cool, hier started eine neue Swingtanz Party Reihe, organisiert von der New Swing Generation: Als Auftakt zu einer Reihe monatlicher Swingpartys findet diesen Freitag, am 19.2., die diesjährig erste NSG-Party im Tangostudio [qype id=&#8220;50836&#8243;] statt! Gestartet wird um 19 Uhr mit einem anderthalbstündigen Blueskurs geleitet von Christian. Direkt im Anschluss gibt es Swingmusik jeglicher Coleur: [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>thelindyhop.com: Internationales Lindy Hop Linkverzeichniss</title>
+		<link>http://www.hopit.de/2009/11/thelindyhop-com-internationales-lindy-hop-linkverzeichniss/</link>
+				<pubDate>Sun, 01 Nov 2009 10:36:03 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[lindy]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[swingtanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1028</guid>
+				<description><![CDATA[Hab gerade diese massive Lindy-Hop Link-Sammlung gefunden. Da sind schon über 1000 Einträge drin &#8211; so findet man für jede Stadt die richtige Website, unbedingt reinschaun: http://www.thelindyhop.com Hm, aber hopit.de fehlt (noch) Ist jetzt mit dabei 😉]]></description>
+									</item>
+		<item>
+		<title>Jetzt anmelden zum Hamburg Lindy Exchange und Elbeswing</title>
+		<link>http://www.hopit.de/2009/05/jetzt-anmelden-zum-hamburg-lindy-exchange-und-elbeswing/</link>
+				<pubDate>Thu, 07 May 2009 12:50:28 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[elbswing]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[lindy]]></category>
+		<category><![CDATA[NSG]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=433</guid>
+				<description><![CDATA[Schnell, schnell: jetzt anmelden zum Hamburger Lindy Exchange ende August 2009: Kilckst du hier: http://www.hamburglindyexchange.de Highlight ist auf jeden Fall die Elbe swing tour am Samstag &#8211; ich freu mich!]]></description>
+									</item>
+	</channel>
+</rss>

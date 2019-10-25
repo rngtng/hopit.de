@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>whisky &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/whisky/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:36:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Whisky Club Sessions</title>
+		<link>http://www.hopit.de/2011/06/hamburg-whisky-club-sessions/</link>
+				<pubDate>Thu, 16 Jun 2011 16:19:48 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[Tango]]></category>
+		<category><![CDATA[whisky]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2925</guid>
+				<description><![CDATA[Für kurz Entschlossene, die sich für die Schnittstellen von Blues-, Tango- und Swing begeistern, bietet sich heute Abend die Whisky Club Session an. Los geht es ab 21h30 in der Tangomatrix, beim Schlump 13a. Beim letzten mal war ich sehr angetan von dieser Mixtur. Tangotänzer probierten sich an Tripplesteps und Swingtänzer torpedierten den Tangotanzkreis. Alles [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

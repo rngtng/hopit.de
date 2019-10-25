@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>schnäppchen &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/schnappchen/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:12:21 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Herr von Eden Super Sale!</title>
+		<link>http://www.hopit.de/2010/03/herr-von-eden-super-sale/</link>
+				<pubDate>Tue, 16 Mar 2010 13:41:12 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[herr von eden]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[sale]]></category>
+		<category><![CDATA[schnäppchen]]></category>
+		<category><![CDATA[verkauf]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1446</guid>
+				<description><![CDATA[Es ist mal wieder soweit: Herr von Eden haut wieder seine Prachtmode mit bis zu 70% Rabatt raus! Hin gehn, abstauben und gut aussehn! A fine collection of the latest autumn/winter pieces and HvE-Classics. Up to 70% off. If you buy a suit &#8211; free entry for the Visual Leader 2010 exhibition at the deichtorhallen [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>swanee &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swanee/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:33:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swingin&#8216; Swanee im Deutschlandradio Kultur &#8211; Fundstücke</title>
+		<link>http://www.hopit.de/2012/01/swingin-swanee-im-deutschlandradio-kultur-fundstucke/</link>
+				<pubDate>Sun, 08 Jan 2012 14:23:20 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[swanee]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3434</guid>
+				<description><![CDATA[Gleich mal das Radio anstellen: Heute (So. 8. Jan) läuft um 18.05 ( bis 18.30) im Deutschlandradio Kultur Swingin&#8216; Swanees erste Swingsendung in der Reihe &#8222;Fundstücke&#8220;. Frequenz Berlin 89,6; Hamburg 89,1. Heutiges Thema: &#8222;Swingin&#8216; at the Savoy -Geschichte eines Ballsaales in Harlem.&#8220; Die nächste Sendung ist am 22.1. ebenfalls um 18.05, Thema Lil Armstrong und [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

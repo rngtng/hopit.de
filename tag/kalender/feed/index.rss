@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>kalender &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/kalender/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 22 Jan 2013 17:23:44 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>SwingPlanIt &#8211; internationaler Swing Tanz Kalender</title>
+		<link>http://www.hopit.de/2013/01/swingplanit-internationaler-swing-tanz-kalender/</link>
+				<pubDate>Tue, 22 Jan 2013 17:23:44 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[event]]></category>
+		<category><![CDATA[international]]></category>
+		<category><![CDATA[kalender]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4432</guid>
+				<description><![CDATA[Hier &#8217;ne neue Website mit ausführlicher Sammlung internationaler Swing Tanz Events. Anschauen &#038; merken! http://www.swingplanit.com/]]></description>
+									</item>
+		<item>
+		<title>Blues Calendar</title>
+		<link>http://www.hopit.de/2011/03/blues-calendar/</link>
+				<pubDate>Thu, 10 Mar 2011 18:05:57 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[blues]]></category>
+		<category><![CDATA[exchange]]></category>
+		<category><![CDATA[kalender]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2447</guid>
+				<description><![CDATA[Gerade habe ich einen super Kalender für internationale Blues Workshops und Exchanges gefunden. Neben Bluestanz gehts auch um Lindy, Balboa und sogar Tango &#8230; http://bluescal.com/]]></description>
+									</item>
+		<item>
+		<title>Hamburg Jazz Kalender</title>
+		<link>http://www.hopit.de/2010/01/hamburg-jazz-kalender/</link>
+				<pubDate>Sun, 31 Jan 2010 15:41:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[kalender]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1349</guid>
+				<description><![CDATA[Schaut mal was ich gefunden hab, eine schöne Zusammenstellung vieler Jazz Events in Hamburg &#8211; rein schaun! http://www.jazz-hamburg.com/ Passend dazu auch nochmal die Jazz Karte Hamburg hier.]]></description>
+									</item>
+	</channel>
+</rss>

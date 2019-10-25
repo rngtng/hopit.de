@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>anleitung &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/anleitung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:10:45 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing mal richtisch&#8230;</title>
+		<link>http://www.hopit.de/2010/06/swing-mal-richtisch/</link>
+				<pubDate>Thu, 10 Jun 2010 10:19:07 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[clip]]></category>
+		<category><![CDATA[how to]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1595</guid>
+				<description><![CDATA[So, nach etwas kleiner vor-sommer-pause gehts hier weiter mit einem schönen clip den mir Arne geschickt hat: Vergesst alles was ihr über swing wisst, das hier ist der wahre, smooth, laidback, fun &#38; jazzy swing: 1-a-2;? 1-a-2; 1-2 HAA, Haaa]]></description>
+									</item>
+		<item>
+		<title>Dance the Ska!</title>
+		<link>http://www.hopit.de/2010/03/dance-the-ska/</link>
+				<pubDate>Wed, 31 Mar 2010 10:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[lustig]]></category>
+		<category><![CDATA[ska]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1482</guid>
+				<description><![CDATA[Muss ja nicht immer Lindy Hop sein! Hier &#8217;ne schöne Retro-Tanz-Anleitung zum Jamaica Ska Dance. Sehr geil: [via FuckYouVeryMuch]]]></description>
+									</item>
+		<item>
+		<title>Do da Balkanbeatz: Tanzen zu Shantel &#038; Co.</title>
+		<link>http://www.hopit.de/2009/09/do-da-balkanbeatz-tanzen-zu-shantel-co/</link>
+				<pubDate>Tue, 08 Sep 2009 09:55:40 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[balkanbeatz]]></category>
+		<category><![CDATA[grünspan]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[shantel]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=810</guid>
+				<description><![CDATA[Okay, die Lindy Hop Basics haben wir ja so langsam drauf, aber wie schauts denn mit Balkanbeatz aus? Bei rare.de hab ich eine schöne kleine &#8218;Anleitung&#8216; gefunden. Am besten gefällt mir der letzte Punkt: Gebe alles her, was der Körper hergeben kann, am Ende muss der Schweiß auf Deiner Stirn und im Gesicht eine glückliche [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Tanzschuhe schnüren &#8211; und zwar richtig!</title>
+		<link>http://www.hopit.de/2009/05/tanzschuhe-schnuren-und-zwar-richtig/</link>
+				<pubDate>Mon, 11 May 2009 08:29:49 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[lacing]]></category>
+		<category><![CDATA[schnüren]]></category>
+		<category><![CDATA[schuhe]]></category>
+		<category><![CDATA[shoe]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=452</guid>
+				<description><![CDATA[Also, dass es beim Tanzen ja komplett überhaupt einzig nur um den Style geht weiss ja jeder, und das fängt schon bei den Schuhen an. Und nicht etwa welche Farbe, Marke oder Form, nein, die Art und Weise wie diese geschnürt sind ist das einzig wichtige. Wer&#8217;s wissen will wie&#8217;s geht schaut mal hier bei [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

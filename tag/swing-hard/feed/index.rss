@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>swing hard &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swing-hard/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 09:57:16 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>9.Feb09, SW: Style: Synkope &#038; Swing Hard</title>
+		<link>http://www.hopit.de/2009/02/sw-style-synkope-swing-hard/</link>
+				<pubDate>Thu, 12 Feb 2009 23:33:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[swing hard]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=177</guid>
+				<description><![CDATA[ui was für &#8217;ne Johnny Stunde, heute hat er uns gefordert: es ging um Styling, um Synkope, um Swing Hard. Kurz Sicssors Kicks und Kick-Ball Change wiederholt und in SO eingebaut: Backstep, Triplstep, KickBChng, li Step, re Step. (daaa &#8230; tam) (li ist etwas weiter vorne). Tja und dann gings los, synkopieren, bzw. &#8222;Swing Hard&#8220; [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

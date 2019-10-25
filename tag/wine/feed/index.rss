@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>wine &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/wine/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:38:49 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Swing &#038; Wine goes Electro Swing</title>
+		<link>http://www.hopit.de/2012/01/berlin-swing-wine-goes-electro-swing/</link>
+				<pubDate>Thu, 12 Jan 2012 11:13:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[belrin]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[wine]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3447</guid>
+				<description><![CDATA[Neues Jahr, neues Konzept: Classic Swing meets Electro Swing &#38; Wine! Die ausgelassene, schwungvolle Ära des klassischen sowie modernen Swing und der Genuss guter Weine – Swing &#38; Wine bringt jetzt beides zusammen! Auf erfrischend ungezwungene und unkonventionelle Art. Zeitplan: * 18.00 Uhr Abendessen im Café Imperator &#8211; mit entspannt elektronisch unterlegten Swingklassikern von DJ [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: Sommer bei Swing &#038; Wine &#8211; freier Eintritt!!</title>
+		<link>http://www.hopit.de/2011/07/belrin-sommer-bei-swing-wine-freier-eintritt/</link>
+				<pubDate>Thu, 07 Jul 2011 14:32:38 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[openair]]></category>
+		<category><![CDATA[sommer]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[wine]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2991</guid>
+				<description><![CDATA[Der Sommer hält Einzug bei Swing &#38; Wine im Franzclub Berlin: SUPER SWING DJs + SUPER WEINE + SUPER ATMOSHPÄRE Kein Eintritt! 25% auf alle Weine von der Swing &#38; Wine Karte und auf alle Flaschenweine (außer Champagner) DJs: 7 July DJ Jumpin&#8216; Andi 14 July DJ Toemax 21 July DJ Swingin&#8216; Swanee 28 July [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

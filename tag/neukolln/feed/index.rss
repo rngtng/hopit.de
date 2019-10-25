@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>neukölln &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/neukolln/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:49 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Feine Untergrund Swing/Electroswingsause mit Electronic Swing Orchestra</title>
+		<link>http://www.hopit.de/2011/11/berlin-feine-untergrund-swingelectroswingsause-mit-electronic-swing-orchestra/</link>
+				<pubDate>Wed, 09 Nov 2011 09:41:21 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[neukölln]]></category>
+		<category><![CDATA[Party]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3319</guid>
+				<description><![CDATA[Feine Untergrund Swing/Electroswingsause am Freitach inner Reuterstr. 95/Neukölln: Die wichtigsten Infos gibts hier: http://www.facebook.com/event.php?eid=298574923494374 , Eintritt sind 3-6€ nach Selbsteinschätzung &#8211; Einlass ab 21.00, Konzert startet 22.00. DJs: poeks (Nu&#8217;Swing), schmeckefuchs (elelelectro), baba the knife und EMIL doesn&#8217;t drive (Psychedelic) Schönes Dings! http://www.electronic-swing-orchestra.de]]></description>
+									</item>
+		<item>
+		<title>The Southern Flavor Show im Heimathafen Neukölln</title>
+		<link>http://www.hopit.de/2010/10/the-southern-flavor-show-im-heimathafen-neukolln/</link>
+				<pubDate>Tue, 05 Oct 2010 13:57:03 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[bluegrass]]></category>
+		<category><![CDATA[heimathafen]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[neukölln]]></category>
+		<category><![CDATA[old fish]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1889</guid>
+				<description><![CDATA[Nicht nur dass heute Cat Empire im Huxleys spielt, nein, zudem findet auch noch The Southern Flavor Show im [qype id=&#8220;1562987&#8243;] statt. Mit dabei sind u.a Old Fish und Laura Bean and the Vagabonds &#8211; yiieeha! come and say goodbye to carlos, our pianoplayer whos is gonna seek fame and fortune overseas. we predict his [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

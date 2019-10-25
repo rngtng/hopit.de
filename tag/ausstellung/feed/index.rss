@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ausstellung &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ausstellung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:20:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Köln: Sternstunden des Glamour</title>
+		<link>http://www.hopit.de/2011/02/sternstunden-des-glamour/</link>
+				<pubDate>Wed, 02 Feb 2011 20:27:13 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[30er]]></category>
+		<category><![CDATA[ausstellung]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[mode]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2351</guid>
+				<description><![CDATA[In Köln findet im Museum Ludwig seit dem 2. Februar 2011 eine Ausstellung über Modefotografie des 20. Jahrhunderts statt. Dort sind offenbar viele Werke aus den 30er und 40er Jahren zu bewundern. Weitere Informationen findet ihr auf der Website der Ausstellung unter http://www.museenkoeln.de/museum-ludwig/default.asp?s=3342]]></description>
+									</item>
+	</channel>
+</rss>

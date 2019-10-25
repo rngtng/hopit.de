@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>jazzmusik &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/jazzmusik/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 16 Oct 2014 08:27:33 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Jazzmusiker in Filmen</title>
+		<link>http://www.hopit.de/2014/10/jazzmusiker-in-filmen/</link>
+				<pubDate>Thu, 16 Oct 2014 08:26:31 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[jazzmusik]]></category>
+		<category><![CDATA[movie]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4894</guid>
+				<description><![CDATA[Auf der Suche nach der BBC Doku &#8222;History of Jazz&#8220; bin ich auf die Website www.jazzonfilm.com gestoßen. Dort werden Dokumente und Links zu Filmen über / mit Jazzmusiker (n)  gesammelt und aufbereitet. Man findet Filme, Plakate, Dokumentationen und vieles mehr. Stöbert ruhig einmal durch. Ich finde es wäre mal an der Zeit einem &#8222;Swingtanz mit [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

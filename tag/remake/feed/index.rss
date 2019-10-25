@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>remake &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/remake/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:19:30 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>The Correspondents &#8211; Washington Square &#8211; Remake</title>
+		<link>http://www.hopit.de/2010/11/the-correspondents-washington-square-remake/</link>
+				<pubDate>Wed, 03 Nov 2010 12:29:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[remake]]></category>
+		<category><![CDATA[The Correspondents]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2045</guid>
+				<description><![CDATA[Das Video von The Correspondents &#8211; &#8218;Washington Square&#8216; kennt ihr bestimmt schon: &#8230; aber auch schon das Remake!? http://www.youtube.com/watch?v=51oYT6nvyC8 Nice + respekt! [via Twitter]]]></description>
+									</item>
+	</channel>
+</rss>

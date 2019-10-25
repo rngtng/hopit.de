@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lindyhop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/lindyhop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 23 Jan 2012 17:11:27 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: 25.01. Swing Jugend rund um den Michel</title>
+		<link>http://www.hopit.de/2012/01/hamburg-25-01-swing-jugend-rund-um-den-michel/</link>
+				<pubDate>Mon, 23 Jan 2012 17:11:27 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[lindyhop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3509</guid>
+				<description><![CDATA[&#8222;Swingjunged let&#8217;s dance&#8220; im MANDALAY, Neuer Pferdemarkt 13, 20359 Hamburg ab 20Uhr / 20:30Uhr Crash Kurs mit der SwingWerkstatt und bis 22Uhr Happy Hour Meine lieben Freunde der Swing-Musik, an alle die Lindy Hop, Balboa oder Charleston für sich entdeckt haben!! Am kommenden Mittwoch, 25.01.12 kommt wieder der NDR ins Haus und dreht für die [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

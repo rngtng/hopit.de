@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>film rockabilly &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/film-rockabilly/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 21 Jul 2011 16:56:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Video: ROCKABILLY RUHRPOTT</title>
+		<link>http://www.hopit.de/2011/07/video-rockabilly-ruhrpott/</link>
+				<pubDate>Mon, 25 Jul 2011 16:47:19 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[film rockabilly]]></category>
+		<category><![CDATA[kino]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3031</guid>
+				<description><![CDATA[Nicht ganz wirklich Swing, aber doch irgendwie &#8218;related&#8216; &#8211; gerade läuft Rockabilly Ruhrpott in den Kinos &#8211; anschauen! ROCKABILLY RUHRPOTT ist genauso ein Original wie seine Protagonisten: Er ist charmant, er ist anders, er ist authentisch. Ein Mosaik aus Interviews, Konzertausschnitten und Aufnahmen von Land und Leuten, das einfach viel Spaß macht – eben Rock’n’Roll! [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Latein &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/latein/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 31 Aug 2009 16:50:59 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Neuer Hamburger Tanzblog: Tanz Michel</title>
+		<link>http://www.hopit.de/2009/08/neuer-hamburger-tanzblog-tanz-michel/</link>
+				<pubDate>Mon, 31 Aug 2009 16:50:59 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Irish]]></category>
+		<category><![CDATA[Latein]]></category>
+		<category><![CDATA[Salsa]]></category>
+		<category><![CDATA[Standard]]></category>
+		<category><![CDATA[swingtanz]]></category>
+		<category><![CDATA[Tango]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=731</guid>
+				<description><![CDATA[Neu in Hamburg: seit nun schon mehrere Wochen bietet Michael Pohle in seinem Blog Tanz-Michel ausführliche Informationen rund ums Tanzen in Hamburg an. Quasi DAS Hamburger Online-Magazin für alle Tänzer &#8211; ist nur so voll mit vielen Terminen, Videos und Fotos rund um Standard, Latein, Salsa, Tango, Irish und natürlich auch Swingtanz! http://www.tanz-michel.de/]]></description>
+									</item>
+	</channel>
+</rss>

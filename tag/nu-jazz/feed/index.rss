@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>nu-jazz &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/nu-jazz/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:11:26 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Electrolloyd im Hafenbahnhof &#8211; Jazzraum</title>
+		<link>http://www.hopit.de/2009/06/electrolloyd-im-hafenbahnhof-jazzraum/</link>
+				<pubDate>Mon, 08 Jun 2009 13:08:30 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[funk]]></category>
+		<category><![CDATA[fusion]]></category>
+		<category><![CDATA[hafenbahnhof]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[nu-jazz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=536</guid>
+				<description><![CDATA[Für spontane, kurzentschlossene Freunde von gutem Nu-Jazz: Heute spielt die Magdeburger Combo Electrolloyd im Jazzraum des [qype id=&#8220;31275&#8243;] Hamburg. Ich hör schon des ganzen tach deren myspace zeuch rauf und runter da muss man hin! Los geht&#8217;s 21.00 Uhr, Eintritt 4 EUR. [via ottensen.info]]]></description>
+									</item>
+		<item>
+		<title>Club Des Belugas im Audi Zentrum Hamburg</title>
+		<link>http://www.hopit.de/2009/03/club-des-belugas-im-audi-zentrum-hamburg/</link>
+				<pubDate>Tue, 24 Mar 2009 10:24:48 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[lounge]]></category>
+		<category><![CDATA[nu-jazz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=319</guid>
+				<description><![CDATA[Hm, also über die Location lässt sich streiten, glaubt man aber der Ankündigung auf Myspace spielt Club des Belugas am Donnerstag im [qype id=&#8220;101560&#8243;]. Hab sie noch nie live gesehen/gehört aber die gute Mischung aus Electro-Nu-Jazz-Swing-Soul gefällt mir. mehr dazu auch hier http://www.youtube.com/watch?v=GVQLR1r7bt4]]></description>
+									</item>
+	</channel>
+</rss>

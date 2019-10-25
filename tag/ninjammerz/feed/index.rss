@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Ninjammerz &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ninjammerz/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:28 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Electro Swing vs. Lindy Hop: Caravan Palace avec Ninjammerz</title>
+		<link>http://www.hopit.de/2011/10/electro-swing-vs-lindy-hop-caravan-palace-avec-ninjammerz/</link>
+				<pubDate>Mon, 17 Oct 2011 08:27:54 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Ninjammerz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3278</guid>
+				<description><![CDATA[OMG! Die Ninjas sind mir persönlich ja ein bissl zuviel &#8218;Ninja&#8216;, aber das Ding fahren swingen sie heim&#8230; Electro Swing vs. Lindy Hop &#8211; Ninjammerz vs. Caravan Palace: http://www.studio88swing.com/]]></description>
+									</item>
+		<item>
+		<title>Ninjammerz hauen so richtig einen raus</title>
+		<link>http://www.hopit.de/2011/06/ninjammerz-hauen-so-richtig-einen-raus/</link>
+				<pubDate>Mon, 13 Jun 2011 19:17:58 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Ninjammerz]]></category>
+		<category><![CDATA[tanzbar]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2903</guid>
+				<description><![CDATA[Selten hab ich eine so energetische Jam erlebt. Eine wahre Freude, den Ninjammerz auf der Freitagsparty in der Tanzbar zuzusehen. Danach konnte einfach keiner mehr stillstehen &#8230;. http://www.youtube.com/watch?v=D-ew9gx3GwY Mehr Infos über die Truppe unter: http://ninjammerz.com/]]></description>
+									</item>
+		<item>
+		<title>Superheroes &#8217;09 Workshop in Berlin mit Ninjammerz &#038; Cyclown Circus</title>
+		<link>http://www.hopit.de/2009/09/superheroes-09-workshop-in-berlin-mit-ninjammerz-cyclown-circus/</link>
+				<pubDate>Mon, 28 Sep 2009 16:03:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Cyclown Circus]]></category>
+		<category><![CDATA[Ninjammerz]]></category>
+		<category><![CDATA[Routine]]></category>
+		<category><![CDATA[solo charleston]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=867</guid>
+				<description><![CDATA[Letztes Wochenende war ich mal wieder Berlin! .. und zwar auf dem Superheroes &#8217;09 Swingtanz Workshop von [qype id=&#8220;236965&#8243;]. Ein schöner kleiner Workshop in top Location direkt an der Warschauerstrasse. Unterrrichtet habe Max Pitruzzella &#38; Annie Trudeau sowie Thomas Blacharz &#38; Sahra Djella aka. Ninjajammers. War ganz ok, Max war noch nie so mein Fall, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

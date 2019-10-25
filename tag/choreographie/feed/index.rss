@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Choreographie &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/choreographie/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:38 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Tron Dance Choreo</title>
+		<link>http://www.hopit.de/2012/04/tron-dance-choreo/</link>
+				<pubDate>Wed, 04 Apr 2012 19:52:06 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Choreographie]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[Tron]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3828</guid>
+				<description><![CDATA[Schaut Euch diese großartige Choreo an. Zwar nicht unbedingt Swingkompatibel, aber dennoch! Super! http://www.youtube.com/watch?v=SvvCR-o4PEA Danke Lucie für den Tip!]]></description>
+									</item>
+		<item>
+		<title>Kiel legt vor: Frankies 95. Geburtstag ShimSham Choreographie</title>
+		<link>http://www.hopit.de/2009/04/kiel-legt-vor-frankies-95-geburtstag-shimsham-choreographie/</link>
+				<pubDate>Mon, 27 Apr 2009 12:23:08 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[Choreographie]]></category>
+		<category><![CDATA[frankie95]]></category>
+		<category><![CDATA[ShimSham]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=397</guid>
+				<description><![CDATA[So Lindy Hop Kiel hat vorgelegt und für Frankies 95.Geburtstag die ShimSham Choreographie getanzt: Sehr schön, wann kommt Hamburg? [via. Fabian, NSG Blackboard]]]></description>
+									</item>
+		<item>
+		<title>Frankie 95 Choreographie &#8211; Savoy!</title>
+		<link>http://www.hopit.de/2009/03/frankie-95-choreographie-savoy/</link>
+				<pubDate>Fri, 06 Mar 2009 21:03:33 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Choreographie]]></category>
+		<category><![CDATA[frankie95]]></category>
+		<category><![CDATA[Videos]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=269</guid>
+				<description><![CDATA[Drüben bei Lindybloggers.com zeigen uns Peter und Ramona die Choreographie für Frankie&#8217;s 95. Geburtstag. Getanz wird zu Savoy von Locky Millinder. Ganz einfach finde ich sie nicht, wäre aber durchaus mal schön die im Unterricht zu lernen!? (winke, winke 😉 ) Also anschaun, lernen, aufnehemen und auf youtube posten! Ich bin sowas von gespannt! zu [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

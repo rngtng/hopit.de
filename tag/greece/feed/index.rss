@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>greece &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/greece/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:38:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Welcome to Greece &#8211; Maraveyas Ilegal</title>
+		<link>http://www.hopit.de/2012/06/welcome-to-greece-maraveyas-ilegal/</link>
+				<pubDate>Tue, 05 Jun 2012 09:21:26 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[greece]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4065</guid>
+				<description><![CDATA[Schöne Dings, und weckt die Vorfreude auf Swing &#38; Swim 2012 &#8211; cu there [via Christal Engergy]]]></description>
+									</item>
+		<item>
+		<title>Black Swamp Village &#8211; the Speakeasies&#8216; Swing Band!</title>
+		<link>http://www.hopit.de/2012/05/black-swamp-village-the-speakeasies-swing-band/</link>
+				<pubDate>Tue, 01 May 2012 10:15:19 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[greece]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3888</guid>
+				<description><![CDATA[Schicket Swing und Video aus Griechenland &#8211; anschaun: http://www.speakeasies.gr/]]></description>
+									</item>
+	</channel>
+</rss>

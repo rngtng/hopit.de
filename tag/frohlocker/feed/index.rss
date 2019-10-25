@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>frohlocker &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/frohlocker/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:14:36 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Dutty Moonshine Remix Frohlocker &#8222;Hipbrass&#8220;</title>
+		<link>http://www.hopit.de/2013/03/dutty-moonshine-remix-frohlocker-hipbrass/</link>
+				<pubDate>Fri, 15 Mar 2013 13:47:15 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[frohlocker]]></category>
+		<category><![CDATA[remix]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4491</guid>
+				<description><![CDATA[OMG! Dutty Moonshine hat Frohlocker &#8222;Hipbrass&#8220; geremixed! Fättes Ding &#8211; auf ins Wochenende!]]></description>
+									</item>
+		<item>
+		<title>Njuuuu Frohlocker DJ MIX: Frohkolade</title>
+		<link>http://www.hopit.de/2012/09/njuuuu-dj-mix-frohkolade/</link>
+				<pubDate>Mon, 10 Sep 2012 09:32:28 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[ElectroSwing]]></category>
+		<category><![CDATA[frohlocker]]></category>
+		<category><![CDATA[mix]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4315</guid>
+				<description><![CDATA[OMG! Frohlocker haben &#8217;nen neuen Mix raus: Frohkolade. Schönes Swing-Gehopse-Zappel: Trackliste: http://frohlocker.de/wp/2012/08/njuuuu-dj-mix-frohkolade/]]></description>
+									</item>
+		<item>
+		<title>Frohlocken in der Groovestation Dresden</title>
+		<link>http://www.hopit.de/2011/03/frohlocken-in-der-groovestation-dresden/</link>
+				<pubDate>Sat, 05 Mar 2011 10:40:22 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[dresden]]></category>
+		<category><![CDATA[frohlocker]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Party]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2414</guid>
+				<description><![CDATA[Heute frohlocken Frohlocker zur Fat Kat Disko in der [qype id=&#8220;16382&#8243;] Dresden &#8211; dieses quasi Heimspiel lass ich mir doch nicht entgehen &#8211; cu there! Hipbrass, baby!]]></description>
+									</item>
+		<item>
+		<title>Frohlocker sind da! Heute Abend im Sommersalon Hamburg</title>
+		<link>http://www.hopit.de/2009/09/frohlocker-heute-abend-im-sommersalon/</link>
+				<pubDate>Sat, 26 Sep 2009 15:20:09 +0000</pubDate>
+		<dc:creator><![CDATA[admin]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[frohlocker]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=923</guid>
+				<description><![CDATA[Für die super Spontanen ein super Tipp für heute Abend: Frohlocker spielen in Hamburg, im [qype id=&#8220;20103&#8243;] ab 23.00 Uhr! Ja, genau! Frohlocker, aus Kaiserslautern. Super, ich freu mich wie&#8217;n Keks, ab 23.00 geht los. Weniger Swining aber 100% tanzbar &#8211; abgehn! Hier schon mal warmhören, der Aktuelle Mix: Floorrocker]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Cyclown Circus &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/cyclown-circus/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:28 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Cyclown Circus vs. Real Funk Ride &#8211; April Fools Mardi Gras</title>
+		<link>http://www.hopit.de/2011/04/berlin-cyclown-circus-vs-real-funk-ride-april-fools-mardi-gras/</link>
+				<pubDate>Fri, 01 Apr 2011 14:13:20 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Cyclown Circus]]></category>
+		<category><![CDATA[funk]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2536</guid>
+				<description><![CDATA[Cyclown Circus spielt heute Abend mit Real Funk Ride im &#8222;Chez Jacki&#8220; Terrasse am Ostbahnhof, An Der Schilling Brücke, Berlin-Friedrichshain: April, April! Diesmal nicht! Kein Witz! Todernst! Am 1. April trifft New Orleans Mardi Gras auf Berlin&#8217;s Real Funk Ride Partyreihe!Der mächtige Cyclown Circus ist diesmal für euch gebucht und verspricht eine Karnevalsträchtige Show, diesmal [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: Electro-Swing-Club die 2. im Festsaal Kreuzberg</title>
+		<link>http://www.hopit.de/2011/03/berlin-electro-swing-club-die-2-im-festsaal-kreuzberg/</link>
+				<pubDate>Tue, 15 Mar 2011 16:58:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Cyclown Circus]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[kreuzberg]]></category>
+		<category><![CDATA[kruzberg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Party]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2453</guid>
+				<description><![CDATA[Juhu am Samstag ist es wieder soweit: die nächste Electro-Swing-Club Party ist am Start. Zum zweiten Mal öffnet im [qype id=&#8220;18575&#8243;] der Club seine Türen. Geboten wird ein buntes Programm im 20er Jahre Look und 2011er Klang mit Cabaret, Live-Musik und einem internationalen DJ Line up. Special des Abends ist die Record Release der Electro [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Superheroes &#8217;09 Workshop in Berlin mit Ninjammerz &#038; Cyclown Circus</title>
+		<link>http://www.hopit.de/2009/09/superheroes-09-workshop-in-berlin-mit-ninjammerz-cyclown-circus/</link>
+				<pubDate>Mon, 28 Sep 2009 16:03:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Cyclown Circus]]></category>
+		<category><![CDATA[Ninjammerz]]></category>
+		<category><![CDATA[Routine]]></category>
+		<category><![CDATA[solo charleston]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=867</guid>
+				<description><![CDATA[Letztes Wochenende war ich mal wieder Berlin! .. und zwar auf dem Superheroes &#8217;09 Swingtanz Workshop von [qype id=&#8220;236965&#8243;]. Ein schöner kleiner Workshop in top Location direkt an der Warschauerstrasse. Unterrrichtet habe Max Pitruzzella &#38; Annie Trudeau sowie Thomas Blacharz &#38; Sahra Djella aka. Ninjajammers. War ganz ok, Max war noch nie so mein Fall, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

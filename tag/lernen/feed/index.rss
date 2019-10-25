@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lernen &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/lernen/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:38:50 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Balboa Tanzen mit Balboa Botschaft</title>
+		<link>http://www.hopit.de/2013/02/berlin-balboa-zu-tanzen-mit-balboa-botschaft/</link>
+				<pubDate>Mon, 04 Feb 2013 15:29:17 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[lernen]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4446</guid>
+				<description><![CDATA[Jetzt anfangen, Balboa zu Tanzen! Und wahrscheinlich nie mehr aufhören. -&#62; BALBOA für BEGINNER &#38; AUFFRISCHER mit Anna &#38; Matti Wochenend-Workshop, 23. &#38; 24. Februar, insg. 7h Unterricht, 70€ p.Person/Einzelanmeldung oder 60€ p.Person/Paaranmeldung Genaue Infos und so findest Du hier: www.balboa-botschaft.de Anmeldungen &#38; Fragen einfach an: empfang@balboa-botschaft.de]]></description>
+									</item>
+		<item>
+		<title>Berlin: Lindy Hop/Swing Dance Kurs mit Jan Forward im TapBeat</title>
+		<link>http://www.hopit.de/2012/01/berlin-lindy-hopswing-dance-kurs-mit-jan-forward-im-tapbeat/</link>
+				<pubDate>Sat, 21 Jan 2012 11:53:43 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[kurs]]></category>
+		<category><![CDATA[lernen]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tanzen]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3478</guid>
+				<description><![CDATA[Immer wieder Donnerstags bietet Jan Forward im TapBeat einen Lindy Hop/Swing Dance Kurs an. Gemischte Levels, jeder ist Willkommen, ob Anfänger oder mit Vorkenntnissen. Am Ende der Stunde kann man üben und tanzen: Lindy Hop/Swing Dance mit Jan Forward Donnerstags, 19:30-21:00 Uhr Probestunde kostenlos. Bei TapBeat, Internationales Steptanz Zentrum &#8211; Dieffenbachstr. 33, 3. Hof (F) [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

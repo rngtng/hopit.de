@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Wohlwill &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/wohlwill/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:02 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Viel Swing am Wochenende: Balboa-Charleston Party, Wohlwillstraßenfest, Queen Calavera und Haus 73</title>
+		<link>http://www.hopit.de/2009/06/viel-swing-am-wochenende-balboa-charleston-party-wohlwillstrasenfest-queen-calavera-und-haus-73/</link>
+				<pubDate>Thu, 11 Jun 2009 14:25:01 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[balboa]]></category>
+		<category><![CDATA[charleston]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[queen calavera]]></category>
+		<category><![CDATA[ricky kings]]></category>
+		<category><![CDATA[straßenfest]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Wohlwill]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=549</guid>
+				<description><![CDATA[Die nächsten vier Tage sind mal wieder voll mit Swing Tanz in Hamburg &#8211; Charleston, Balboa und Lindy Hop &#8211; alles wird geboten. Los gehts am Donnerstag mit Swingy the Kid und DJ Peng Larssen die die [qype id=&#8220;174055&#8243;] schön rocken und swingen lassen. Am Freitag ist dann Swingwerkstatt Balboa-Charleston-Party in der [qype id=&#8220;20752&#8243;]. Log [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

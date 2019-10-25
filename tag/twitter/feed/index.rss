@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>twitter &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/twitter/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:17:36 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing &#038; Lindy Hop Lehrer die Bloggen, Twittern &#8230;</title>
+		<link>http://www.hopit.de/2010/01/swing-lindy-hop-lehrer-die-bloggen-twittern/</link>
+				<pubDate>Fri, 08 Jan 2010 22:05:27 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[blog]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=721</guid>
+				<description><![CDATA[Hier mal eine kleine Zusammenstellung von die Bloggen, Twittern Sharon Davis: http://www.sharondavis.com.au Peter Loggings: http://www.peterandmia.com Dax &#38; Alice: http://.daxandalice.com Ninjammerz: (Max, Dax) http://ninjammerz.com Jo Hoffberg: http://johoffberg.com/blog/ Hanna &#38; Matthias: http://www.mandh.se/]]></description>
+									</item>
+		<item>
+		<title>Neu, Neu, Neu: HopIt! nun auch auf Facebook und Twitter</title>
+		<link>http://www.hopit.de/2009/09/neu-neu-neu-hopit-nun-auch-auf-facebook-und-twitter/</link>
+				<pubDate>Fri, 25 Sep 2009 08:55:03 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[facebook]]></category>
+		<category><![CDATA[hopit]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=877</guid>
+				<description><![CDATA[Was für meine Nerds: Einige habs ja schon gemerkt, seit letzter Woche gibts HopIt! nun auch auf Facebook und Twitter. An beiden Stellen werden nun automatisch die Artikel mit Titel verlinkt und hin und wieder mal ein paar Blitzgedanken veröffentlicht. Werde jetzt HopIt! Fan oder HopIt! Follower und verpasse nix! Viel Spaß!]]></description>
+									</item>
+		<item>
+		<title>Frankie95 News online und auf Twitter&#8230;</title>
+		<link>http://www.hopit.de/2009/05/frankie95-news-online-und-auf-twitter/</link>
+				<pubDate>Mon, 18 May 2009 08:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[frankie95]]></category>
+		<category><![CDATA[news]]></category>
+		<category><![CDATA[nyc]]></category>
+		<category><![CDATA[twitter]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=490</guid>
+				<description><![CDATA[Ui nur noch zwei Tage, dann ist&#8217;s soweit! NYC ich komme! Gut zu wissen, alles zum Frankie95 Festival findet man bei News hier &#8211; und für Nerds (like me) quasi auch in Echtzeit auf Twitter hier: http://twitter.com/frankie95. &#8230;und wer sich jetzt fragt &#8222;Twitter? Hä? Was&#8217;n das?&#8220; so lieber froh sein diese vermeintliche &#8218;wissens Lücke&#8216; noch [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

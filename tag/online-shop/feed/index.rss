@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>online shop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/online-shop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sat, 25 May 2013 13:49:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Tanzschuhe kaufen bei Hacke und Spitze Berlin</title>
+		<link>http://www.hopit.de/2013/06/tanzschuhe-kaufen-bei-hacke-und-spitze-berlin/</link>
+				<pubDate>Sat, 08 Jun 2013 13:31:24 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[online shop]]></category>
+		<category><![CDATA[schuhe]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4325</guid>
+				<description><![CDATA[&#160; Schöner (Online)Shop für Tanzschuhe &#38; Klamotten http://www.hackeundspitze.de]]></description>
+									</item>
+	</channel>
+</rss>

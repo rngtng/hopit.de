@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>swingt &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swingt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:19 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Sau viel Swing in Berlin am Freitach!</title>
+		<link>http://www.hopit.de/2013/03/sau-viel-swing-in-berlin-am-freitach/</link>
+				<pubDate>Thu, 21 Mar 2013 18:11:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[swingt]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4497</guid>
+				<description><![CDATA[Wuaaaahhh Freitag ist Swing Time, Better Time, ich-weiss-nicht-was Time. Auf jeden Fall ist die Stadt voll bis oben hin dass die Dancefloors nur so brennen und das Tanzbein häftigst juckt: Für unsere Electronen gehts zur Pranke: http://www.hopit.de/events/berlin-panke-es-ist-ein-swing-ding Die Füsse fiddler haben Spaß Spiegelsaal: http://www.hopit.de/events/berlin-balboa-im-spiegelsaal-clarchens-ballhaus Die Lindy Hopper swingen inne Tresor: http://www.hopit.de/events/berlin-swingin-globus-tresor und die restlichen Nachtkatzen [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

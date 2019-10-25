@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tanz lindy hop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tanz-lindy-hop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 18 Oct 2019 22:40:57 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing das Leben &#8211; Sunday Stomp goes Harburg</title>
+		<link>http://www.hopit.de/2010/08/swing-das-leben-sunday-stomp-goes-harburg/</link>
+				<pubDate>Sat, 07 Aug 2010 08:54:22 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[crahskurs]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[harburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[sunday stomp]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tanz lindy hop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1713</guid>
+				<description><![CDATA[Für Freunde des gepflegten Swingtanzes gibt es am Sonntag, 08.08.2010, ab 16 Uhr, &#8222;Swing das Leben&#8220; im [qype id=&#8220;13274&#8243;]. Um 16 Uhr bietet die Swingwerkstatt Hamburg einen kostenlosen Crashkurs an, Anmeldung ist nicht erforderlich. Anschließend darf ab 16:30 Uhr zu Charleston, Balboa und Lindy Hop getanzt werden. Für vier Stunden legt DJ Mel aktuelle und [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>herr von eden &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/herr-von-eden/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:37 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Herr von Eden: Blow Out Sale</title>
+		<link>http://www.hopit.de/2011/09/hamburg-herr-von-eden-blow-out-sale/</link>
+				<pubDate>Fri, 23 Sep 2011 09:38:58 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[herr von eden]]></category>
+		<category><![CDATA[klamotten]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3213</guid>
+				<description><![CDATA[Schicke Klamotte zum &#8222;Günstpreis&#8220; gibts beim Blow Out Sale der Klamottenmarke &#8222;Herr von Eden&#8220;. Vom 23.9. bis 1.10.2011 bietet sich die Chance Stücke aus der &#8222;alten&#8220; Kollektion zu ergattern. Die Tore in den KOHLHÖFEN 8 sind geöffnet von 11h &#8211; 19h. http://www.herrvoneden.com/site/ via mary]]></description>
+									</item>
+		<item>
+		<title>Herr von Eden Super Sale!</title>
+		<link>http://www.hopit.de/2010/03/herr-von-eden-super-sale/</link>
+				<pubDate>Tue, 16 Mar 2010 13:41:12 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[herr von eden]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[sale]]></category>
+		<category><![CDATA[schnäppchen]]></category>
+		<category><![CDATA[verkauf]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1446</guid>
+				<description><![CDATA[Es ist mal wieder soweit: Herr von Eden haut wieder seine Prachtmode mit bis zu 70% Rabatt raus! Hin gehn, abstauben und gut aussehn! A fine collection of the latest autumn/winter pieces and HvE-Classics. Up to 70% off. If you buy a suit &#8211; free entry for the Visual Leader 2010 exhibition at the deichtorhallen [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Super Sale von Herr von Eden im Kunstverein</title>
+		<link>http://www.hopit.de/2009/09/super-sale-von-herr-von-eden-im-kunstverein/</link>
+				<pubDate>Thu, 03 Sep 2009 11:06:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[angebot]]></category>
+		<category><![CDATA[ausverkauf]]></category>
+		<category><![CDATA[herr von eden]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=769</guid>
+				<description><![CDATA[Das Hamburger Modelabel [qype id=&#8220;106955&#8243;] veranstaltet am Samstag wieder einen Super Sale, dieses Jahr erstmalig in den Räumen des [qype id=&#8220;287945&#8243;]. Die Höhepunkte der vergangenen Kollektionen können zu sensationellen Sonderpreisen erstanden werden. Der Besuch der Ausstellungen ist an diesem Tag kostenfrei. www.herrvoneden.com www.kunstverein.de]]></description>
+									</item>
+	</channel>
+</rss>

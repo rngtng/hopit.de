@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>einsteiger &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/einsteiger/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sat, 25 May 2013 14:37:04 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing und Lindy Hop Musik für Beginner</title>
+		<link>http://www.hopit.de/2013/07/lindy-hop-musik/</link>
+				<pubDate>Thu, 25 Jul 2013 14:15:25 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[einsteiger]]></category>
+		<category><![CDATA[lindy hop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=817</guid>
+				<description><![CDATA[Schöner Einsteiger Artikel mit guten Musiktipps: http://pustoblogsky.blogspot.com/2009/09/if-youre-just-learning-east-coast-swing.html auch schön: http://www.exil.de/press/5740-swingaround-pi-dt.html]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Billie Holiday &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/billie-holiday/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:57 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Zum 100. GEBURTSTAG &#8211; Das Leben der Billie Holiday</title>
+		<link>http://www.hopit.de/2015/05/zum-100-geburtstag-das-leben-der-billie-holiday/</link>
+				<pubDate>Sun, 10 May 2015 12:25:23 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Billie Holiday]]></category>
+		<category><![CDATA[geschichte]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=6387</guid>
+				<description><![CDATA[Ein schönes Fundstück von Gwen: Dieses Jahr wird Billie Holiday wahrscheinlich noch des öfteren erinnert, gespielt, weil die wäre 100, is&#8216; aber nur 40 geworden. Ein ganz gute hörbares Feature über ihr Leben en detail und generell: http://www.deutschlandfunk.de/100-geburtstag-lady-day-das-leben-der-billie-holiday.1247.de.html?dram:article_id=312535]]></description>
+									</item>
+		<item>
+		<title>Miss Brown To You</title>
+		<link>http://www.hopit.de/2013/02/miss-brown-to-you/</link>
+				<pubDate>Sun, 03 Feb 2013 14:56:24 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Billie Holiday]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4441</guid>
+				<description><![CDATA[Einer meiner absoluten Lieblingssongs der großartigen Billie Holiday: &#8222;Miss Brown To You&#8220;. Achtet mal darauf, wie sie mit den Musikern im Einklang ist. Besonders an dem kleinen Break, wo sie &#8222;Yes yes &#8230;.&#8220; singt und das Klavier einsetzt. Da muss man einfach tanzen. Am besten jetzt und sofort. Also auf auf zum Sundaystomp im Haus [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

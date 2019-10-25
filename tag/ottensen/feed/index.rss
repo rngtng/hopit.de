@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ottensen &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ottensen/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:02 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>DJ Jakob the Butcher vs. Happy Feet!</title>
+		<link>http://www.hopit.de/2009/06/dj-jakob-the-butcher-vs-happy-feet/</link>
+				<pubDate>Thu, 18 Jun 2009 12:37:16 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[ottensen]]></category>
+		<category><![CDATA[rock'n'roll]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=566</guid>
+				<description><![CDATA[Am Freitag geht&#8217;s nach Ottensen. Dort legt wieder Tanzorchester Fabian mit Happy Feet im Planet [qype id=&#8220;7594&#8243;] auf. Zur gleichen Zeit, unweit nah, wetzt DJ Jakob the Butcher im [qype id=&#8220;4042&#8243;] die Platten à la &#8222;Why O Devil Why O Why Aint There Something That Money Cant Buy&#8220;. Da fällt die Entscheidung schwer, ich geh [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Caravan Palace in der Fabrik Hamburg</title>
+		<link>http://www.hopit.de/2009/05/caravan-palace-in-der-fabrik-hamburg/</link>
+				<pubDate>Wed, 20 May 2009 13:11:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[caravan]]></category>
+		<category><![CDATA[electro]]></category>
+		<category><![CDATA[fabrik]]></category>
+		<category><![CDATA[gypsy swing]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[nu swing]]></category>
+		<category><![CDATA[ottensen]]></category>
+		<category><![CDATA[palace]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=492</guid>
+				<description><![CDATA[Juhu! Mein Elektro Nu Swing Geheimtipp geht am Freitag in der [qype id=&#8220;617&#8243;] Hamburg/Ottensen ab: Caravan Palace aus Paris beglückt uns mit modischen Gypsy Swing Sound bespickt mit electro Beatz und Synth Effekten &#8211; alles sehr lebhaft, lustig und 100% tanzbar (wenn auch nicht gerade &#8218;klassisch&#8216;). Ein Konzertbesuch ist es auf jede Fall Wert &#8211; [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

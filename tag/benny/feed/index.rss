@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>benny &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/benny/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:40 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Laeiszhalle: Konzert zu Benny Goodman&#8217;s 100. Geburstag</title>
+		<link>http://www.hopit.de/2009/04/laeiszhalle-konzert-zu-benny-goodmans-100-geburstag/</link>
+				<pubDate>Thu, 09 Apr 2009 11:48:43 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[benny]]></category>
+		<category><![CDATA[goodman]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[konzert]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=367</guid>
+				<description><![CDATA[Heute ist zwar nicht der 30. Mai, aber trotzdem: Zu Ehren von Benny Goodman&#8217;s kommenden 100. Geburtstag wird heute Abend das Swing Dance Orchestra seinen Sound wieder beleben. Das Konzert findet in der [qype id=&#8220;47369&#8243;] statt. Die komplette Veranstaltungsinfo ist hier. Und zum Schluss noch passend dazu dieses Wahnsinnslied &#8218;Sing, Sing, Sing&#8216;: http://de.wikipedia.org/wiki/Benny_Goodman]]></description>
+									</item>
+	</channel>
+</rss>

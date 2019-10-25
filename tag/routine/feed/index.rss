@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Routine &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/routine/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:28 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Super Mario Routine Morgan Day and Emily Wigger</title>
+		<link>http://www.hopit.de/2011/08/super-mario-routine-morgan-day-and-emily-wigger/</link>
+				<pubDate>Thu, 11 Aug 2011 11:27:30 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Routine]]></category>
+		<category><![CDATA[super mario]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3080</guid>
+				<description><![CDATA[Uh, verdammt schönes Ding: [von Pete &#8211; Danke!!]]]></description>
+									</item>
+		<item>
+		<title>Shim Sham Reloaded</title>
+		<link>http://www.hopit.de/2011/01/shim-sham-reloaded/</link>
+				<pubDate>Tue, 25 Jan 2011 23:06:54 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[Routine]]></category>
+		<category><![CDATA[ShimSham]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2316</guid>
+				<description><![CDATA[Hier eine kurzfristige Ankündigung von Ruby zum Shim Sham. Wer diese schöne Routine schon immer endlich mal mitmachen wollte, dem sei der Minikurs ans Herz gelegt: Ich habe überlegt, eurem Wunsch nachzukommen, und vor der Party am Freitag einen Auffrischungskurs zu geben. Ich denke es reicht 1,5 h. Für 10 Euro seid ihr gern wieder [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Superheroes &#8217;09 Workshop in Berlin mit Ninjammerz &#038; Cyclown Circus</title>
+		<link>http://www.hopit.de/2009/09/superheroes-09-workshop-in-berlin-mit-ninjammerz-cyclown-circus/</link>
+				<pubDate>Mon, 28 Sep 2009 16:03:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Cyclown Circus]]></category>
+		<category><![CDATA[Ninjammerz]]></category>
+		<category><![CDATA[Routine]]></category>
+		<category><![CDATA[solo charleston]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=867</guid>
+				<description><![CDATA[Letztes Wochenende war ich mal wieder Berlin! .. und zwar auf dem Superheroes &#8217;09 Swingtanz Workshop von [qype id=&#8220;236965&#8243;]. Ein schöner kleiner Workshop in top Location direkt an der Warschauerstrasse. Unterrrichtet habe Max Pitruzzella &#38; Annie Trudeau sowie Thomas Blacharz &#38; Sahra Djella aka. Ninjajammers. War ganz ok, Max war noch nie so mein Fall, [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>31.Jan&#8217;09, NSG: American, Twist, Tuck-Turn Jump</title>
+		<link>http://www.hopit.de/2009/01/nsg-american-twist-tuck-turn-jump/</link>
+				<pubDate>Sat, 31 Jan 2009 16:59:36 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[NSG]]></category>
+		<category><![CDATA[Routine]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=125</guid>
+				<description><![CDATA[Zum 10 Jährigen Bestehen der NSG haben Tobi und Uschi aus Münster einen kleinen Workshop gegeben. Mit viel Elan und Freude zeigten sie Figuren die &#8218;einfach&#8216; aber &#8217;schön&#8216; SocialDancing geeignet sind. Los gings mit American: 1: backstep, angedeutet re Drehung 2+3. leicht li Dreung 4: li Arm greif F Arm und änder in re Drehung [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

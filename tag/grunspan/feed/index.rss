@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>grünspan &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/grunspan/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:25 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Do da Balkanbeatz: Tanzen zu Shantel &#038; Co.</title>
+		<link>http://www.hopit.de/2009/09/do-da-balkanbeatz-tanzen-zu-shantel-co/</link>
+				<pubDate>Tue, 08 Sep 2009 09:55:40 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[balkanbeatz]]></category>
+		<category><![CDATA[grünspan]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[shantel]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=810</guid>
+				<description><![CDATA[Okay, die Lindy Hop Basics haben wir ja so langsam drauf, aber wie schauts denn mit Balkanbeatz aus? Bei rare.de hab ich eine schöne kleine &#8218;Anleitung&#8216; gefunden. Am besten gefällt mir der letzte Punkt: Gebe alles her, was der Körper hergeben kann, am Ende muss der Schweiß auf Deiner Stirn und im Gesicht eine glückliche [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

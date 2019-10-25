@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Verve &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/verve/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:20 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Verve Jazz Club &#8211; Swing Compilations</title>
+		<link>http://www.hopit.de/2009/01/verve-jazz-club-swing-compilations/</link>
+				<pubDate>Mon, 19 Jan 2009 23:31:27 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[CD]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[Verve]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=81</guid>
+				<description><![CDATA[Ich habe gerade eine schöne Sammlung an Swing und Jazz Musik zusammengestellt vom Klassiker Verve gefunden. Die &#8222;Let&#8217;s Dance Jazz&#8220; Compilation ist besonderst Lindy Hop geeignet! http://www.verve-jazzclub.com ..und das Beste &#8211; bei Amazon gibt&#8217;s die CDs schon ab 5Eur. Zuschlagen!]]></description>
+									</item>
+	</channel>
+</rss>

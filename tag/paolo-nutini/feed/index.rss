@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>paolo nutini &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/paolo-nutini/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 29 Dec 2009 10:00:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Kennt ihr schon? Paolo Nutini &#8211; Pencil Full Of Lead</title>
+		<link>http://www.hopit.de/2009/12/kennt-ihr-schon-paolo-nutini-pencil-full-of-lead/</link>
+				<pubDate>Tue, 29 Dec 2009 09:55:17 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[paolo nutini]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1234</guid>
+				<description><![CDATA[Oh schön, hier ist Paolo Nutini mit Pencil Full Of Lead: UPDATE: vergesst das Video da oben, das hier ist&#8217;s! http://www.youtube.com/watch?v=mC_3FvA5x58 Der Rest von ihm ist eher überhaupt gar nicht swingig, trotzdem mal hörn: -&#62; http://www.paolonutini.com/]]></description>
+									</item>
+	</channel>
+</rss>

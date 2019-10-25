@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tunes &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tunes/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 30 Nov 2012 10:37:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Electro Swing: Scratchytunes.com</title>
+		<link>http://www.hopit.de/2012/12/electro-swing-scratchytunes-com/</link>
+				<pubDate>Sun, 02 Dec 2012 10:28:46 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[tunes]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4398</guid>
+				<description><![CDATA[Ui, schönes Blog über Electro Swing und all den ganzen Turntablism, HipHopppigen DJ Tunes. http://scratchytunes.com/electro-swing]]></description>
+									</item>
+	</channel>
+</rss>

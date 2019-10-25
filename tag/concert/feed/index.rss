@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>concert &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/concert/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:39:37 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Diese Woche: Jazz, Swing Blues in Hamburg</title>
+		<link>http://www.hopit.de/2009/03/diese-woche-jazz-swing-blues-in-hamburg/</link>
+				<pubDate>Mon, 02 Mar 2009 16:36:58 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[concert]]></category>
+		<category><![CDATA[gig]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[jam]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=245</guid>
+				<description><![CDATA[Das Abendblatt hat eine schöne Sammlung vieler Jazz, Swing und Blues Gigs dieser Woche in Hamburg veröffentlicht: http://www.abendblatt.de/daten/2009/03/02/1068503.html Und hier in leserlicher Form: Montag: Blue Monday, 20.30, [qype id=&#8220;128665&#8243;] (Vorsetzen, City Sporthafen); Gas, 21.00, Jazzraum im Hafenbahnhof (Große Elbstraße 276) Dienstag: Sidewinder Big Band, 20.00, [qype id=&#8220;4916&#8243;] (Alter Steinweg 10); Swing On A String, 21.00, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

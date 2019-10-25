@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>word play &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/word-play/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:45:23 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>DJ Kormac: Word Play &#8211; Debut Album</title>
+		<link>http://www.hopit.de/2010/06/dj-kormac-word-play-debut-album/</link>
+				<pubDate>Sun, 20 Jun 2010 16:04:19 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[album]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[kormac]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[word play]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1606</guid>
+				<description><![CDATA[Für alle die&#8217;s (wie ich) verpasst haben: mein favorite Electro-Swing DJ, DJ Kormac, hat sein Debut Album &#8218;Word Play&#8216; veröffentlicht. Voll gepackt mit 13 jazzy, swingy, big-beat-electro Tracks. Leider viel bekanntest und das neue Zeuch kann nicht wirklich überzeugen &#8211; schade! Mehr hier: http://www.djkormac.com/diary/2010/mar/12/word-play-album-tracklist-and-features/]]></description>
+									</item>
+	</channel>
+</rss>

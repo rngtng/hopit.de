@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>boot &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/boot/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 14 Apr 2010 10:56:57 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hedis Frühlingsparty mit Max&#8217;s Quintenzirkus</title>
+		<link>http://www.hopit.de/2010/04/hedis-fruhlingsparty-mit-maxs-quintenzirkus/</link>
+				<pubDate>Fri, 16 Apr 2010 10:56:34 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[barkasse]]></category>
+		<category><![CDATA[boot]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[schiff]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1421</guid>
+				<description><![CDATA[Max&#8217;s Quintenzirkus legt wieder auf [qype id=&#8220;28393&#8243;] auf: &#8222;Musikalisch bewege ich mich einmal rund um den Globus. Mit viel tuten und blasen beginne ich meist mit Swing Musik der 20er und 30er Jahre, werde dann für gewöhnlich schnell beatlastiger und lande in der Regel bei einer verrückten Tanzparty mitten im Balkan&#8220;. (äh also das aufm [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

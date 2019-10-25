@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>günter discher &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/gunter-discher/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:51:13 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Nachrufe zum Tod von Günter Discher</title>
+		<link>http://www.hopit.de/2012/09/nachrufe-zum-tod-von-gunter-discher/</link>
+				<pubDate>Sun, 23 Sep 2012 18:32:54 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[günter discher]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[swing jugend]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4332</guid>
+				<description><![CDATA[Am 9.9.2012 ist Günter Discher gestorben. Für mich war seine CD Compilation Swing Kids, Swing Hits der begeisterte Einstieg in die tanzbare Swingmusik. Der NDR hat einen Nachruf veröffentlicht. Ihr findet den kurzen Hörbeitrag auf der Website des NDR unter http://www.ndr.de/regional/hamburg/audio127941.html Auch die TAZ schreibt einen Artikel unter http://www.taz.de/!101430/]]></description>
+									</item>
+		<item>
+		<title>Ohrenschmaus: neuer Swingin&#8216; Swanee Sampler</title>
+		<link>http://www.hopit.de/2011/08/ohrenschmaus/</link>
+				<pubDate>Mon, 01 Aug 2011 10:51:02 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[ceraton]]></category>
+		<category><![CDATA[günter discher]]></category>
+		<category><![CDATA[Swingin' Swanee]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3037</guid>
+				<description><![CDATA[Der neue Sampler von Swingin`Swanee ist da! Die CD ist eine Sammlung klassischer, tanzgeprüfter(!) mid-tempo Swingsongs (120 &#8211; 192 bpm). Mit dabei sind u.a. Nellie Lutcher &#8222;Fine Brown Frame&#8220;, Kate Smith &#8222;Sixteen Tons&#8220;, Gene Sedric &#8222;The Joint is Jumpin'&#8220;. Insgesamt finden sich 18 Titel auf der CD. Sehr schön: im CD-Cover sind alle Titel mit Tempoangaben versehen. Seit [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

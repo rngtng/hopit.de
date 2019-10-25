@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>crowdfunding &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/crowdfunding/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 07 Jan 2015 11:51:03 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Jetzt mitmachen für Neue Budzillus Pladde!</title>
+		<link>http://www.hopit.de/2015/01/jetzt-mitmachen-fuer-neue-budzillus-pladde/</link>
+				<pubDate>Wed, 07 Jan 2015 11:51:03 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Budzillus]]></category>
+		<category><![CDATA[crowdfunding]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=5031</guid>
+				<description><![CDATA[Kinners, Endspurt! Unsere Mega-Geile-Swing-Punk-Abzappel Band Budzillus brauch unsere Unterstützung für ihr neues Album. Also los, hier was spenden (bzw. Vorfinanzieren/Erwerben) und das Ding https://www.startnext.de/budzillus]]></description>
+									</item>
+		<item>
+		<title>Electronic Swing Orchestra und die geheimnisvolle Chaos Maschine &#8211; Crowdfunding Aufruf für Vinyl Pladde</title>
+		<link>http://www.hopit.de/2012/07/electronic-swing-orchestra-und-die-geheimnisvolle-chaos-maschine-crowdfunding-aufruf-fur-vinyl-pladde/</link>
+				<pubDate>Fri, 13 Jul 2012 11:58:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[crowdfunding]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[hilfe]]></category>
+		<category><![CDATA[mitmachen]]></category>
+		<category><![CDATA[pladde]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4131</guid>
+				<description><![CDATA[Leutz, hier ist mal Eure Hilfe angesagt: das Electronic Swing Orchestra will &#8217;ne rischtige Vinyl Pladde machen, und das ist nicht ganz unteuer. Somit lasst uns denen mal kräftig unter die Arme greifen. 20 Öcken und die Pladde &#8222;Electronic Swing Orchestra und die geheimnisvolle Chaos Maschine&#8220; ist dein! http://www.startnext.de/electronicswingorchestra-vinyl http://www.electronic-swing-orchestra.de/]]></description>
+									</item>
+	</channel>
+</rss>

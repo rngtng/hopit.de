@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>3 schwestern &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/3-schwestern/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:45:02 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Nora fliegt zum Mond im 3 Schwestern</title>
+		<link>http://www.hopit.de/2011/12/berlin-nora-fliegt-zum-mond-im-3-schwestern/</link>
+				<pubDate>Thu, 01 Dec 2011 12:05:45 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[3 schwestern]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3388</guid>
+				<description><![CDATA[Während Ray barfuss im Bassy tanzt fliegt Nora im 3 Schwestern zum Mond! Tja Termin Konflikt und Luxus Problem, hach schöner kann das Wochenende doch nicht starten! Yay! Mit dem aktuellen Album Djungleswing erfinden die 4 Jungs und 2 Mädels jene Genres für sich neu wobei die Musik durch eine Mischung aus Swing- und Balkangrooves [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: The Froggy Mountain Boys LIVE im 3 Schwestern</title>
+		<link>http://www.hopit.de/2011/10/berlin-the-froggy-mountain-boys-live-im-3-schwestern/</link>
+				<pubDate>Fri, 14 Oct 2011 12:55:18 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[3 schwestern]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[The Froggy Mountain Boys]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3250</guid>
+				<description><![CDATA[Alle auf zu den 3 Schwestern: Eine Mischung aus Swing und Jazz im Country-Style. Die Mitglieder sind alle Meister auf ihren Instrumenten und haben alle in den besten Swing-, Jazz- und Country-Bands der Stadt gespielt, sodaß man die “Froggy Mountain Boys” als “All Star Band” bezeichnen kann. http://3schwestern-berlin.de/?p=692]]></description>
+									</item>
+		<item>
+		<title>Old Fish Jazz Band &#8211; zum endgültig letzen Mal &#8211; dieses Jahr</title>
+		<link>http://www.hopit.de/2010/12/old-fish-jazz-band-zum-endgultig-letzen-mal-dieses-jahr/</link>
+				<pubDate>Wed, 01 Dec 2010 15:55:05 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[3 schwestern]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[bethanien]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[old fish]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2175</guid>
+				<description><![CDATA[Pflichtevent: Am Donnerstag spielen Old Fish Jazz Band zum endgültig letzten Mal (für dieses Jahr) in der Hauptstadt: ab 23:00 Uhr im [qype id=&#8220;1459553&#8243;] im Bethanien. Schaut nur diese schöne Fotos hier! Der Fisch sagt: Allright everyone, this is serious! This will be the last big concert of old fish jazzband for the winter. we [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>battle &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/battle/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:35:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>How to win a Dance Battle</title>
+		<link>http://www.hopit.de/2014/11/how-to-win-a-dance-battle/</link>
+				<pubDate>Sun, 30 Nov 2014 15:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[presentation]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4917</guid>
+				<description><![CDATA[Ich hab kürzlich einen Vortrag gegeben über: `How to win a Dance Battle`. Hier die Slides und meine Recherche Notes. Viel Spaß und Erfolg aufm Dancefloor 😉 How To Win Dance Battle Did I ever won a dance battle ? &#8211; Disclamer: I never did Did I ever took part at a dance battle ? [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Stockholm Oldschool Battle</title>
+		<link>http://www.hopit.de/2013/09/stockholm-oldschool-battle/</link>
+				<pubDate>Mon, 02 Sep 2013 15:30:29 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[oldschool]]></category>
+		<category><![CDATA[stockholm]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4694</guid>
+				<description><![CDATA[Watn, watn, watn &#8211; Das hatte ich noch nicht gebloggt? Ich finds auf jeden Fall hier nicht mehr, somit gebt euch das: Unsere lieben Schweden hatten 2009 und 2010 zwei fätte Oldschool Battles organisiert bei denen sich u.a. die &#8218;Harlem Hot Shots&#8216; die Tanzfüsse nur so um die Ohr gehaun haben. Super Idee will davon [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Berlin: Swing Battle im 3 Schwestern: Old Fish Jazzband vs. Django Lassi</title>
+		<link>http://www.hopit.de/2011/09/berlin-swing-battle-im-3-schwestern-old-fish-jazzband-vs-django-lassi/</link>
+				<pubDate>Mon, 19 Sep 2011 10:51:47 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[3schwestern]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Django Lassi]]></category>
+		<category><![CDATA[Old Fish Jazzband]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3182</guid>
+				<description><![CDATA[Der Freitag verspricht einen besonderen spannenden Abend im 3 Schwestern. Die legendären Swing Bands Old Fish Jazzband und Django Lassi werden sich einen musikalischen &#8218;Battle&#8216; liefern: &#8222;Zwei Bands auf einer Bühne, erst einzeln, dann gemeinsam. Ein Ringmaster bestimmt die Disziplinen: Drum Battle, Horn Battle, Bass Battle und viele mehr.&#8220; Top &#8211; See you there! Alle [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

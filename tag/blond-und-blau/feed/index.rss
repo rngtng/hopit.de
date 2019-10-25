@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>blond und blau &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/blond-und-blau/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 22 Oct 2009 10:25:28 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Blond und Blau am Sonntag im Gängeviertel</title>
+		<link>http://www.hopit.de/2009/10/blond-und-blau-am-sonntag-im-gangeviertel/</link>
+				<pubDate>Thu, 22 Oct 2009 10:25:28 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[blond und blau]]></category>
+		<category><![CDATA[chanson]]></category>
+		<category><![CDATA[gängeviertel]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Musik]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=964</guid>
+				<description><![CDATA[Am Sonntag spielen wieder Blond und Blau im Gängeviertel. Nicht ganz 100% tanzbar aber schön anzuhörn, und Gängeviertel sowieso! http://www.blondundblau.de/ Evtl. dazu auch ein kleiner Swingtanz Flashmob?]]></description>
+									</item>
+	</channel>
+</rss>

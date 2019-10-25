@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tipp &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tipp/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:04 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Jazz Clubs In Berlin</title>
+		<link>http://www.hopit.de/2013/05/jazz-clubs-in-berlin/</link>
+				<pubDate>Mon, 06 May 2013 14:53:48 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Link Tipps]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[ort]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tipp]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4552</guid>
+				<description><![CDATA[Ui, wat ne schöne Sammlung an Berliner Jazz/Swing Bars, Konzerte und Events. Definitv mal eine Auge drauf behalten &#038; in den Newsletter eintragen: http://www.jazzclubsinberlin.com/]]></description>
+									</item>
+		<item>
+		<title>Auf nach Herräng: so überlebst du das Swing Tanz Camp</title>
+		<link>http://www.hopit.de/2009/07/auf-nach-herrang-so-uberlebst-du-das-swing-tanz-camp/</link>
+				<pubDate>Fri, 03 Jul 2009 09:04:58 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[camp]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[Herräng]]></category>
+		<category><![CDATA[howto]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[schweden]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[tipp]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=609</guid>
+				<description><![CDATA[Es ist soweit, Herräng Swing Dance Camp 2009, DAS Swingtanz Mecca überhaupt ist am Wochenende gestartet. In den nächsten 4 Wochen wird das kleine schwedische Dorf, nördlich von Stockholm, nur so von Tänzern und Tänzerinnen aus der ganzen Welt überrannt. Lindy Hop pur &#8211; Swingtanz / Steptanz Workshops, Spaß, Musik, Schwimmen, Sonne, Lachen, Jazz, Fahrrad, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

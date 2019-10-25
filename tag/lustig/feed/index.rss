@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>lustig &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/lustig/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 19:28:47 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Dance the Ska!</title>
+		<link>http://www.hopit.de/2010/03/dance-the-ska/</link>
+				<pubDate>Wed, 31 Mar 2010 10:27:41 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[anleitung]]></category>
+		<category><![CDATA[lustig]]></category>
+		<category><![CDATA[ska]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1482</guid>
+				<description><![CDATA[Muss ja nicht immer Lindy Hop sein! Hier &#8217;ne schöne Retro-Tanz-Anleitung zum Jamaica Ska Dance. Sehr geil: [via FuckYouVeryMuch]]]></description>
+									</item>
+		<item>
+		<title>Monkey Dust Tap: &#8230; vom tanzenden Wal</title>
+		<link>http://www.hopit.de/2010/02/monkey-dust-tap-vom-tanzenden-wal/</link>
+				<pubDate>Tue, 16 Feb 2010 13:33:00 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[frauen]]></category>
+		<category><![CDATA[frisur]]></category>
+		<category><![CDATA[heilig]]></category>
+		<category><![CDATA[lustig]]></category>
+		<category><![CDATA[spaß]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1377</guid>
+				<description><![CDATA[haha, lustig: Monkey Dust Tap &#8211; Ballroom dancing Whale eigentlich ist das beim Tanzen auch meine Hauptsorge: die Frisur der Dame nicht zu ruinieren 😉 [wieder mal ein guter tipp via Carina, thx]]]></description>
+									</item>
+		<item>
+		<title>Tanzunfälle &#8211; bitte nicht Lachen</title>
+		<link>http://www.hopit.de/2009/06/tanzunfalle-bitte-nicht-lachen/</link>
+				<pubDate>Sat, 27 Jun 2009 14:42:31 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[lachen]]></category>
+		<category><![CDATA[lustig]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=595</guid>
+				<description><![CDATA[Der Humor kam in letzter Zeit hier etwas kurz, und, das bleibt auch so &#8211; ist ja auch kein Spaß hier. Also schön ernst bleiben und anschau&#8217;n: Tanzunfälle über die man auf keinen Fall schadenfroh lachen darf. Wehe einer lacht! [via HaHa.nu]]]></description>
+									</item>
+	</channel>
+</rss>

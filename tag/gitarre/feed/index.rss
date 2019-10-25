@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>gitarre &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/gitarre/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 08 May 2009 12:14:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Singend bestellen&#8230;</title>
+		<link>http://www.hopit.de/2009/05/singend-bestellen/</link>
+				<pubDate>Sun, 10 May 2009 12:13:30 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[gitarre]]></category>
+		<category><![CDATA[singen]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=449</guid>
+				<description><![CDATA[Schon wieder nix mit Swing, aber wir wollen den Humor ja auch nicht zu kurz kommen lassen:]]></description>
+									</item>
+	</channel>
+</rss>

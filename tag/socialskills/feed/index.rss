@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>socialskills &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/socialskills/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 31 Aug 2011 14:06:34 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>27x Korb &#8211; Wie man nicht zum Tanz auffordern sollte</title>
+		<link>http://www.hopit.de/2011/08/27x-korb-wie-man-nicht-zum-tanz-auffordern-sollte/</link>
+				<pubDate>Tue, 23 Aug 2011 12:01:21 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[socialskills]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2531</guid>
+				<description><![CDATA[Rebecca Brightly hat in ihrem Blog Dance World Takeover 27 Geheimtipps wie man Meister im &#8218;Korb&#8216; sammeln wird. http://rebeccabrightly.com/27-ways-rejected-dance/ &#8230;und das meint der Sinatra dazu:]]></description>
+									</item>
+	</channel>
+</rss>

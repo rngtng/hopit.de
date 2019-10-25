@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dirty Horn Gypsy Swing &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/dirty-horn-gypsy-swing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:11 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Swing Légère mit den Swing Ninjas</title>
+		<link>http://www.hopit.de/2011/05/hamburg-swing-legere-mit-den-swing-ninjas/</link>
+				<pubDate>Mon, 23 May 2011 13:33:22 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[Dirty Horn Gypsy Swing]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[mandalay]]></category>
+		<category><![CDATA[Swing Ninjas]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2852</guid>
+				<description><![CDATA[Ein richtig dickes Swingtanz-Event rollt auf uns zu. Am 1. Juni findet bereits zum zweiten mal die Swing Légère Party im Mandaylay am Neuen Pferdemarkt statt. Los gehts mit einem Crashkurs in Sachen Lindy Hop. Anschließend glühen Swingy the Kid und Peng Larsen schon mal die Boxen vor. Während Ihr mit frisch Erlerntem oder alt [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

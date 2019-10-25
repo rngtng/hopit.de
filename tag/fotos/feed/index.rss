@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>fotos &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/fotos/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:20:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Köln: Sternstunden des Glamour</title>
+		<link>http://www.hopit.de/2011/02/sternstunden-des-glamour/</link>
+				<pubDate>Wed, 02 Feb 2011 20:27:13 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[30er]]></category>
+		<category><![CDATA[ausstellung]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[mode]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2351</guid>
+				<description><![CDATA[In Köln findet im Museum Ludwig seit dem 2. Februar 2011 eine Ausstellung über Modefotografie des 20. Jahrhunderts statt. Dort sind offenbar viele Werke aus den 30er und 40er Jahren zu bewundern. Weitere Informationen findet ihr auf der Website der Ausstellung unter http://www.museenkoeln.de/museum-ludwig/default.asp?s=3342]]></description>
+									</item>
+		<item>
+		<title>The Sartorialist &#8211; Mode &#038; Style von der Strasse</title>
+		<link>http://www.hopit.de/2009/09/the-sartorialist-mode-style-von-der-strasse/</link>
+				<pubDate>Fri, 04 Sep 2009 00:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[frisur]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=774</guid>
+				<description><![CDATA[Heute hat ein guter Freund von mir Geburtstag, glaub das gefällt ihm: Der Blog The Sartorialist hat viele schöne Fotos von Menschen in schicke, ausgefallene und stylische Klamotten tragen. Von Damals bis Heute von streng bis verrückt und bunt. Meistens auf den Strassen New Yorks spontan fotografiert. Besonders gut gefallen mir diese Bilder, wohl an [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Revolution ist gescheitert &#8211; Let&#8217;s dänce! (sagt Jan) &#8211; Subvision Festival in Hamburg</title>
+		<link>http://www.hopit.de/2009/08/revolution-ist-gescheitert-lets-dance-sagt-jan-subvision-festival-in-hamburg/</link>
+				<pubDate>Sat, 29 Aug 2009 16:53:32 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[galerie]]></category>
+		<category><![CDATA[hafen]]></category>
+		<category><![CDATA[hafencity]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[kunst]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=740</guid>
+				<description><![CDATA[Gerade läuft das Subvision Festival in der Hamburger [qype id=&#8220;56029&#8243;]. Mit ziemlich viel OFF- Kunst, Tanz und Hafenflair am Strandkai. Unbedingt hingehen! Mehr Infos und Fotos findet ihr drüben bei Sommer in Hamburg und unter http://www.subvision-hamburg.com. Viel Spaß! [Foto von Sommer in Hamburg]]]></description>
+									</item>
+		<item>
+		<title>Fotos vom Swinging Ballroom 28.3 auf Betörend.de</title>
+		<link>http://www.hopit.de/2009/03/fotos-vom-swinging-ballroom-283-auf-betorendde/</link>
+				<pubDate>Sat, 28 Mar 2009 13:35:11 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Ballroom]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[Swinging]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=341</guid>
+				<description><![CDATA[Drüben auf Fabians neuem Blog -Betörend- gibt&#8217;s tolle Fotos von gestern Abend &#8211; Swinging Ballroom im [qype id=&#8220;21367&#8243;]: http://betoerend.hopit.de/2009/03/28/swinging-ballroom-283/ &#8211; anschaun!]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>linty hop charleston &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/linty-hop-charleston/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 06 Feb 2012 13:51:37 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin:  Lindyhop &#038; Charleston &#8222;back to the basics&#8220;</title>
+		<link>http://www.hopit.de/2012/02/berlin-lindyhop-charleston-back-to-the-basics/</link>
+				<pubDate>Mon, 06 Feb 2012 13:51:37 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[daniel ludevig]]></category>
+		<category><![CDATA[kurs]]></category>
+		<category><![CDATA[linty hop charleston]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3535</guid>
+				<description><![CDATA[Neuer Lindy Hop/Charleston Kurs mit Daniel Ludevig: &#8222;Back to the Basics&#8220; Saturday February 11th 14:00-16:30 @ Heinrich Roller Str 9, Klingel Ludevig Lindyhop &#38; charleston &#8218;back to the basics&#8216;: Get back into some great basic partner figures for charleston and lindyhop. Open to all beginners we will review basic lindyhop and charleston counts, walks, turns and hops as well as some rhythm [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

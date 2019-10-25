@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>rock &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/rock/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 03 May 2011 11:58:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Jazzpirin und Die heißen Hörner im Stellwerk</title>
+		<link>http://www.hopit.de/2009/06/jazzpirin-und-die-heisen-horner-im-stellwerk/</link>
+				<pubDate>Mon, 08 Jun 2009 08:21:36 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[funk]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[jazzpirin]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[rock]]></category>
+		<category><![CDATA[tag der musik]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=531</guid>
+				<description><![CDATA[Vielen Dank für diesen Leser Tipp von Anja: Am kommenden Freitag (12.6.) im [qype id=&#8220;13262&#8243;] um 20 Uhr: Jazzpirin und Die heißen Hörner. Beide Bands spielen u.a. klassischen Big-Band-Swing, ansonsten auch viel Latin- und einige Rock-Stücke sowie Arrangements von Modern-Jazz-Standards. Mehr Infos und Hörprobe unter http://www.stellwerk-hamburg.de/]]></description>
+									</item>
+	</channel>
+</rss>

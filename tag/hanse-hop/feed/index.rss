@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>hanse Hop &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/hanse-hop/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:54 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Auf zum Hanse Hop 2011 in Hamburg</title>
+		<link>http://www.hopit.de/2011/03/auf-zum-hanse-hop-2011-in-hamburg/</link>
+				<pubDate>Wed, 23 Mar 2011 16:43:40 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[hanse Hop]]></category>
+		<category><![CDATA[NSG]]></category>
+		<category><![CDATA[Workshop]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2479</guid>
+				<description><![CDATA[Auch dieses Jahr läd die New Swing Generation Hamburg wieder zum Hanse Hop ein! Somit kommt alle zu viel Tanz, Musik&#38; Party und erwartet ein komplett neues Workshop Konzept. Statt wie üblich &#8222;viele Lehrer, wenig Zeit&#8220; läuft es dieses Jahr umgekehrt &#8211; die Lehrerpaare &#8222;Kevin &#38; Jo&#8220; und &#8222;Ali &#38; Katja&#8220; werden sich jeweils 5 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

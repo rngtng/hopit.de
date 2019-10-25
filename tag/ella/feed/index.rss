@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ella &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ella/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:46 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Ella &#038; Louis</title>
+		<link>http://www.hopit.de/2013/10/ella-louis/</link>
+				<pubDate>Wed, 02 Oct 2013 08:05:18 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[bild]]></category>
+		<category><![CDATA[ella]]></category>
+		<category><![CDATA[kunst]]></category>
+		<category><![CDATA[louis]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4745</guid>
+				<description><![CDATA[Oh was für ein schönes Bild vom Plattencover &#8218;Ella &#038; Louis&#8216; &#8211; by Lukas Damgaard http://www.lukasdamgaard.dk/portfolio/ella-louis/]]></description>
+									</item>
+		<item>
+		<title>Ella Fitzgerald &#8211; It Don&#8217;t Mean a thing &#8211; anno 1974</title>
+		<link>http://www.hopit.de/2010/09/ella-fitzgerald-it-dont-mean-a-thing-anno-1974/</link>
+				<pubDate>Thu, 02 Sep 2010 20:58:38 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[ella]]></category>
+		<category><![CDATA[fritzgerald]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[live]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1772</guid>
+				<description><![CDATA[Hier Ella mit viel Humor, hammer Stylobrille und spitzen Song &#8211; anno 1974: [via Kommentar zum DJ Moarice Mix]]]></description>
+									</item>
+	</channel>
+</rss>

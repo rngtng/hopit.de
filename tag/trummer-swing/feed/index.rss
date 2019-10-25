@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>trümmer swing &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/trummer-swing/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:54 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing Tanz Fanzine: Trümmer Jazz</title>
+		<link>http://www.hopit.de/2013/05/swing-tanz-fanzine-trummer-jazz/</link>
+				<pubDate>Sun, 26 May 2013 10:51:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[fanzine]]></category>
+		<category><![CDATA[offline]]></category>
+		<category><![CDATA[trümmer swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4621</guid>
+				<description><![CDATA[Yes! Andi, aka. DJ TrümmerSwing hat ein Jazz/Swing-Tanz Fanzine &#8222;Trümmer Jazz&#8220; in Umlauf gebracht. Sehr liebevoll gestaltet mit schönen Artikel, Raritäten und dem ganzen drum-und-dran. Gibt&#8217;s nur offline, liegt hier bei mir &#38; tausch ich gerne weiter&#8230;]]></description>
+									</item>
+	</channel>
+</rss>

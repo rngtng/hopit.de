@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Swinging Baalroom &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/swinging-baalroom/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 05 Mar 2012 14:26:13 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Swing-Haus – Swinging Baalroom im Kulturhaus Eppendorf</title>
+		<link>http://www.hopit.de/2012/03/hamburg-swing-haus-swinging-baalroom-im-kulturhaus-eppendorf/</link>
+				<pubDate>Thu, 01 Mar 2012 11:22:02 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Swinging Baalroom]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3550</guid>
+				<description><![CDATA[Freitag 9.3. 20.00 Uhr Tanz: Swing-Haus – Swinging Baalroom Swingtänzer und solche, die es werden wollen, lockt ein ganz besonderes Programm ins Kulturhaus Eppendorf: Zum sanften Einswingen entführen „Fräulein Rika &#38; ihr Swing-Bubi“ Euch auf eine Reise durch deutsche Swing-Klassiker und Chansons der 20er und 30er Jahre. Um 20.30 Uhr geht es mit einem Crashkurs [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

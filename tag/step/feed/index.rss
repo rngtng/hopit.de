@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>step &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/step/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Mon, 24 Sep 2012 14:22:53 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>schöne Step-Steps bei den Arctic Monkeys</title>
+		<link>http://www.hopit.de/2012/09/schone-step-steps-bei-den-arctic-monkeys/</link>
+				<pubDate>Mon, 24 Sep 2012 14:22:53 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[step]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4336</guid>
+				<description><![CDATA[Gerade hab ich zufällig diesen Song von den Arctic Monkeys entdeckt. Zwar keine Swingmusik, aber schöne Steptanz und Jazz Steps &#8230;]]></description>
+									</item>
+		<item>
+		<title>Authentic Jazz Steps Alphabet</title>
+		<link>http://www.hopit.de/2012/04/authentic-jazz-steps-alphabet/</link>
+				<pubDate>Wed, 04 Apr 2012 13:08:48 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[step]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Videos]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3678</guid>
+				<description><![CDATA[OMG, alle(!?) Authentic Jazz Steps in einem Video. Sehr sehr schick! via [Amani ]]]></description>
+									</item>
+		<item>
+		<title>Lindy Hop für Anfänger</title>
+		<link>http://www.hopit.de/2010/10/lindy-hop-fur-anfanger/</link>
+				<pubDate>Mon, 04 Oct 2010 21:36:59 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[kurs]]></category>
+		<category><![CDATA[step]]></category>
+		<category><![CDATA[swingtanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1861</guid>
+				<description><![CDATA[Hier noch schnell ein Hinweis auf einen neuen kleinen, feinen Swingtanz Kurs. Lindy Hop ist ein Paartanz aus der Swingära, der Anfang der 1930er in Harlem entstanden ist und später -vor allem in der weißen Bevölkerung- als Jitterbug populär wurde. Lindy Hop gehört ebenso wie der Tap Dance zum Jazz Dance. Damit sind in einem ursprünglichen Sinne alle [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Fred Astaire &#8211; Puttin&#8216; On the Ritz- Step Tanz</title>
+		<link>http://www.hopit.de/2010/03/fred-astaire-puttin-on-the-ritz-step-tanz/</link>
+				<pubDate>Tue, 09 Mar 2010 15:02:19 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[remix]]></category>
+		<category><![CDATA[step]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1431</guid>
+				<description><![CDATA[Hier mal krasse Steptanz Performance von Fred Astaire &#8211; Puttin&#8216; On the Ritz dazu passend auch diese Electro Swing Version von Club des Belugas: http://www.youtube.com/watch?v=gVTWDqH3xtQ]]></description>
+									</item>
+	</channel>
+</rss>

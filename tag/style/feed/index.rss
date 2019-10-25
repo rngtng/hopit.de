@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>style &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/style/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:14:26 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hut Styler</title>
+		<link>http://www.hopit.de/2013/01/hut-styler/</link>
+				<pubDate>Sat, 05 Jan 2013 17:45:02 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[huy]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[style]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4414</guid>
+				<description><![CDATA[Neues Jahr, neuer Hut? Im Alexa Berlin findet ihr zwei Verkaufsstände von Hut-Styler. Fals der Weg dahin zu weit ist, gibt&#8217;s auch online: http://www.hut-styler.de]]></description>
+									</item>
+		<item>
+		<title>The Sartorialist &#8211; Mode &#038; Style von der Strasse</title>
+		<link>http://www.hopit.de/2009/09/the-sartorialist-mode-style-von-der-strasse/</link>
+				<pubDate>Fri, 04 Sep 2009 00:00:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[fotos]]></category>
+		<category><![CDATA[frisur]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[mode]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=774</guid>
+				<description><![CDATA[Heute hat ein guter Freund von mir Geburtstag, glaub das gefällt ihm: Der Blog The Sartorialist hat viele schöne Fotos von Menschen in schicke, ausgefallene und stylische Klamotten tragen. Von Damals bis Heute von streng bis verrückt und bunt. Meistens auf den Strassen New Yorks spontan fotografiert. Besonders gut gefallen mir diese Bilder, wohl an [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>9.Feb09, SW: Style: Synkope &#038; Swing Hard</title>
+		<link>http://www.hopit.de/2009/02/sw-style-synkope-swing-hard/</link>
+				<pubDate>Thu, 12 Feb 2009 23:33:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[style]]></category>
+		<category><![CDATA[swing hard]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=177</guid>
+				<description><![CDATA[ui was für &#8217;ne Johnny Stunde, heute hat er uns gefordert: es ging um Styling, um Synkope, um Swing Hard. Kurz Sicssors Kicks und Kick-Ball Change wiederholt und in SO eingebaut: Backstep, Triplstep, KickBChng, li Step, re Step. (daaa &#8230; tam) (li ist etwas weiter vorne). Tja und dann gings los, synkopieren, bzw. &#8222;Swing Hard&#8220; [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

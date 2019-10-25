@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>volume 3 &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/volume-3/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:40:14 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Electro Swing Compilation &#8211; Volume 3 ab November!</title>
+		<link>http://www.hopit.de/2010/10/electro-swing-compilation-volume-3-ab-november/</link>
+				<pubDate>Mon, 11 Oct 2010 15:43:59 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[CD]]></category>
+		<category><![CDATA[compilation]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[sampler]]></category>
+		<category><![CDATA[volume 3]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1939</guid>
+				<description><![CDATA[Ui, ganz frisch aus&#8217;m Wagram Newsletter: am 2. November 2010 kommt die 3. Electro Swing Compilation raus. Vorab darf man schon mal gespannt sein und sich an diversem Internet-Marketing-Zeusch wie Facebook, Twitter, Blog und Wallpaper (!!) erfreuen&#8230; Schade, kein Gästebuch oder E-cards 🙂 http://www.electroswing.net/]]></description>
+									</item>
+	</channel>
+</rss>

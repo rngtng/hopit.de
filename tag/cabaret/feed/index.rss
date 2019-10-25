@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>cabaret &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/cabaret/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:02 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Welcome To The Twisted Cabaret</title>
+		<link>http://www.hopit.de/2010/11/welcome-to-the-twisted-cabaret/</link>
+				<pubDate>Thu, 04 Nov 2010 12:09:31 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[cabaret]]></category>
+		<category><![CDATA[CD]]></category>
+		<category><![CDATA[circus]]></category>
+		<category><![CDATA[sampler]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2048</guid>
+				<description><![CDATA[Hier hab ich mal eine schöne Pladden Empfehlung für den Einstieg in die musikalische Welt von Circus und Cabaret &#8211; mal Swing, mal Beats, mal Schrill, mal Gefühlvoll &#8211; auf jeden Fall melodiös, grotesk, absurd und bunt. Jetzt Rezension bei nonopo.de lesen und anhören! Come let us die, just you and I. Mehr bei Amazon [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

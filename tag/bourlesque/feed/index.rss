@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>bourlesque &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/bourlesque/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:13:34 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing Jugend in der Queen Calavera mit Swingy the Kid &#038; Little Miss Hiccup</title>
+		<link>http://www.hopit.de/2009/09/swing-jugend-in-der-queen-calavera-mit-swingy-the-kid-little-miss-hiccup/</link>
+				<pubDate>Thu, 10 Sep 2009 10:20:36 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[bourlesque]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[gut]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[queen calavera]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[wild]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=822</guid>
+				<description><![CDATA[Bissl spontan aber heute Abend heisst wieder Swing Jugend in der [qype id=&#8220;174055&#8243;] mit Swingy the Kid und Little Miss Hiccup! Swing Jugend Let´s Dance, lädt wieder zum Fröhlichen herumswingen ein. Bei Wild Jump Blues, Nasty Swing, Good old R&#38;B and Flic Flac Jive lassen wir hoffentlich wieder die Hütte bouncen. Nach dem erfolgreichen Einstieg [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Happy Feet mit Tanzorchester Fabian in der Queen Calavera</title>
+		<link>http://www.hopit.de/2009/05/happy-feet-mit-tanzorchester-fabian-in-der-queen-calavera/</link>
+				<pubDate>Fri, 22 May 2009 12:44:51 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[bar]]></category>
+		<category><![CDATA[bourlesque]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[queen calavera]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=494</guid>
+				<description><![CDATA[Am Donnerstag wird die Happy Feet Tanzreihe ausnahmsweise in die [qype id=&#8220;174055&#8243;] verlegt. Dort betört uns dann Tanzorchester Fabian mit heißem Swing, schmutzigem Blues und wildem Balkan-Sound. Ich freu mich!]]></description>
+									</item>
+	</channel>
+</rss>

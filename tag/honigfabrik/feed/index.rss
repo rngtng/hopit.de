@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>honigfabrik &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/honigfabrik/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 19:32:21 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Kosmo Koslowski &#8211; Krautschuk release Tanznacht in der Honigfabrik</title>
+		<link>http://www.hopit.de/2010/04/kosmo-koslowski-krautschuk-release-tanznacht-in-der-honigfabrik/</link>
+				<pubDate>Wed, 14 Apr 2010 10:46:59 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[honigfabrik]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1532</guid>
+				<description><![CDATA[Zirkus-Polka, Balkan-Ska, Klabautermusik oder Piratenjazz &#8211; solch schöne Klänge hat man zu erwarten wenn am Samstag Kosmo Koslowski ihr neue Pladde &#8222;Krautschuk&#8220; in der [qype id=&#8220;130929&#8243;] feierlich vorstellen. Schon mal hier hören und da www.kosmokoslowski.de staunen. Anschließend Tanznacht mit musikalischen Support von Proton (Heidelberg) und Max&#8216; Quintenzirkus (Hamburg). Eintritt: 7,-]]></description>
+									</item>
+		<item>
+		<title>Analogik &#8211; Balkan &#038; Electro Swing in der Honigfabrik</title>
+		<link>http://www.hopit.de/2010/02/analogik-balkan-electro-swing-in-der-honigfabrik/</link>
+				<pubDate>Thu, 25 Feb 2010 09:48:52 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[balkan]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[honigfabrik]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1418</guid>
+				<description><![CDATA[Juhu, am Samstag swingen &#38; balkanen die Dänen von Analogik in der [qype id=&#8220;130929&#8243;]. Support kommt von Kosmo Koslowski die gleich noch ihre neue Platte mitbringt. Darf man nicht verpassen! DJ support kommt von Max&#8216; Quintenzirkus. Bounce! [via PartyFlyer &#38; Harburg-Magazin]]]></description>
+									</item>
+	</channel>
+</rss>

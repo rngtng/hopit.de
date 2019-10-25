@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ron &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ron/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:40 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin Lindy Hop unterm Elchgeweih</title>
+		<link>http://www.hopit.de/2011/12/berlin-lindy-hop-unterm-elchgeweih/</link>
+				<pubDate>Sun, 11 Dec 2011 20:22:55 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[elche]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[ron]]></category>
+		<category><![CDATA[ron-telesky]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3391</guid>
+				<description><![CDATA[Sonntag Abend Lesestoff: Hier ein kleiner &#38; feiner Artikel über die Berliner Swing Tanz Szene &#8211; von André Tucic, Berliner-Zeitung Juli 2011: http://www.berliner-zeitung.de/archiv/berlins-swing-szene-trifft-sich-schon-mal-an-ungewoehnlichen-orten&#8211;um-dort-dem-akrobatischen-tanz-der-20er&#8211;und-30er-jahre-nachzugehen-lindy-hop-unterm-elchgeweih,10810590,10945840.html Übrigens, der Ron hat renoviert und ist ab Dienstag, 13. Dez wieder geöffnet &#8211; Lecker! http://www.ron-telesky.de/]]></description>
+									</item>
+	</channel>
+</rss>

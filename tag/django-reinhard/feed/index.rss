@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Django Reinhard &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/django-reinhard/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:41:31 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>&#8230; und noch mal Django &#8211; auf byte.fm</title>
+		<link>http://www.hopit.de/2010/01/und-noch-mal-django-auf-byte-fm/</link>
+				<pubDate>Mon, 25 Jan 2010 16:14:06 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Django Reinhard]]></category>
+		<category><![CDATA[Radio]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1282</guid>
+				<description><![CDATA[Am Dienstag, 26.1 von 19-21 Uhr auf byte.fm: Inside Music &#8211; Django&#8217;s Spirit, zu Gast: Susie Reinhardt http://www.byte.fm/index.php?cont=sendungen_detail&#038;sendung=18&#038;termin=16433 [via Carsten]]]></description>
+									</item>
+	</channel>
+</rss>

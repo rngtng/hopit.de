@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dukumentation &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/dukumentation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:38:53 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Spenden für Dokumentation Swing!</title>
+		<link>http://www.hopit.de/2012/08/spenden-fur-dokumentation-swing/</link>
+				<pubDate>Sun, 26 Aug 2012 15:15:54 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[dukumentation]]></category>
+		<category><![CDATA[film]]></category>
+		<category><![CDATA[spende]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[vido]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4286</guid>
+				<description><![CDATA[Auf Kickstarter werden noch bis zum 15. September Spenden für die Swing Dokumentation &#8222;Swing! The Documentary&#8220; gesammelt. &#8222;An inside look into the culture of swing dancing and the characters who make it special.&#8220; Je nach Spendensumme stehen interessante Angebote zur Verfügung z.b. Tanzpässe für verschieden Workshops/Exchanges in USA und Europa. Also mal reinschauen und spenden: [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

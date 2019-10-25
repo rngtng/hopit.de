@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tanzbar &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tanzbar/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 09:52:29 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>HH: James Hunter Six 16.3.2018</title>
+		<link>http://www.hopit.de/2018/01/hh-james-hunter-six-16-3-2018/</link>
+				<pubDate>Thu, 18 Jan 2018 09:52:29 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Musik]]></category>
+		<category><![CDATA[James Hunter]]></category>
+		<category><![CDATA[James Hunter Six]]></category>
+		<category><![CDATA[soul]]></category>
+		<category><![CDATA[tanzbar]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=6441</guid>
+				<description><![CDATA[[soundcloud url=&#8220;https://api.soundcloud.com/tracks/362181461&#8243; params=&#8220;color=#ff5500&#38;auto_play=false&#38;hide_related=false&#38;show_comments=true&#38;show_user=true&#38;show_reposts=false&#38;show_teaser=true&#38;visual=true&#8220; width=&#8220;100%&#8220; height=&#8220;300&#8243; iframe=&#8220;true&#8220; /] Leute, endlich ist es so weit. Eine meiner Lieblingsbands gibt ein Konzert in Hamburg: James Hunter kommt mit seiner Band ins Knust. Die Sause startet am 16.3.2018. Ich habe ja hier schon öfter über ihn berichtet. Nun freue ich mich um so mehr, dass er feinste R&#8217;n B und [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Ninjammerz hauen so richtig einen raus</title>
+		<link>http://www.hopit.de/2011/06/ninjammerz-hauen-so-richtig-einen-raus/</link>
+				<pubDate>Mon, 13 Jun 2011 19:17:58 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Ninjammerz]]></category>
+		<category><![CDATA[tanzbar]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2903</guid>
+				<description><![CDATA[Selten hab ich eine so energetische Jam erlebt. Eine wahre Freude, den Ninjammerz auf der Freitagsparty in der Tanzbar zuzusehen. Danach konnte einfach keiner mehr stillstehen &#8230;. http://www.youtube.com/watch?v=D-ew9gx3GwY Mehr Infos über die Truppe unter: http://ninjammerz.com/]]></description>
+									</item>
+	</channel>
+</rss>

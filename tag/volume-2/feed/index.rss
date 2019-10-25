@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>volume 2 &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/volume-2/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:45:06 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>White Mink: Black Cotton &#8211; Electro Swing Vs Speakeasy Jazz &#8211; Volume 2</title>
+		<link>http://www.hopit.de/2010/11/white-mink-black-cotton-electro-swing-vs-speakeasy-jazz-volume-2/</link>
+				<pubDate>Fri, 05 Nov 2010 11:20:50 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[sampler]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[volume 2]]></category>
+		<category><![CDATA[White Mink]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1264</guid>
+				<description><![CDATA[Mit ihrem ersten Electro Swing Sampler haben White Mink schon eine schöne Mischung aus &#8218;modernem&#8216; und &#8218;klassischem&#8216; Swing hingelegt, jetzt geht&#8217;s weiter mit der zweiten Version: WHITE MINK : BLACK COTTON Vol. 2 &#8211; Electro Swing Vs Speakeasy Jazz &#8211; Die erste Scheibe ist wieder voll mit Electro Zeugs, überwiegend leider recht housig und auch [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>Swing Sampler die 2. &#8211; Electro Swing Volume II</title>
+		<link>http://www.hopit.de/2009/11/swing-sampler-die-2-electro-swing-volume-ii/</link>
+				<pubDate>Mon, 16 Nov 2009 11:13:21 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[amazon]]></category>
+		<category><![CDATA[CD]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[sampler]]></category>
+		<category><![CDATA[volume 2]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=997</guid>
+				<description><![CDATA[OK, nix gegen den guten, alten Swing. Aber so &#8217;ne modernisierte Variante fetzt auch! Wie wohl schon gemerkt geh ich gerade voll drauf ab 😉 Der Sampler Electro Swing gibt einen guten Einblick in die Welt des electro-swings und kommt, wie so oft, aus Frankreich. Nun gibt&#8217;s ab dieser Woche Volume 2. der Platte. Bei [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Peter Herbolzheimer &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/peter-herbolzheimer/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:53 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing bei Xing &#8211; Peter Herbolzheimer</title>
+		<link>http://www.hopit.de/2011/02/swing-bei-xing-peter-herbolzheimer/</link>
+				<pubDate>Sat, 26 Feb 2011 13:20:35 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[newsletter]]></category>
+		<category><![CDATA[Peter Herbolzheimer]]></category>
+		<category><![CDATA[Videos]]></category>
+		<category><![CDATA[xing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2246</guid>
+				<description><![CDATA[Für alle die bei Xing sind: Auch dort gibt es eine Swing Musik/Tanz Gruppe mit hin und wieder doch ganz interessanten Infos, z.B. über den, leider im letzten Jahr verstobenen, Jazz Musiker und Bandleader Peter Herbolzheimer: https://www.xing.com/app/message?op=show;id=87262;box=GROUP_NEWSLETTER Und hier noch was zum Hören und Schaun aus den 80er: http://www.youtube.com/watch?v=-j2FKlIqqKQ Die Gruppe: http://www.xing.com/net/swing/ P.S: Bei Ella [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

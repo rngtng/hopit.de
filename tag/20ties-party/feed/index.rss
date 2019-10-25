@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>20ties party &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/20ties-party/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:40:43 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Silverster in Berlin mit Kitty, Daisy &#038; Lewis</title>
+		<link>http://www.hopit.de/2009/11/silverster-in-berlin-mit-kitty-daisy-lewis/</link>
+				<pubDate>Wed, 18 Nov 2009 10:11:16 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[20ties party]]></category>
+		<category><![CDATA[band]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[silvester]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1045</guid>
+				<description><![CDATA[Schon Silvesterpläne? Wenn nicht dann auf in die Hauptstadt! Denn im [qype id=&#8220;22555&#8243;] swingen die White Ghost Shivers und Kitty, Daisy &#38; Lewis(!!) ins neue Jahr. Zusätzlich heizen DJ Lobotomy und DJ Reb Mokum den Tanzboden kräftig ein. Karten für schlappe 33 EUR hier vorbestellen: http://www.admiralspalast.de/ Tja, wie so oft, B is place to B [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

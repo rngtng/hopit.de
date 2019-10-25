@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>werk36 &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/werk36/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 22 May 2013 10:46:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Lindy Hop-Zeit im weRK36</title>
+		<link>http://www.hopit.de/2013/05/berlin-lindy-hop-zeit-im-werk36/</link>
+				<pubDate>Wed, 22 May 2013 10:46:48 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[werk36]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4554</guid>
+				<description><![CDATA[Statt Walzer nun Lindy-Hop &#8211; so langsam entdeckt der Turniertanz den Swing 🙂 So bietet die Berliner Tanzschule weRK36 nun auch Kurse an: Beschwingt in die Welt des Lindy Hop Kompakt-Tanzkurs für Beginner: 3x Sonntag, 26.05. 02.06. und 09.06.2013 16:30 &#8211; 18:30 Uhr ( 3 x 120 Minuten) Preis pro Person € 56,-, erm. € 52,- Voraussetzung: [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

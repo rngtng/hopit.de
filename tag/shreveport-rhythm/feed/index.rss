@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Shreveport Rhythm &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/shreveport-rhythm/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:43:13 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Hamburg: Swing into summer</title>
+		<link>http://www.hopit.de/2011/06/hamburg-swing-into-summer/</link>
+				<pubDate>Thu, 16 Jun 2011 20:24:16 +0000</pubDate>
+		<dc:creator><![CDATA[sebastian]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Café Royal Salonorchester]]></category>
+		<category><![CDATA[gipsy]]></category>
+		<category><![CDATA[Shreveport Rhythm]]></category>
+		<category><![CDATA[Swingwerkstatt]]></category>
+		<category><![CDATA[weiss]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2931</guid>
+				<description><![CDATA[Ein Extra Tanzboden für uns liebe Swingtänzer wird am Freitag, 17 Juni im Hotel Maritim verlegt. In der gepflegten Atmosphäre des noblen hamburger Hotels spielen mit Shreveport Rhythm und dem Café Royal Salonorchester zwei ziemlich tanzbare Bands. Letzere besteht unter anderem aus Mitgliedern der Familie Weiss &#8211; da werden Erinnerungen an Django wach &#8230; Infos [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

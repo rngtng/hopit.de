@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>The Correspondents &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/the-correspondents/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:19:30 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Klassik Swing &#8211; Bestimix 22 von The Correspondents</title>
+		<link>http://www.hopit.de/2010/12/klassik-swing-bestimix-22-von-the-correspondents/</link>
+				<pubDate>Thu, 02 Dec 2010 18:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[klassik]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[mixcloud]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[The Correspondents]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2183</guid>
+				<description><![CDATA[Ah schon wieder die The Correspondents. Überlicherweise für satten ElectroSwing bekannt, zeigen die Jungs mit diesem schönen Mix wo ihre Ursprünge liegen (NICHT HOUSE!!!) &#8211; Hört viel neues, mir noch unbekanntes, Zeusch: Bestimix 22: The Correspondents by Bestimix on Mixcloud &#8222;A journey through swing, jazz, 50s R&#38;B, be-bop, nu-soul, electro swing, hip-hop and chap-hop&#8220; courtesy [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>The Correspondents &#8211; Look What You Get</title>
+		<link>http://www.hopit.de/2010/11/the-correspondents-look-what-you-get/</link>
+				<pubDate>Wed, 24 Nov 2010 17:29:26 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[The Correspondents]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2122</guid>
+				<description><![CDATA[Hier nochn schicket Ding von The Correspondents &#8211; Look What You Get:]]></description>
+									</item>
+		<item>
+		<title>The Correspondents &#8211; Washington Square &#8211; Remake</title>
+		<link>http://www.hopit.de/2010/11/the-correspondents-washington-square-remake/</link>
+				<pubDate>Wed, 03 Nov 2010 12:29:10 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[remake]]></category>
+		<category><![CDATA[The Correspondents]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2045</guid>
+				<description><![CDATA[Das Video von The Correspondents &#8211; &#8218;Washington Square&#8216; kennt ihr bestimmt schon: &#8230; aber auch schon das Remake!? http://www.youtube.com/watch?v=51oYT6nvyC8 Nice + respekt! [via Twitter]]]></description>
+									</item>
+		<item>
+		<title>The Correspondents &#8211; I Wanna Be Like You</title>
+		<link>http://www.hopit.de/2010/10/the-correspondents-i-wanna-be-like-you/</link>
+				<pubDate>Fri, 15 Oct 2010 18:08:47 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[louis prima]]></category>
+		<category><![CDATA[remix]]></category>
+		<category><![CDATA[The Correspondents]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1963</guid>
+				<description><![CDATA[Letztens gabs ja schon das schöne Dschungelbuch Video &#8222;I Wanna Be Like You&#8220; mit Louis Prima, heute den Electro Swing Remix von The Correspondents, DAS Electro-Swing-Duo aus London.]]></description>
+									</item>
+	</channel>
+</rss>

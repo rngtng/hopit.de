@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>klassik &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/klassik/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 02 Dec 2010 18:45:47 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Klassik Swing &#8211; Bestimix 22 von The Correspondents</title>
+		<link>http://www.hopit.de/2010/12/klassik-swing-bestimix-22-von-the-correspondents/</link>
+				<pubDate>Thu, 02 Dec 2010 18:40:46 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[klassik]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[mixcloud]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[The Correspondents]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2183</guid>
+				<description><![CDATA[Ah schon wieder die The Correspondents. Überlicherweise für satten ElectroSwing bekannt, zeigen die Jungs mit diesem schönen Mix wo ihre Ursprünge liegen (NICHT HOUSE!!!) &#8211; Hört viel neues, mir noch unbekanntes, Zeusch: Bestimix 22: The Correspondents by Bestimix on Mixcloud &#8222;A journey through swing, jazz, 50s R&#38;B, be-bop, nu-soul, electro swing, hip-hop and chap-hop&#8220; courtesy [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>California Routine &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/california-routine/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 17 Dec 2009 21:52:12 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>15.Dez09, NSG: California Routine</title>
+		<link>http://www.hopit.de/2009/12/15-dez%e2%80%9909-nsg-california-routine/</link>
+				<pubDate>Thu, 17 Dec 2009 21:52:12 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Kurse]]></category>
+		<category><![CDATA[California Routine]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[NSG]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1213</guid>
+				<description><![CDATA[Das ist Lindy Hop! In den letzten drei Unterrrichtsstunden haben uns Marei und Ole die California Routine beigebracht. Hier das original von 1941: [googlevideo]http://video.google.com/videoplay?docid=5896097129162718121[/googlevideo] Ablauf: (Leader) 3x Swing Out Swing Circle Skip ups 45° Tuck Turn, Change Place Circle + Stop BS Jump, Tango Tuck Turn Barrel Roll Swing Out mit Jump auf 5 Shift [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

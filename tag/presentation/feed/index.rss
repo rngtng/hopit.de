@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>presentation &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/presentation/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sun, 30 Nov 2014 15:40:57 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>How to win a Dance Battle</title>
+		<link>http://www.hopit.de/2014/11/how-to-win-a-dance-battle/</link>
+				<pubDate>Sun, 30 Nov 2014 15:40:57 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[battle]]></category>
+		<category><![CDATA[dance]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[presentation]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4917</guid>
+				<description><![CDATA[Ich hab kürzlich einen Vortrag gegeben über: `How to win a Dance Battle`. Hier die Slides und meine Recherche Notes. Viel Spaß und Erfolg aufm Dancefloor 😉 How To Win Dance Battle Did I ever won a dance battle ? &#8211; Disclamer: I never did Did I ever took part at a dance battle ? [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

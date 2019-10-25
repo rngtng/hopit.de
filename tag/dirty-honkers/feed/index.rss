@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>dirty honkers &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/dirty-honkers/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 21:22:37 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Old House &#8211; Dirty Honkers (LordJustice Remix)</title>
+		<link>http://www.hopit.de/2013/03/old-house-dirty-honkers-lordjustice-remix/</link>
+				<pubDate>Fri, 15 Mar 2013 11:46:28 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[dirty honkers]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[mix]]></category>
+		<category><![CDATA[remix]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4481</guid>
+				<description><![CDATA[So, noch mehr ElectroSwing auf die Ohren, dieses Mal &#8217;nen Remix von LordJustice Old House &#8211; Dirty Honkers:]]></description>
+									</item>
+		<item>
+		<title>Berlin: Budzillus &#038; Dirty Honkers live Robofreak Show im Ritter Butzke</title>
+		<link>http://www.hopit.de/2011/05/berlin-budzillus-dirty-honkers-live-robofreak-show-im-ritter-butzke/</link>
+				<pubDate>Wed, 04 May 2011 14:52:21 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[Budzillus]]></category>
+		<category><![CDATA[dirty honkers]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[Ritter Butzke]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2544</guid>
+				<description><![CDATA[Bock auf BumBum Electro Swing? Budzillus &#38; Dirty Honkers swingen am Wochenende live in der Robofreak Show im [qype id=&#8220;113092&#8243;]. Lohnt sich! http://www.ritterbutzke.de/ [via Berlin Mitte Institut]]]></description>
+									</item>
+		<item>
+		<title>Electro Swing Club in Berlin: Dirty Honkers Live &#8211; Record Release</title>
+		<link>http://www.hopit.de/2010/12/electro-swing-club-in-berlin-dirty-honkers-live-record-release/</link>
+				<pubDate>Wed, 15 Dec 2010 14:49:44 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[dirty honkers]]></category>
+		<category><![CDATA[electro swing]]></category>
+		<category><![CDATA[festsaal]]></category>
+		<category><![CDATA[kruezberg]]></category>
+		<category><![CDATA[live]]></category>
+		<category><![CDATA[tavo]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2224</guid>
+				<description><![CDATA[So, damit ist auch endlich der Electro-Swing Trend in der Hauptstadt angekommen: Am Freitag startet Berlins first and biggest Electro-Swing Party im [qype id=&#8220;18575&#8243;]. Schaut euch nur dieses Aufgebot an: Dirty Honkers ( Live &#8211; Record Release) Afia Asbare Plast Orchester Typoboy Tavo Alle Farben Globalution Pyroman Cup of Jazz Bastian Kurzweil vs. KuFu Wuhuuuu, [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

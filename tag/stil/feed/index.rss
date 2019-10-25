@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>stil &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/stil/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Wed, 31 Aug 2011 14:04:05 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Von Swing bis Techno &#8211; Tanz, Musik und Klamotten in den letzten 100 Jahren</title>
+		<link>http://www.hopit.de/2011/08/von-swing-bis-techno-tanz-musik-und-klamotten-in-den-letzten-100-jahren/</link>
+				<pubDate>Wed, 31 Aug 2011 14:00:39 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[kleidung]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[stil]]></category>
+		<category><![CDATA[Swing]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3168</guid>
+				<description><![CDATA[Wuhuoooo! Ein Spitzen Video aller (vieler) Tanz/Musik und Klamotten Stile der letzen 100 Jahre. Wahnsinn! [Via Miranda, Thx!]]]></description>
+									</item>
+	</channel>
+</rss>

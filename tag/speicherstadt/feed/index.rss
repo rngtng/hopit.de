@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Speicherstadt &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/speicherstadt/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 03 May 2011 11:58:13 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Stompin At The Speicherstadt &#8211; Party mit Swing</title>
+		<link>http://www.hopit.de/2009/06/stompin%e2%80%99-at-the-speicherstadt-party-mit-swing/</link>
+				<pubDate>Mon, 22 Jun 2009 14:10:25 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[DJ]]></category>
+		<category><![CDATA[Hamburg]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[Party]]></category>
+		<category><![CDATA[Speicherstadt]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=580</guid>
+				<description><![CDATA[Hier ein gaaanz heißer Party-Tipp für Samstag von Folke und Georg: Stompin At The Speicherstadt Wir füllen spontan die Lücke im Angebot und trippelsteppen ab 20 Uhr in der Speicherstadt zu allem, was swingt! Gefeiert wird in einem historischen Speichergebäude mit Ausblick auf Kanäle und Lagerhäuser und einer schön großen Tanzfäche mit Holzfußboden. Eintritt 4 [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

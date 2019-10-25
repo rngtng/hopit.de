@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>revenue &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/revenue/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:27:00 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin: Kreuzberg Swing im Festsaal</title>
+		<link>http://www.hopit.de/2012/03/berlin-kreuzberg-swing-im-festsaal/</link>
+				<pubDate>Wed, 07 Mar 2012 15:34:07 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[FIL]]></category>
+		<category><![CDATA[kreuzberg]]></category>
+		<category><![CDATA[revenue]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3573</guid>
+				<description><![CDATA[Ui, das klingt mal spannend: Diesmal KREUZBERG SWING im Stil einer kleinen Revue, die aber tanzbar bleibt. Live werden SKULLDUGGERY SWING zwei 30 Minuten Sets spielen. Dazwischen legen DJ SIR und DJ TRÜMMERSWING ihre Hits auf. Die Berliner Lindy Hopperin AMANI SAID wird eine heitere Bauchtanzperformance machen und FIL (ja, DER FIL) wird zwei seiner [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tanzverhalten &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tanzverhalten/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:41:46 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Gute Tänzer, Schlechte Tänzer</title>
+		<link>http://www.hopit.de/2010/09/gute-tanzer-schlechte-tanzer/</link>
+				<pubDate>Thu, 09 Sep 2010 08:07:35 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Sonstiges]]></category>
+		<category><![CDATA[fun]]></category>
+		<category><![CDATA[tanzverhalten]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=1777</guid>
+				<description><![CDATA[René hat &#8217;ne schöne Studie über das Tanzverahalten von Männer gefunden. Pflichtlektüre für jeden der die wahren Killerm oves kenn will. Haha&#8230; Psychologists have used avatars to pinpoint the killer moves that can make men great dancers Ohje, also mal Demo Video anschauen und Artikel lesen: http://www.guardian.co.uk/science/2010/sep/08/psychologists-killer-dance-moves-men]]></description>
+									</item>
+	</channel>
+</rss>

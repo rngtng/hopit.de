@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ovelgönne &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/ovelgonne/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Tue, 03 May 2011 11:57:59 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swing Tanz am Övelgönne Elbstrand</title>
+		<link>http://www.hopit.de/2009/05/swing-tanz-am-ovelgonne-elbstrand/</link>
+				<pubDate>Sun, 17 May 2009 15:35:32 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[draussen]]></category>
+		<category><![CDATA[ovelgönne]]></category>
+		<category><![CDATA[sonne]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=487</guid>
+				<description><![CDATA[Hach, die Draussen Swing Tanz Saison ist am Samstag am Övelgönne Elbstrand erfolgreich gestartet. Die Swing Maschine Beta hatte zwar bissl Anlauf- und vorallem Lautstärke Schwierigkeiten, aber zum Glück hat Arne ausgeholfen &#8211; Vielen Dank! Ebenso Dank an Daniel für den DJ und an die vielen Tänzer die den Strand swingten! Erste schöne Eindrücke (mit [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

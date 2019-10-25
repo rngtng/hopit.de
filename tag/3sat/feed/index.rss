@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>3sat &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/3sat/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Thu, 18 Jan 2018 10:42:08 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>3Sat zeigt zwölfteilige Doku-Reihe über die Geschichte des Jazz</title>
+		<link>http://www.hopit.de/2010/12/3sat-zeigt-zwolfteilige-doku-reihe-uber-die-geschichte-des-jazz/</link>
+				<pubDate>Tue, 21 Dec 2010 14:25:03 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[3sat]]></category>
+		<category><![CDATA[geschichte]]></category>
+		<category><![CDATA[Jazz]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[tv]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2261</guid>
+				<description><![CDATA[Ahrg, fast verpasst &#8211; aber lieber zu spät als nie, somit: 3sat strahlt zur Zeit eine zwölfteilige Doku-Reihe über die Geschichte des Jazz aus. Jeden Tagum 12.00 Uhr wird eine weitere Episode des Jazz&#8216; behandelt. Gerne hätte ich natürlich &#8222;Swing 1937 bis 1941&#8220; und &#8222;Der Swing geht an die Front 1941 und 1942&#8220; gesehen &#8211; [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

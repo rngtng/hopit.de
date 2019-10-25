@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>sendung &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/sendung/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Sun, 21 Apr 2013 08:08:43 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Swingin&#8216; Swanee im Deutschlandradio Kultur: &#8222;Stay up Stan, the all night record man&#8220;</title>
+		<link>http://www.hopit.de/2013/04/swingin-swanee-im-deutschlandradio-kultur-stay-up-stan-the-all-night-record-man/</link>
+				<pubDate>Sun, 21 Apr 2013 08:08:12 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Musik]]></category>
+		<category><![CDATA[Radio]]></category>
+		<category><![CDATA[sendung]]></category>
+		<category><![CDATA[Swing]]></category>
+		<category><![CDATA[Swingin' Swanee]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=4532</guid>
+				<description><![CDATA[Heute, Sonntag 21. April, läuft um 18.05 auf dem Deutschlandradio Kultur Swingin&#8216; Swanee: &#8222;Stay up Stan, the all night record man&#8220; &#8211; Swing Songs über Disc Jockeys der 1930er und 1940er Jahre und Kostproben ihres Wirkens. Der erste DJ Star wurde Martin Block Mitte der 30er Jahre in New York, der mit legendären Moderationen ganze [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>

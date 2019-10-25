@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>tanzcafe &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/tanzcafe/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 20:33:15 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Berlin-Friedrichshagen: Tanzcafé im Kino Union</title>
+		<link>http://www.hopit.de/2012/01/berlin-friedrichshagen-tanzcafe-im-kino-union/</link>
+				<pubDate>Fri, 27 Jan 2012 14:20:53 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Events]]></category>
+		<category><![CDATA[berlin]]></category>
+		<category><![CDATA[kino]]></category>
+		<category><![CDATA[Tanz]]></category>
+		<category><![CDATA[tanzcafe]]></category>
+		<category><![CDATA[union]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=3486</guid>
+				<description><![CDATA[Im Tanzcafé wird&#8217;s winterlich &#8211; so wie draußen wahrscheinlich auch! Nun brauchen wir flotte Rhythmen um uns warm zu tanzen und die schönen Kleider auszuführen. Das Motto lautet diesmal &#8222;The Winter Dance Party&#8220; &#8211; auch als kleine Hommage an die gleichnamige Konzerttour 1959 mit diversen Rock&#8217;n&#8217;Roll Sängern und &#8211; Bands, während der am 03. Februar [&#8230;]]]></description>
+									</item>
+	</channel>
+</rss>
