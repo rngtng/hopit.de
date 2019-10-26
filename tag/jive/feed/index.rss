@@ -12,7 +12,7 @@
 	<atom:link href="http://www.hopit.de/tag/jive/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.hopit.de</link>
 	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
-	<lastBuildDate>Thu, 24 Nov 2011 17:44:41 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Oct 2019 21:38:14 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -36,6 +36,17 @@
 
 		<guid isPermaLink="false">http://www.hopit.de/?p=3354</guid>
 				<description><![CDATA[31.12.2011 / 21:00 Uhr / Eintritt Abendkasse 20€ / Vorverkauf 17€ Early bird an der BAR im Mandalay bis zum 03.12.2011 12€ !! DJs: DJ Cram (Elektro) DJ Swingy the Kid (Swing) &#8230; Band: LUX GOLD Burlesque: Amber Vanilla (Berlin) ZWEI FLOORS, LIVE-QUARTETT, DJ-SETS, BURLESQUE, ABSINTHE DJ-Sets, Specials und Live Sound die ganze Nacht. Auf [&#8230;]]]></description>
+									</item>
+		<item>
+		<title>The Jive Aces: Bring Me Sunshine</title>
+		<link>http://www.hopit.de/2011/07/the-jive-aces-bring-me-sunshine/</link>
+				<pubDate>Thu, 07 Jul 2011 11:21:16 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Swing]]></category>
+		<category><![CDATA[jive]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2986</guid>
+				<description><![CDATA[Hier ein schönes Sommerstück von The Jive Aces &#8211; Bring Me Sunshine Hätten die doch mal auf der Fusion gespielt&#8230; 🙂 [via Sonnenschein Mo]]]></description>
 									</item>
 	</channel>
 </rss>

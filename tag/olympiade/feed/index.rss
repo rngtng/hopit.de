@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>olympiade &#8211; HopIt!</title>
+	<atom:link href="http://www.hopit.de/tag/olympiade/feed/" rel="self" type="application/rss+xml" />
+	<link>http://www.hopit.de</link>
+	<description>Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo...</description>
+	<lastBuildDate>Fri, 25 Oct 2019 21:38:02 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	
+	<item>
+		<title>Lindy Hop &#8211; Olympisch in London 2012?!</title>
+		<link>http://www.hopit.de/2011/08/lindy-hop-olympisch-in-london-2012/</link>
+				<pubDate>Sat, 20 Aug 2011 11:53:32 +0000</pubDate>
+		<dc:creator><![CDATA[tobi]]></dc:creator>
+				<category><![CDATA[Videos]]></category>
+		<category><![CDATA[lindy hop]]></category>
+		<category><![CDATA[olympiade]]></category>
+		<category><![CDATA[Tanz]]></category>
+
+		<guid isPermaLink="false">http://www.hopit.de/?p=2984</guid>
+				<description><![CDATA[Hier ein kleines &#8218;promo&#8216; Video, dass Lindy Hop bei der Olympiade 2012 in London auf keinen Fall fehlen darf &#8211; Yay: http://www.london2012.com [via FB, Marco]]]></description>
+									</item>
+	</channel>
+</rss>
