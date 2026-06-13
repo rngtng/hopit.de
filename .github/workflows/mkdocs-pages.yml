@@ -31,7 +31,7 @@ jobs:
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
       - name: 🐍 Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.x"
 
@@ -49,7 +49,7 @@ jobs:
           find site -type f -print
 
       - name: ⬆️ Upload site artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v5
         with:
           path: site
 
@@ -67,11 +67,11 @@ jobs:
       # (optional) Wenn du dein CNAME-File im Root hast, stelle sicher,
       # dass es in den Pages‑Branch übernommen wird:
       - name: ✨ Configure Pages (CNAME handling)
-        uses: actions/configure-pages@v4
+        uses: actions/configure-pages@v6
 
       - name: 🚀 Deploy to GitHub Pages
         id: deploy-pages
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
 
       - name: 📌 Show final URL
         run: echo "✅ Site published at ${{ steps.deploy-pages.outputs.page_url }}"
