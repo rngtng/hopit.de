@@ -1,0 +1,77 @@
+# .github/workflows/mkdocs-pages.yml
+name: 📚 MkDocs → GitHub Pages
+
+on:
+  push:
+    branches:
+      - master                    # <- dein Entwicklungs‑Branch
+
+env:
+  NODE_VERSION: 24.x
+
+permissions:
+  contents: write   # zum Pushen in gh‑pages
+  pages: write      # für deploy-pages
+  id-token: write   # (optional)
+
+jobs:
+  # ---------------------------------------------------------------
+  # 1️⃣ Build‑Job – erzeugt das statische HTML
+  # ---------------------------------------------------------------
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: 🛠️ Git config (bot)
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+      - name: 🐍 Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: 📦 Install deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 📚 Build MkDocs site
+        run: mkdocs build --clean
+
+      - name: 🔍 Debug – list built files (optional)
+        run: |
+          echo "=== Inhalt von ./site ==="
+          find site -type f -print
+
+      - name: ⬆️ Upload site artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  # ---------------------------------------------------------------
+  # 2️⃣ Deploy‑Job – publiziert auf GitHub Pages
+  # ---------------------------------------------------------------
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy-pages.outputs.page_url }}
+
+    steps:
+      # (optional) Wenn du dein CNAME-File im Root hast, stelle sicher,
+      # dass es in den Pages‑Branch übernommen wird:
+      - name: ✨ Configure Pages (CNAME handling)
+        uses: actions/configure-pages@v4
+
+      - name: 🚀 Deploy to GitHub Pages
+        id: deploy-pages
+        uses: actions/deploy-pages@v4
+
+      - name: 📌 Show final URL
+        run: echo "✅ Site published at ${{ steps.deploy-pages.outputs.page_url }}"
