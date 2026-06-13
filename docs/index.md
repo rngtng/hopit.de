@@ -1,5 +1,5 @@
 ---
-title: Das ist Hop It!
+title: Das ist HopIt!
 ---
 
 ![](img/dance1.jpg){ align=left }
