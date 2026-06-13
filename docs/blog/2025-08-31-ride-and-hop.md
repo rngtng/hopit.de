@@ -8,7 +8,7 @@ hide:
 ---
 
 ## Sonntag, 31. August 2025, 14 Uhr
-![](./images/ride-n-hop.jpg)
+![](../img/ride-n-hop.jpg)
 ## Feine Radtour mit Swingtanz Picknick
 
 Macht euch sonntagsfein und kommt um **14 Uhr** zum [**Co-Labor** vor dem Weimarer Stadtschloss](https://www.klassik-stiftung.de/ihr-besuch/themenjahre/auf-bruch/co-labor/#c25478).
