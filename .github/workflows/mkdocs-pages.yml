@@ -4,7 +4,7 @@ name: 📚 MkDocs → GitHub Pages
 on:
   push:
     branches:
-      - master                    # <- dein Entwicklungs‑Branch
+      - main                    # <- dein Entwicklungs‑Branch
 
 env:
   NODE_VERSION: 24.x
