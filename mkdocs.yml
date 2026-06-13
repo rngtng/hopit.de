@@ -1,0 +1,46 @@
+site_name: Thüringen Swingen
+site_url: https://wwww.thürswingen.de
+site_description: Swing Tanz und Jazz in Thüringen
+site_author: Sebastian Schieke
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
+  - attr_list
+
+theme:
+  name: material
+  font: false
+  language: de
+  favicon: img/favicon.ico
+  logo: img/favicon.ico
+
+  palette:
+    primary: brown
+  features:
+    - navigation.expand
+
+plugins:
+  - search
+  - tags
+  - blog
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+  - mkdocs-video:
+      is_video: True
+      video_type: ogg
+
+hooks:
+  - hooks/flatten_archive.py
+
+extra_css:
+  - stylesheets/extra.css
+
+extra:
+  social:
+    - icon: fontawesome/brands/mastodon
+      link: https://social.tchncs.de/@hopit
