@@ -1,7 +1,7 @@
-site_name: Thüringen Swingen
-site_url: https://wwww.thürswingen.de
-site_description: Swing Tanz und Jazz in Thüringen
-site_author: Sebastian Schieke
+site_name: Hop It!
+site_url: https://wwww.hopit.de
+site_description: Swing Tanz und Jazz
+site_author: Sebastian
 markdown_extensions:
   - toc:
       permalink: true
