@@ -6,6 +6,7 @@ categories: veranstaltung
 hide:
   - toc
 ---
+![](./images/teadance-mascha.jpg)
 
 Monatlich am 2. Sonntag findet im Mascha in Weimar der **Lindyhop Teadance** statt. Beginn ist um 14:30 Uhr mit einem kostenlosen Schnupperkurs Swingtanzen vom Grüngold e.V. Von 15 bis 17 Uhr ist der Tanzboden frei.
 
