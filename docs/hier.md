@@ -41,6 +41,13 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringe
 | Nordhausen | JAZZ-Club Nordhausen | [https://jazzclub-nordhausen.de](https://jazzclub-nordhausen.de)
 | Gera | Häselburg | [https://haeselburg.org/haeselburg-jazz.html](https://haeselburg.org/haeselburg-jazz.html)
 
+# Bands zum Swingtanzen
+
+| Name | Was | Website
+| ---  | --- | ---
+| Inkspot | Lindyhop | https://www.inkspot.de
+| Hokos Renterband | Lindyhop, Charleston, Balboa | https://www.youtube.com/watch?v=PIDJryyWk7M
+
 # related stuff
 
 | Wo | Was | Website
