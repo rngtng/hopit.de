@@ -43,10 +43,14 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringe
 
 # Bands zum Swingtanzen
 
+Aus Thüringen und Sachsen
+
 | Name | Was | Website
 | ---  | --- | ---
-| Inkspot | Lindyhop | https://www.inkspot.de
-| Hokos Renterband | Lindyhop, Charleston, Balboa | https://www.youtube.com/watch?v=PIDJryyWk7M
+| Inkspot | Lindyhop | [https://www.inkspot.de](https://www.inkspot.de)
+| Hoko's Renterband | Lindyhop, Charleston, Balboa | [https://www.youtube.com/watch?v=PIDJryyWk7M](https://www.youtube.com/watch?v=PIDJryyWk7M)
+| neighbours-nightmare | | [https://hnolzen.github.io/neighbours-nightmare](https://hnolzen.github.io/neighbours-nightmare)
+| WE Swing | Lindyhop | [https://bach-advent.de/kuenstler/le-swing](https://bach-advent.de/kuenstler/le-swing)
 
 # related stuff
 
