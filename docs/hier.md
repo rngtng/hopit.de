@@ -28,8 +28,8 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringe
 | Weimar, Schützengasse 2, Mascha | 2. Sonntag eines Monats, ab 14:30 Uhr | Tea Dance mit kostenlosem Schnupperkurs von Grüngold e.V.
 | Jena, Weigelstraße 7, Off Bar | 1. Montag eines Monats, 19:30 Uhr | tanzbare Live Swing Musik (Lindyhop, Charleston, Collegiate und St. Louis Shag, Balboa) | [https://www.off-jena.de](https://www.off-jena.de)
 | Jena, Schenkstraße 21 (3. Etage) | Donnerstags, 20 Uhr | freies Training (Lindyhop, Charleston, Collegiate und St. Louis Shag, Balboa)
-| Jena, Tanzhaus e.V. | 4. Sonntag eines Monats (Winterhalbjahr) | | https://tanzhaus-jena.de/
-| Jena, Strand22 | 4. Sonntag eines Monats (Sommerhalbjahr)| Lindyhop und Shag | https://derstrand22.de/events/jazz-und-swing/
+| Jena, Tanzhaus e.V. | 4. Sonntag eines Monats (Winterhalbjahr) | | [https://tanzhaus-jena.de](https://tanzhaus-jena.de)
+| Jena, Strand22 | 4. Sonntag eines Monats (Sommerhalbjahr)| Lindyhop und Shag | [https://derstrand22.de/events/jazz-und-swing/](https://derstrand22.de/events/jazz-und-swing/)
 
 # Veranstaltungsorte für Jazzmusik
 
