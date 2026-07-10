@@ -14,7 +14,7 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringe
 |----|------|-----|--------
 | Erfurt, Marktstraße 6 | Montags, 18:15 - 19:30 Uhr und 19 - 20:30 Uhr, Freitags, 20:15 - 21:30 Uhr | Lindyhop | [https://gruengold.de/lindy-hop-jazz](https://gruengold.de/lindy-hop-jazz)
 | Weimar, Mascha, Schützengasse 2 | Mittwochs, 17:30 Uhr, 18:30 Uhr | Lindyhop, Charleston | [https://gruengold.de/lindy-hop-jazz](https://gruengold.de/lindy-hop-jazz)
-| Weimar, Unisport, Jakobsplan 1 | Dienstags | Charleston | [https://hspz.uni-weimar.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_7927][https://hspz.uni-weimar.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_7927]
+| Weimar, Unisport, Jakobsplan 1 | Dienstags | Charleston | [https://hspz.uni-weimar.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_7927](https://hspz.uni-weimar.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_7927)
 | Jena | Sonntags, 21 Uhr | Westcoast Swing | [https://www.tanznaeder.de/tanzkurs/west-coast-swing](https://www.tanznaeder.de/tanzkurs/west-coast-swing)
 | Jena | Dienstags, 19 Uhr | Lindyhop | [https://www.tc-kristall-jena.de/lindy-hop.html](https://www.tc-kristall-jena.de/lindy-hop.html)
 | Gera | unregelmäßig | | [https://www.instagram.com/lindy_hop_gera/](https://www.instagram.com/lindy_hop_gera/)
