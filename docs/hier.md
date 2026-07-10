@@ -14,7 +14,7 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringe
 |----|------|-----|--------
 | Erfurt, Marktstraße 6 | Montags, 18:15 - 19:30 Uhr und 19 - 20:30 Uhr, Freitags, 20:15 - 21:30 Uhr | Lindyhop | [https://gruengold.de/lindy-hop-jazz](https://gruengold.de/lindy-hop-jazz)
 | Weimar, Mascha, Schützengasse 2 | Mittwochs, 17:30 Uhr, 18:30 Uhr | Lindyhop, Charleston | [https://gruengold.de/lindy-hop-jazz](https://gruengold.de/lindy-hop-jazz)
-| Weimar, Unisport |  | Charleston
+| Weimar, Unisport, Jakobsplan 1 | Dienstags | Charleston | [https://hspz.uni-weimar.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_7927][https://hspz.uni-weimar.de/cgi/anmeldung.fcgi?mode=mobile&page=DET_7927]
 | Jena | Sonntags, 21 Uhr | Westcoast Swing | [https://www.tanznaeder.de/tanzkurs/west-coast-swing](https://www.tanznaeder.de/tanzkurs/west-coast-swing)
 | Jena | Dienstags, 19 Uhr | Lindyhop | [https://www.tc-kristall-jena.de/lindy-hop.html](https://www.tc-kristall-jena.de/lindy-hop.html)
 | Gera | unregelmäßig | | [https://www.instagram.com/lindy_hop_gera/](https://www.instagram.com/lindy_hop_gera/)
@@ -25,7 +25,7 @@ In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringe
 |----|------|-----|--------
 | Erfurt, Marktstraße 6 | Freitags | Freies Tanzen | [https://gruengold.de/lindy-hop-jazz](https://gruengold.de/lindy-hop-jazz)
 | Weimar, Mascha, Schützengasse 2 | Mittwochs, 19:30 Uhr | Lindyhop, Charleston | [https://gruengold.de/lindy-hop-jazz](https://gruengold.de/lindy-hop-jazz)
-| Weimar, Schützengasse 2, Mascha | 2. Sonntag eines Monats, ab 14:30 Uhr | Tea Dance mit kostenlosem Schnupperkurs von Grüngold e.V.
+| Weimar, Schützengasse 2, Mascha | 2. Sonntag eines Monats, ab 14:30 Uhr | Tea Dance mit kostenlosem Schnupperkurs von Grüngold e.V. | [https://www.mascha-weimar.de/](https://www.mascha-weimar.de/)
 | Jena, Weigelstraße 7, Off Bar | 1. Montag eines Monats, 19:30 Uhr | tanzbare Live Swing Musik (Lindyhop, Charleston, Collegiate und St. Louis Shag, Balboa) | [https://www.off-jena.de](https://www.off-jena.de)
 | Jena, Schenkstraße 21 (3. Etage) | Donnerstags, 20 Uhr | freies Training (Lindyhop, Charleston, Collegiate und St. Louis Shag, Balboa)
 | Jena, Tanzhaus e.V. | 4. Sonntag eines Monats (Winterhalbjahr) | | [https://tanzhaus-jena.de](https://tanzhaus-jena.de)
