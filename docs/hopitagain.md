@@ -8,4 +8,4 @@ hide:
 ---
 Wir haben **HopIt!** wiederbelebt.
 
-Frühere Inhalte von **hopit.de - Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo ...*** aus den Jahren 2009 - 2019 sind hier weiterhin abrufbar: [Zum Archiv](/archiv/).
+Frühere Inhalte von **hopit.de - Swing Tanz, Electro Swing, Lindy Hop, Jazz und mehr in Berlin, Hamburg und sonst wo ...*** aus den Jahren 2009 - 2019 sind hier weiterhin abrufbar: [Zum Archiv](/archiv/). Beachtet bitte, dass die alten Inhalte leider nicht durchsuchbar sind. Ihr müsst Euch also "von Hand durchklicken".
