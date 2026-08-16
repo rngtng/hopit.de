@@ -6,7 +6,7 @@ categories: info
 description: Eine Übersicht von Orten, an denen Du Swingtänze lernen, oder tanzen kannst.
 ---
 
-In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringen gesammelt. Wenn Du etwas ergänzen möchtest, melde dich gern per E-Mail unter: hallo@thürswingen.de
+In diesem Blogbeitrag werden Orte und Zeiten von Tanzkursen, Partys in Thüringen gesammelt. Wenn Du etwas ergänzen möchtest, melde dich gern per E-Mail unter: hallo@hopit.de
 
 # Tanzkurse
 
