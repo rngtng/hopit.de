@@ -13,4 +13,4 @@ hide:
 
 Nutzt die letzte Chance in diesem Jahr in der Barfüßerruine Swing zu tanzen. Ab 18 Uhr gibt es einen Crashkurs zum Ausprobieren. Von 19 - 22 Uhr könnt ihr das Erlernte gleich im "Socialdance" ausprobieren.
 
-https://sokoerfurt.de/programm/tanzabende
+Weitere Infos zum Sommerprogramm in der Barfüßerruine findet ihr auf der Website: [https://sokoerfurt.de/programm/tanzabende](https://sokoerfurt.de/programm/tanzabende)
