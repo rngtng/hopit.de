@@ -7,8 +7,6 @@ hide:
   - toc
 ---
 
-## umfangreiche Sammlung originaler Schellack Platten
+Letztens empfahl mir Achim die Website von Allotria, einer umfangreichen Sammlung originaler Schellack Platten und Grammophone. Dort finden sich gut sortierte Listen mit Titeln und Künstlern aus der Swing Ära (und davor)
 
-Letztens empfahl mir Achim die Website von Allotria, eine umfangreiche Sammlung originaler Schellack Platten und Grammophone. Dort finden sich gut sortierte Listen mit Titeln und Künstlern aus der Swing Ära (und davor)
-
-https://www.allotria.de
+[https://www.allotria.de](https://www.allotria.de)
