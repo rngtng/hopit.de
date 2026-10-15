@@ -7,5 +7,4 @@ categories: musik
 
 Neuer Song einer meiner Lieblingsbands: [James Hunter Six](https://www.jameshuntermusic.com/). Diesmal im Duett mit keinem Geringeren als Van Morrison! Besonders cool finde ich das Tanzvideo.
 
-
-[![YouTube Video ansehen](https://img.youtube.com/vi/SG-lALchA/hqdefault.jpg)](https://www.youtube.com/watch?v=SG-lALchA)
+[![Schaut Euch mal das Video auf der Homepage an](https://www.jameshuntermusic.com/videos.html)
